@@ -79,8 +79,8 @@ No s'han de col·locar més de dues pàgines consecutives de façanes. Alternar 
 - No utilitzar fotografies, escanejos 3D, motlles ni il·lustracions existents com a base de calco, traçat o generació.
 - La tradició del Seguici, els fets històrics i els noms poden explicar-se amb fonts i context, però això no concedeix dret a reproduir el disseny concret de cada figura.
 - D015 aprova la presència del Seguici i bestiari als dos llibres de pintar; D016 permet explorar interpretacions originals simplificades, però no estableix una excepció legal. La simplificació no elimina automàticament el risc de transformació.
-- Les figures concretes continuen pendents d'auditoria individual, identificació de titulars i llicències quan correspongui. No convertir la proposta genèrica dels punts 12–13 en una afirmació que aquestes figuras ja representen fidelment el Seguici de Reus.
-- Evitar estereotips ètnics o culturals, especialment en qualsevol referència a Moros, Indis i Negres. No utilitzar caricatures raciales, vestuarios panétnicos ni atributos inventados como supuesta autenticidad.
+- Les figures concretes continuen pendents d'auditoria individual, identificació de titulars i llicències quan correspongui. No convertir la proposta genèrica dels punts 12–13 en una afirmació que aquestes figures ja representen fidelment el Seguici de Reus.
+- Evitar estereotips ètnics o culturals, especialment en qualsevol referència a Moros, Indis i Negres. No utilitzar caricatures racialitzades, vestuarios panétnicos ni atributos inventados como supuesta autenticidad.
 
 ## 7. Fonts documentals de partida
 
@@ -99,7 +99,7 @@ No s'han de col·locar més de dues pàgines consecutives de façanes. Alternar 
 [13] Boca de la Mina, [Història del passeig](https://bocadelamina.reus.cat/historia-passeig).  
 [14] Ajuntament de Reus, [Parc de Sant Jordi](https://www.reus.cat/parc-sant-jordi).  
 [15] Generalitat de Catalunya, [Patrimoni Festiu — Festa Major de Sant Pere de Reus](https://patrimonifestiu.cultura.gencat.cat/Festes-i-elements-festius-catalogats-o-declarats/Festes-Majors/La-Festa-Major-de-Sant-Pere-de-Reus).  
-[16] Ajuntament de Reus, [Festa Major de Sant Pere](https://www.reus.cat/). Caldrà seleccionar i registrar la pàgina municipal específica del programa/edició que s'utilitzi per a cada dada.  
+[16] Ajuntament de Reus, [programa de gegants](https://www.reus.cat/sites/reus/files/programa_gegants_.pdf). Cal contrastar-hi les dades concretes de figures i recorreguts abans d'incorporar-les al text.  
 [17] Documentació interna de projecte: `research/auditoria-derechos-seguici-festiu.md` i `research/fichas-comparativas-gegants-reus-2026-11.md`. Aquestes fonts orienten els riscos, no acrediten permisos.
 
 **Marc legal:** BOE, [Reial decret legislatiu 1/1996, Llei de propietat intel·lectual](https://www.boe.es/eli/es/rdlg/1996/04/12/1), especialment articles 26 i 35.2. La seva aplicació a cada il·lustració concreta requereix revisió individual.
