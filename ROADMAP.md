@@ -50,3 +50,18 @@
 
 ## Próximo hito
 Revisar el prototipo de cuatro páginas de *Reus per pintar – petits* y validar legibilidad, grosor de línea y tamaño de las zonas con ceras gruesas; después hacer una prueba exploratoria con niños de 3–5 años. Con esos resultados, cerrar si se publican 12, 14 o 16 láminas y preparar una maqueta física de 32 páginas para comprobar formato y coste real en KDP. No cerrar aún el PVP hasta contrastar el precio final con la competencia y la percepción de valor.
+
+
+## Actualización 16-11-2026 — paginación de Reus per pintar – petits
+
+- [x] Preparar propuesta provisional de paginación de 32 páginas A4 con 14 láminas a una cara y reversos en blanco.
+- [ ] Revisar visualmente los cuatro esbozos originales (archivos gráficos pendientes de facilitar/localizar).
+- [ ] Ajustar selección final de 14 motivos y evitar duplicaciones arquitectónicas.
+- [ ] Maquetar dummy de 32 páginas y comprobar orden recto/reverso.
+- [ ] Probar PDF impreso a tamaño real con ceres gruixudes.
+- [ ] Validar adecuación con una prueba exploratoria con niños de 3–5 años, si es posible.
+- [ ] Confirmar coste y regalía en KDP con el PDF y las opciones finales.
+
+**Documento:** `books/reus-per-pintar-petits/proposta-paginacio-v1.md`.
+
+**Estado:** la paginación de 32 páginas es la recomendación de trabajo, no una decisión de producción cerrada. Los esbozos no se han podido inspeccionar visualmente; no producir ilustraciones definitivas hasta completar esa revisión.
