@@ -22,12 +22,27 @@
 ## Fase 2 – Desarrollo de los libros
 - [x] Mapa de contenidos de Reus per pintar – petits (16 motivos documentados; 14 de mayor prioridad y prototipo propuesto).
 - [x] Especificación del prototipo editorial de 4 páginas de petits (composición, elementos, línea, zonas, dificultad, reconocimiento y riesgos de PI).
-- [ ] Revisión del prototipo y validación de adecuación 3–5; las ilustraciones definitivas aún no se han producido.
+- [ ] Revisar el prototipo y validar adecuación 3–5; las ilustraciones definitivas aún no se han producido.
 - [ ] Mapa de contenidos de Reus per pintar – grans (12–20 ideas con fuente y objetivo).
 - [ ] Prototipo de 4 páginas de grans y revisión de adecuación 6–8.
 - [ ] Mapa de contenidos de Descobreix Reus! (12–20 actividades con fuente y objetivo).
 - [ ] Prototipo de 4 actividades de Descobreix y revisión de progresión 5–8.
 - [ ] Validar que no hay duplicación de experiencia entre títulos.
+- [ ] Integrar gegants y bestiari en la selección de contenidos de petits y grans, con niveles de complejidad diferenciados.
+- [ ] Definir el tratamiento del Seguici Festiu en Descobreix Reus! (contexto, nombres, juegos y actividades).
+
+## Fase 2A – Identificación de figuras y auditoría de derechos del Seguici Festiu
+- [ ] Crear inventario de figuras candidatas (gegants, capgrossos y bestiari), distinguiendo nombre, entidad responsable, autoría/diseño conocido y versión concreta que se pretende representar.
+- [ ] Consultar fuentes oficiales y primarias: Ajuntament de Reus, Reus Cultura, entidades del Seguici, asociaciones responsables, archivos y documentación de autoría.
+- [ ] Identificar, para cada diseño, autor/a o diseñador/a, titular originario y titular actual de derechos; no asumir que el custodio, propietario físico o gestor cultural es también titular de derechos.
+- [ ] Determinar qué persona o entidad tiene capacidad legal para conceder licencia comercial y si existen derechos de terceros sobre restauraciones, vestuario, accesorios o elementos gráficos.
+- [ ] Preparar una matriz de derechos con evidencia, contactos, incertidumbres, permiso requerido y estado.
+- [ ] Consultar directamente a los posibles titulares y solicitar autorización escrita cuando corresponda.
+- [ ] Verificar que la autorización cubra adaptación gráfica infantil, reproducción impresa bajo demanda, distribución comercial mediante KDP, territorios, duración, atribución y contraprestación.
+- [ ] Definir alternativas originales no confundibles con diseños protegidos para figuras cuya autorización no se consiga.
+- [ ] No aprobar arte final ni publicar reproducciones concretas mientras la situación de derechos siga sin resolver.
+
+**Criterio de cierre:** ninguna figura se considera autorizada por el mero hecho de aparecer en fuentes municipales, ser de uso festivo público o estar custodiada por una entidad. La auditoría debe documentar la fuente de cada conclusión y conservar la autorización escrita o justificar por qué no es necesaria.
 
 ## Fase 3 – Producción
 - [ ] Cerrar formato, páginas, papel y tinta tras prototipos.
@@ -49,50 +64,4 @@
 - [ ] No presentar colaboración institucional como aprobada hasta contar con acuerdo escrito.
 
 ## Próximo hito
-Revisar el prototipo de cuatro páginas de *Reus per pintar – petits* y validar legibilidad, grosor de línea y tamaño de las zonas con ceras gruesas; después hacer una prueba exploratoria con niños de 3–5 años. Con esos resultados, cerrar si se publican 12, 14 o 16 láminas y preparar una maqueta física de 32 páginas para comprobar formato y coste real en KDP. No cerrar aún el PVP hasta contrastar el precio final con la competencia y la percepción de valor.
-
-
-## Actualización 16-11-2026 — paginación de Reus per pintar – petits
-
-- [x] Preparar propuesta provisional de paginación de 32 páginas A4 con 14 láminas a una cara y reversos en blanco.
-- [ ] Revisar visualmente los cuatro esbozos originales (archivos gráficos pendientes de facilitar/localizar).
-- [ ] Ajustar selección final de 14 motivos y evitar duplicaciones arquitectónicas.
-- [ ] Maquetar dummy de 32 páginas y comprobar orden recto/reverso.
-- [ ] Probar PDF impreso a tamaño real con ceres gruixudes.
-- [ ] Validar adecuación con una prueba exploratoria con niños de 3–5 años, si es posible.
-- [ ] Confirmar coste y regalía en KDP con el PDF y las opciones finales.
-
-**Documento:** `books/reus-per-pintar-petits/proposta-paginacio-v1.md`.
-
-**Estado:** la paginación de 32 páginas es la recomendación de trabajo, no una decisión de producción cerrada. Los esbozos no se han podido inspeccionar visualmente; no producir ilustraciones definitivas hasta completar esa revisión.
-
-
-## Actualización 16-11-2026 — evaluación de esbozos y paginación v2
-
-- [x] Revisar el documento de evaluación de los cuatro esbozos y contrastarlo con el prototipo editorial.
-- [x] Comprobar la carpeta del producto: el informe textual de esbozos está versionado, pero no aparecen los cuatro PNG ni la hoja de contacto mencionados; la inspección gráfica directa sigue pendiente.
-- [x] Contrastar requisitos KDP actuales: mínimo de 24 páginas, páginas individuales, márgenes, resolución y tamaño personalizado.
-- [x] Confirmar el escenario económico de 32 páginas: 2,48 € de impresión por ejemplar en el tramo 24–110 páginas, tamaño grande y tinta negra; regalía aproximada de 3,51 € con precio de lista de 9,99 € sin IVA y tasa del 60%.
-- [ ] Recuperar/versionar los cuatro PNG y la hoja de contacto para inspección visual real.
-- [ ] Corregir los cuatro esbozos conforme a la revisión crítica; Casa Navàs requiere reconstrucción o sustitución.
-- [ ] Confirmar tamaño personalizado KDP (propuesta: 8,27 × 11,69 pulgadas) y márgenes antes de medir trazos y zonas.
-- [ ] Aprobar la selección definitiva de 12, 14 o 16 láminas.
-- [ ] Preparar dummy de 32 páginas, prueba impresa y validación exploratoria con niños de 3–5 años.
-
-**Documento:** `books/reus-per-pintar-petits/evaluacion-esbozos-y-paginacion-v2.md`.
-
-**Estado:** se mantiene 32 páginas como estructura de maqueta, no como decisión de producción. Los 14 motivos son provisionales. No se aprueban los esbozos ni se autoriza arte final. La tarifa de impresión no depende de añadir páginas dentro del tramo 24–110, pero la aceptación del tamaño personalizado y el coste mostrado por KDP deben confirmarse en el configurador.
-
-
-### Actualización 16-11-2026 — aprobación de la estructura de maqueta
-
-- [x] Obtener aprobación del usuario para la estructura de 32 páginas de la maqueta de *Reus per pintar – petits*.
-- [ ] Recuperar/versionar los cuatro PNG y la hoja de contacto para inspección visual real.
-- [ ] Revisar y corregir los cuatro esbozos; no aprobarlos automáticamente por existir una aprobación de paginación.
-- [ ] Resolver la selección definitiva de motivos (12, 14 o 16) mediante recomendación editorial y aprobación explícita.
-- [ ] Confirmar el tamaño personalizado KDP y los márgenes antes de cerrar el archivo de producción.
-- [ ] Preparar dummy de 32 páginas y comprobar orden de páginas, reversos en blanco y legibilidad a tamaño real.
-- [ ] Validar con ceras gruesas y, si es posible, prueba exploratoria con niños de 3–5 años.
-- [ ] Confirmar coste y regalía en KDP con las especificaciones y PDF definitivos.
-
-**Estado actualizado:** aprobada la estructura de 32 páginas exclusivamente para la maqueta. No están aprobados los 14 motivos, los esbozos, las ilustraciones ni las especificaciones finales de producción. Véase `books/reus-per-pintar-petits/evaluacion-esbozos-y-paginacion-v2.md`.
+Revisar el prototipo de cuatro páginas de *Reus per pintar – petits* y validar legibilidad, grosor de línea y tamaño de las zonas con ceras gruesas; después hacer una prueba exploratoria con niños de 3–5 años. En paralelo, iniciar el inventario preliminar de figuras del Seguici y la identificación de posibles titulares, sin bloquear las tareas editoriales que no dependan de esas autorizaciones. No producir ilustraciones de figuras concretas hasta resolver los derechos.
