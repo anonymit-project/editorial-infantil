@@ -1,8 +1,8 @@
 # Brief de generación externa — cuatro esbozos de *Reus per pintar – grans*
 
-**Versión:** 1.1  
+**Versión:** 1.2  
 **Fecha:** 16-11-2026  
-**Estado:** brief revisado tras evaluar la primera generación de la cercavila; nueva iteración pendiente. Las otras tres páginas siguen pendientes de generar y evaluar.  
+**Estado:** prompt de cercavila actualizado a v1.2 tras la valoración del usuario de la segunda generación. La versión guardada en tests/Gemini_cercavila.jpg se considera candidata válida para el prototipo, pendiente de incorporar y documentar formalmente junto con su ficha de procedencia. Se amplía la banda a cinco músicos. Las otras tres páginas siguen pendientes.  
 **Autorización editorial:** D021.  
 **Especificación vinculante:** `books/reus-per-pintar-grans/especificacio-prototip-v1.md`.
 
@@ -56,14 +56,14 @@ Aplicar literalmente esta dirección artística en las cuatro páginas:
 
 ## 5. Prompts listos para copiar
 
-Los prompts se proporcionan en inglés porque suele ser una lengua de control eficaz en generadores visuales. No deben traducirse ni resumirse al pegarlos. Cada prompt es autónomo e incluye sus restricciones.
+Los prompts se proporcionan en inglés porque suele ser una lengua de control eficaz en generadores visuales. No deben traducirse ni resumirse al pegarlos. Cada prompt es autónomo e incluye sus restricciones. La página 1 se ha ajustado a cinco músicos por aprobación D022; el cambio debe mantenerse en cualquier regeneración o edición.
 
 ### PÁGINA 1 — Una cercavila omple el carrer
 
 ```text
 Create ONE original rough concept sketch for a children's coloring book, as a single portrait 2:3 page for children aged 6–8. Scene: a joyful street parade in Reus, Catalonia, with a stronger sense of local place and festive energy. This is NOT a depiction of any specific real festival group and must not include any recognizable protected Seguici figure or design.
 
-COMPOSITION: create a lively, readable street scene with three distinct depth planes and a gentle diagonal movement across the page. In the foreground, on the sidewalk, show exactly two generic adults and one child watching together; their poses should clearly communicate excitement and attention. In the middle ground, show exactly two generic musicians walking while playing simple, invented wind instruments. Add three or four additional small spectators along the opposite sidewalk, spaced apart and large enough to read as people rather than tiny marks. Include a few simple, non-repeating festive details such as short plain strings of triangular bunting attached high between façades, but keep the street open and the page uncluttered.
+COMPOSITION: create a lively, readable street scene with three distinct depth planes and a gentle diagonal movement across the page. In the foreground, on the sidewalk, show exactly two generic adults and one child watching together; their poses should clearly communicate excitement and attention. In the middle ground, show exactly five generic musicians walking together as a small street band, with varied instruments: one trumpet, one trombone or low brass instrument, one clarinet, one transverse flute and one simple generic marching drum. Keep all instruments simplified and invented from basic shapes. This is a generic visual ensemble, not a documentary claim about the actual Reus Seguici band formation. Add three or four additional small spectators along the opposite sidewalk, spaced apart and large enough to read as people rather than tiny marks. Include a few simple, non-repeating festive details such as short plain strings of triangular bunting attached high between façades, but keep the street open and the page uncluttered.
 
 REUS IDENTITY: in the distant background, above the roofline and clearly separated from the nearer buildings, include the recognizable overall silhouette of the Campanar de la Prioral de Sant Pere in Reus as a simplified factual architectural landmark: a tall, slender bell tower with an octagonal upper section and a distinct pointed roof. Keep it secondary but unmistakable as a city landmark. Draw it as original simplified architecture from this verbal description only; do not reproduce a photograph, existing illustration, ornamental detail or exact facade. Do not add Casa Navàs, since it has its own page in this prototype.
 
@@ -191,8 +191,8 @@ Al incorporar cada imagen, anotar:
 
 ## 10. Estado y siguiente paso
 
-- D021 autoriza los cuatro esbozos.
-- Los prompts y criterios de evaluación quedan preparados en este documento.
-- No se ha generado ni aprobado ninguna imagen.
-- La fase de desarrollo visual continúa pendiente hasta que existan cuatro archivos individuales y hayan sido evaluados.
-- No se actualiza la fase a completada ni se autoriza arte final.
+- D021 autoriza los cuatro esbozos; D022 modifica la página 1 para incluir cinco músicos variados.
+- El usuario considera que la segunda generación de la cercavila guardada en tests/Gemini_cercavila.jpg tiene un planteamiento visual válido, salvo la necesidad de ampliar la banda; se trata como candidata de esbozo, no como arte final ni como validación jurídica.
+- La especificación y el prompt de la página 1 quedan actualizados a cinco músicos.
+- Las páginas 2–4 siguen pendientes de generación y evaluación. La fase completa continúa abierta hasta revisar las cuatro páginas y documentar sus fichas de procedencia.
+- No se autoriza arte final ni representación reconocible de diseños protegidos.
