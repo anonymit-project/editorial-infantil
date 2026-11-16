@@ -124,3 +124,19 @@ No se cierran todavía número de páginas, formato KDP, precio, proporción de 
 
 ## 8. Próxima tarea de investigación
 Completar la matriz competitiva manual en Amazon.es y canales culturales, con capturas/enlaces y fecha de consulta. Después, elegir el formato y número de páginas provisional para simular costes. No presentar estimaciones de demanda como hechos.
+
+## 9. Verificación adicional de fuentes oficiales (16-11-2026)
+
+La consulta directa de las páginas municipales confirma que Reus cataloga hasta 500 bienes patrimoniales y que Casa Navàs, Institut Pere Mata y Prioral de Sant Pere tienen el nivel máximo de protección patrimonial municipal. La protección patrimonial del edificio no debe confundirse automáticamente con derechos de autor sobre cualquier representación, pero sí aconseja documentar el tratamiento gráfico y las condiciones de acceso/uso. Fuente: https://www.reus.cat/serveis/patrimoni
+
+El Ayuntamiento describe cerca de 80 edificios modernistas catalogados y cita Casa Navàs, Institut Pere Mata, Casa Rull y Casa Gasull. Fuente: https://www.reus.cat/es/la-ciudad/modernista
+
+La Festa Major de Sant Pere conserva secuencias rituales de larga continuidad; el Ayuntamiento menciona la Mulassa, Ball de Bastons, gegants y gralles como elementos patrimoniales. Fuente: https://www.reus.cat/la-ciutat/cultural
+
+KDP confirma actualmente para Amazon.es un 50% de regalías para precios de lista iguales o inferiores a 9,98 EUR y un 60% a partir de 9,99 EUR en tapa blanda, antes de deducir impresión. El coste de impresión depende de tienda, páginas y tipo de tinta; KDP imprime bajo demanda sin pago inicial ni inventario. Fuentes: https://kdp.amazon.com/es_ES/help/topic/G201834330 y https://kdp.amazon.com/es_ES/help/topic/G201834340
+
+**Precisión comercial:** el umbral del 60% no implica por sí mismo rentabilidad. Para cada título se debe calcular (porcentaje x precio de lista sin IVA) menos impresión, y evaluar además la competencia, el coste de adquisición de clientes y las devoluciones/promoción si aplican.
+
+## 10. Limitaciones de la investigación competitiva
+
+No se ha podido construir todavía un panel de títulos competidores con datos de ficha contrastados. Por tanto, no se concluye que no existan competidores ni que haya un hueco de mercado demostrado. El análisis competitivo queda abierto y exige consulta manual de fichas de Amazon.es y canales culturales con fecha y captura de datos.
