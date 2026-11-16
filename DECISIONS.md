@@ -48,3 +48,7 @@ El usuario confirma que quiere mantener los gegants como contenido de la colecci
 **Límite jurídico:** el carácter simplificado, la modificación de rasgos o la ausencia de copia fotográfica no excluyen automáticamente una posible reproducción o transformación de una obra protegida. Antes de aprobar una ilustración reconocible se analizará qué elementos proceden de tradición, historia o convenciones genéricas y cuáles reproducen rasgos originales protegibles de un diseño concreto. Cuando subsista una dependencia de una obra protegida, se obtendrá autorización del titular o se modificará el diseño hasta evitarla.
 
 D016 confirma la inclusión editorial de los gegants, no aprueba una pareja o versión concreta ni sustituye la auditoría individual de derechos. D015 continúa vigente.
+
+
+## Aprobación del usuario — 16-11-2026 — D017
+El usuario aprueba mantener las seis candidatas (Vitxets, Moros, Indis, Japonesos, Negres y Carrasclet) en investigación documental. Esta aprobación no supone shortlist editorial aprobada, selección para los libros, autorización de ilustraciones ni permiso de reproducción. La investigación debe continuar con identificación individual de autores, titulares, derechos por componente y facultades de licencia. No autoriza contactar ni enviar solicitudes.
