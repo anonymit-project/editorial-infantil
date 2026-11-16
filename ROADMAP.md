@@ -41,6 +41,7 @@
 - [x] Preparar mapa de contactos y futuras solicitudes; no enviar comunicaciones.
 - [x] Elaborar fichas comparativas de Vitxets, Moros, Indis, Japonesos, Negres y Carrasclet.
 - [x] Preparar matriz de riesgos visuales/PI, dirección artística diferenciada por libro y lista priorizada de documentos/preguntas.
+- [x] Preparar expediente de aclaración documental por interlocutor y candidata (sin enviar solicitudes).
 - [ ] Confirmar con autores/representantes autoría exacta y cesiones de cada diseño.
 - [ ] Obtener del Ayuntamiento/Museu contratos de encargo, titularidad física, cesiones y documentación de custodia.
 - [ ] Identificar entidades portadoras/administradoras y comprobar si tienen mandato para conceder licencias.
@@ -50,7 +51,7 @@
 - [ ] Registrar respuestas y licencias, o documentar sustitución por diseño no confundible.
 - [ ] Cerrar selección definitiva solo después de conocer la situación jurídica de cada candidata.
 
-**Estado de auditoría (16-11-2026):** inventario y matriz preliminares documentados en research/auditoria-derechos-seguici-festiu.md. Las fichas comparativas, matriz de riesgos y dirección artística para gegants se han desarrollado en research/fichas-comparativas-gegants-reus-2026-11.md. La shortlist de parejas/figuras continúa sin aprobar; este entregable no selecciona ni autoriza ninguna reproducción. Las fuentes consultadas identifican autorías parciales (Ramon Ferran, Manel Llaurador, David Constantí y Modest Gené) y entidades de gestión/custodia, pero no acreditan titularidad actual ni capacidad efectiva para conceder licencias comerciales. No se ha contactado con nadie ni se han solicitado permisos. No hay figuras autorizadas. La shortlist queda pendiente de aprobación del usuario y la auditoría no puede cerrarse.
+**Estado de auditoría (16-11-2026):** inventario y matriz preliminares documentados en research/auditoria-derechos-seguici-festiu.md. Las fichas comparativas, matriz de riesgos y dirección artística para gegants se han desarrollado en research/fichas-comparativas-gegants-reus-2026-11.md. La shortlist de parejas/figuras continúa sin aprobar; el usuario aprobó mantener las seis candidatas en investigación documental (D017), sin autorizar ilustraciones ni contactos. El expediente de aclaración documental está preparado en research/expediente-aclaracion-documental-gegants-2026-11.md. Las fuentes consultadas identifican autorías parciales (Ramon Ferran, Manel Llaurador, David Constantí y Modest Gené) y entidades de gestión/custodia, pero no acreditan titularidad actual ni capacidad efectiva para conceder licencias comerciales. No se ha contactado con nadie ni se han solicitado permisos. No hay figuras autorizadas. La shortlist queda pendiente de aprobación del usuario y la auditoría no puede cerrarse.
 
 **Criterio de cierre:** ninguna figura se considera autorizada por aparecer en fuentes municipales, ser de uso festivo público o estar custodiada por una entidad. La auditoría debe documentar quién puede autorizar cada figura seleccionada y conservar la autorización escrita o justificar por qué no es necesaria.
 
@@ -74,7 +75,7 @@
 - [ ] No presentar colaboración institucional como aprobada hasta contar con acuerdo escrito.
 
 ## Próximo hito
-Revisar las fichas comparativas y decidir si se autoriza una shortlist de trabajo (sin que ello equivalga a licencia). Después, y solo con aprobación expresa, preparar y enviar solicitudes de aclaración documental a Ayuntamiento/Museu, autores y entidades responsables. No producir ilustraciones reconocibles ni cerrar la selección hasta verificar quién puede autorizar cada diseño y obtener los permisos necesarios.
+Revisar el expediente de aclaración documental y aprobar, si procede, el envío de consultas al Ayuntamiento/Museu, Colla Gegantera, autores/representantes y colaboradores. La aprobación actual (D017) solo permite mantener las seis candidatas en investigación y preparar el expediente: no autoriza contactos ni envíos. No producir ilustraciones reconocibles ni cerrar la selección hasta verificar quién puede autorizar cada diseño y obtener los permisos necesarios.
 
 
 **Actualización 16-11-2026 — criterio de representación de gegants:** el usuario confirma que se mantienen como contenido de la colección aunque se representen mediante interpretaciones originales y simplificadas. Añadida D016 en DECISIONS.md y una sección específica en la auditoría. La simplificación no se tratará como exención automática de derechos: falta evaluar los rasgos concretos de cada versión y determinar si la ilustración propuesta depende de elementos protegidos. La selección de parejas y figuras sigue abierta.
