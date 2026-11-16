@@ -2,7 +2,7 @@
 
 **Versión:** 1.2  
 **Fecha:** 16-11-2026  
-**Estado:** prompt de cercavila actualizado a v1.2 tras la valoración del usuario de la segunda generación. La versión guardada en tests/Gemini_cercavila.jpg se considera candidata válida para el prototipo, pendiente de incorporar y documentar formalmente junto con su ficha de procedencia. Se amplía la banda a cinco músicos. Las otras tres páginas siguen pendientes.  
+**Estado:** prompt de cercavila actualizado a v1.2 tras la valoración del usuario de la segunda generación. El usuario considera satisfactoria la segunda generación como planteamiento de esbozo, pendiente de incorporar el ajuste de cinco músicos y de guardar/verificar esa versión en el repositorio. Se amplía la banda a cinco músicos. Las otras tres páginas siguen pendientes.  
 **Autorización editorial:** D021.  
 **Especificación vinculante:** `books/reus-per-pintar-grans/especificacio-prototip-v1.md`.
 
@@ -192,7 +192,7 @@ Al incorporar cada imagen, anotar:
 ## 10. Estado y siguiente paso
 
 - D021 autoriza los cuatro esbozos; D022 modifica la página 1 para incluir cinco músicos variados.
-- El usuario considera que la segunda generación de la cercavila guardada en tests/Gemini_cercavila.jpg tiene un planteamiento visual válido, salvo la necesidad de ampliar la banda; se trata como candidata de esbozo, no como arte final ni como validación jurídica.
+- El usuario considera que la segunda generación de la cercavila tiene un planteamiento visual válido, salvo la necesidad de ampliar la banda; el archivo de esa segunda iteración aún debe guardarse y verificarse en el repositorio; se trata como candidata de esbozo, no como arte final ni como validación jurídica.
 - La especificación y el prompt de la página 1 quedan actualizados a cinco músicos.
 - Las páginas 2–4 siguen pendientes de generación y evaluación. La fase completa continúa abierta hasta revisar las cuatro páginas y documentar sus fichas de procedencia.
 - No se autoriza arte final ni representación reconocible de diseños protegidos.
