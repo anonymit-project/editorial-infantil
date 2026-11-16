@@ -20,7 +20,7 @@ terminados para presentar una posible colaboración a ReusCultura.
 - Ilustraciones más elaboradas.
 - Escenas y elementos reconocibles de Reus.
 - Retos y actividades sencillas.
-- Incorporará una selección de gegants y bestiari del Seguici Festiu con mayor detalle que la versión petits, condicionada a la identificación de titulares y autorizaciones necesarias.
+- Su eje principal serán los gegants y el bestiari del Seguici Festiu; el patrimonio urbano e histórico tendrá un peso complementario sustancial, mayor que en *petits*. La distribución exacta y las figuras concretas siguen pendientes. Cualquier representación reconocible está condicionada a identificar titulares y obtener las autorizaciones necesarias.
 
 ### Descobreix Reus!
 - Edad: 5–8 años.
