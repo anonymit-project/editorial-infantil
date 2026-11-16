@@ -73,3 +73,6 @@
 
 ## Próximo hito
 Resolver la shortlist editorial propuesta y, con aprobación expresa del usuario, enviar solicitudes de aclaración documental a Ayuntamiento/Museu, autores y entidades responsables. No producir ilustraciones reconocibles ni cerrar la selección hasta verificar quién puede autorizar cada diseño y obtener los permisos necesarios.
+
+
+**Actualización 16-11-2026 — criterio de representación de gegants:** el usuario confirma que se mantienen como contenido de la colección aunque se representen mediante interpretaciones originales y simplificadas. Añadida D016 en DECISIONS.md y una sección específica en la auditoría. La simplificación no se tratará como exención automática de derechos: falta evaluar los rasgos concretos de cada versión y determinar si la ilustración propuesta depende de elementos protegidos. La selección de parejas y figuras sigue abierta.
