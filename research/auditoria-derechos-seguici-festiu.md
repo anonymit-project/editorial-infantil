@@ -196,3 +196,20 @@ No basta una autorización verbal, permiso para fotografiar, invitación a parti
 Alternativa: mantener solo bestiario y excluir provisionalmente gegants/Carrasclet. Reduce complejidad de derechos, pero resta variedad histórica.
 
 **La auditoría permanece abierta.** No hay figuras autorizadas y no debe iniciarse ninguna ilustración reconocible hasta documentar quién puede licenciar cada una y obtener autorización escrita cuando proceda.
+
+
+## 9. Criterio específico: interpretaciones originales de gegants
+
+El usuario confirma que los gegants deben mantenerse como contenido de la colección, aunque las ilustraciones no reproduzcan fielmente las figuras físicas. Se priorizarán interpretaciones originales, simplificadas y adaptadas a cada franja de edad, conservando referencias culturales suficientes para permitir su reconocimiento.
+
+Este criterio editorial **no equivale a una exención de derechos**. La simplificación, estilización, cambio de proporciones o modificación del vestuario no eliminan por sí solos la posibilidad de que exista reproducción o transformación de una obra protegida. Tampoco la existencia de dibujos similares en Internet demuestra que el diseño esté en dominio público o que su uso comercial esté autorizado.
+
+Para cada gegant candidato, la revisión gráfica deberá separar:
+- elementos históricos, tradicionales o convencionales que no sean apropiables en exclusiva como tales;
+- rasgos originales concretos del diseño escultórico, vestuario, atributos o versión contemporánea;
+- elementos añadidos por restauradores, diseñadores de vestuario o autores posteriores;
+- nombres y denominaciones, que requieren una comprobación diferenciada si funcionan como marca u otro signo protegido.
+
+La estrategia preferente será construir el personaje a partir de referencias históricas y culturales documentadas y de una dirección artística propia, evitando calcar fotografías, ilustraciones existentes, escaneos, moldes o rasgos expresivos distintivos de una versión contemporánea. Si el reconocimiento depende sustancialmente de rasgos originales protegidos, se identificará al titular y se solicitará autorización; si no puede obtenerse, se rediseñará para eliminar esa dependencia o se sustituirá el motivo.
+
+La aprobación de esta estrategia no cierra la selección de parejas ni autoriza ilustraciones. Se mantiene la obligación de documentar la situación jurídica de cada figura seleccionada.
