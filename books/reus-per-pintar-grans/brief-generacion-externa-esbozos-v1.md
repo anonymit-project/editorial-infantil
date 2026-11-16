@@ -1,8 +1,8 @@
 # Brief de generación externa — cuatro esbozos de *Reus per pintar – grans*
 
-**Versión:** 1.0  
+**Versión:** 1.1  
 **Fecha:** 16-11-2026  
-**Estado:** brief de trabajo preparado; pendiente generar y evaluar imágenes.  
+**Estado:** brief revisado tras evaluar la primera generación de la cercavila; nueva iteración pendiente. Las otras tres páginas siguen pendientes de generar y evaluar.  
 **Autorización editorial:** D021.  
 **Especificación vinculante:** `books/reus-per-pintar-grans/especificacio-prototip-v1.md`.
 
@@ -61,18 +61,22 @@ Los prompts se proporcionan en inglés porque suele ser una lengua de control ef
 ### PÁGINA 1 — Una cercavila omple el carrer
 
 ```text
-Create ONE original rough concept sketch for a children's coloring book, as a single portrait 2:3 page for children aged 6–8. Scene: a lively but uncluttered generic street parade passing through a town street. This is not a depiction of any specific real festival group.
+Create ONE original rough concept sketch for a children's coloring book, as a single portrait 2:3 page for children aged 6–8. Scene: a joyful street parade in Reus, Catalonia, with a stronger sense of local place and festive energy. This is NOT a depiction of any specific real festival group and must not include any recognizable protected Seguici figure or design.
 
-COMPOSITION: gentle street perspective with three clearly readable depth planes. In the foreground, on the sidewalk, show exactly two generic adults and one child watching the parade. In the middle ground, show exactly two generic musicians playing simplified, generic wind instruments. In the background, show simple unbranded town façades and a small, sparse line of spectators. Keep the central street area open and visually calm so the viewer can understand the movement and depth.
+COMPOSITION: create a lively, readable street scene with three distinct depth planes and a gentle diagonal movement across the page. In the foreground, on the sidewalk, show exactly two generic adults and one child watching together; their poses should clearly communicate excitement and attention. In the middle ground, show exactly two generic musicians walking while playing simple, invented wind instruments. Add three or four additional small spectators along the opposite sidewalk, spaced apart and large enough to read as people rather than tiny marks. Include a few simple, non-repeating festive details such as short plain strings of triangular bunting attached high between façades, but keep the street open and the page uncluttered.
 
-ART DIRECTION: original black-and-white coloring-book line art, clean closed outlines, consistent medium black line weight, slightly more sophisticated than preschool coloring art but fully suitable for ages 6–8. Large and medium enclosed coloring areas, approximately 12–18 main areas. Friendly natural poses, clear silhouettes, balanced spacing, a few secondary details only. No tiny instrument keys, no dense crowd, no repetitive cobblestones, no fabric patterns.
+REUS IDENTITY: in the distant background, above the roofline and clearly separated from the nearer buildings, include the recognizable overall silhouette of the Campanar de la Prioral de Sant Pere in Reus as a simplified factual architectural landmark: a tall, slender bell tower with an octagonal upper section and a distinct pointed roof. Keep it secondary but unmistakable as a city landmark. Draw it as original simplified architecture from this verbal description only; do not reproduce a photograph, existing illustration, ornamental detail or exact facade. Do not add Casa Navàs, since it has its own page in this prototype.
 
-STRICT EXCLUSIONS: absolutely no giants, no giant silhouettes, no giant costumes, no fantasy parade creatures, no animals from a local bestiary, no distinctive festival props, no recognizable uniforms, no logos, no crests, no banners, no signs, no lettering, no identifiable Reus Seguici Festiu designs. Instruments must be generic and invented from basic shapes, not copies of a distinctive real instrument design.
+STREET ENVIRONMENT: give the surrounding façades more individual character through varied rooflines, balconies, window proportions and simple traditional urban details, while keeping them invented and generic. Avoid a row of blank rectangular blocks. Do not add shop names, street names, plaques or readable signs.
 
-Pure black outlines on a plain white background. No color, no gray, no shading, no gradients, no hatching, no large black filled areas, no photorealism, no 3D render, no decorative border, no title, no text, no watermark. Entire scene must be invented from this written brief, not based on a photograph or existing illustration.
+ART DIRECTION: original black-and-white coloring-book line art, clean closed outlines, consistent medium black line weight, suitable for ages 6–8. Use large and medium enclosed coloring areas, approximately 14–18 main areas. Make the scene feel fuller and more animated than the first test, but preserve clear white space and a strong hierarchy. Use natural walking poses and clear silhouettes. Keep faces and clothing simple; no tiny instrument keys, dense crowds, repetitive cobblestones or fabric patterns.
+
+STRICT EXCLUSIONS: absolutely no giants, giant silhouettes, giant costumes, capgrossos, fantasy parade creatures, animals from a local bestiary, distinctive festival props, recognizable uniforms, logos, crests, flags, banners bearing symbols, lettering or identifiable Reus Seguici Festiu designs. The musicians' instruments and all festive details must be generic and invented from basic shapes.
+
+Pure black outlines on a plain white background. No color, gray, shading, gradients, hatching, large black filled areas, photorealism, 3D render, decorative border, title, text or watermark. Entire scene must be invented from this written brief, not based on a photograph or existing illustration.
 ```
 
-**Qué revisar:** tres personajes en primer plano; dos músicos en plano medio; calle abierta; profundidad perceptible; instrumentos sencillos; ausencia total de figuras festivas reconocibles. Si la IA añade un gegant, una criatura o un elemento identificable, descartar.
+**Qué revisar en la segunda iteración:** familia en primer plano; dos músicos en movimiento; 3–4 espectadores adicionales legibles; campanario reconocible pero secundario; fachadas con carácter; ambiente festivo sin saturación; superficies coloreables; ausencia total de figuras festivas reconocibles. Comparar con la primera prueba (`tests/Gemini_cercavila.jpg`): debe mejorar la identidad de Reus y la riqueza narrativa sin perder limpieza ni coloreabilidad. Si el campanario sale irreconocible o se inventan detalles arquitectónicos excesivos, corregir la descripción o descartar la iteración.
 
 ### PÁGINA 2 — Casa Navàs i la plaça del Mercadal
 
