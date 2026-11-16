@@ -20,12 +20,12 @@
 **Documento:** research/analisis-competitivo-libros-infantiles-ciudades-patrimonio-2026-11.md
 
 ## Fase 2 – Desarrollo de los libros
-- [ ] Mapa de contenidos de Reus per pintar – petits (12–20 ideas con fuente y objetivo).
+- [x] Mapa de contenidos de Reus per pintar – petits (16 motivos documentados; 14 de mayor prioridad y prototipo propuesto).
 - [ ] Prototipo de 4 páginas de petits y revisión de adecuación 3–5.
 - [ ] Mapa de contenidos de Reus per pintar – grans (12–20 ideas con fuente y objetivo).
 - [ ] Prototipo de 4 páginas de grans y revisión de adecuación 6–8.
 - [ ] Mapa de contenidos de Descobreix Reus! (12–20 actividades con fuente y objetivo).
-- [ ] Prototipo de 4 páginas de Descobreix y revisión de progresión 5–8.
+- [ ] Prototipo de 4 actividades de Descobreix y revisión de progresión 5–8.
 - [ ] Validar que no hay duplicación de experiencia entre títulos.
 
 ## Fase 3 – Producción
@@ -45,4 +45,4 @@
 - [ ] No presentar colaboración institucional como aprobada hasta contar con acuerdo escrito.
 
 ## Próximo hito
-Construir los tres mapas de contenidos y prototipos de cuatro páginas. No cerrar aún páginas finales, formato ni PVP: deben depender de los prototipos, la especificación de impresión y la simulación de costes KDP.
+Preparar el prototipo de cuatro páginas de *Reus per pintar – petits* con campanar, parada de mercat, Casa Navàs i passeig de la Boca de la Mina. Revisar legibilidad, grosor de línea y tamaño de las zonas para colorear con ceres gruixudes. No cerrar todavía páginas, formato ni PVP: dependerán de la prueba y de la simulación de costes KDP.
