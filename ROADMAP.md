@@ -65,3 +65,20 @@ Revisar el prototipo de cuatro páginas de *Reus per pintar – petits* y valida
 **Documento:** `books/reus-per-pintar-petits/proposta-paginacio-v1.md`.
 
 **Estado:** la paginación de 32 páginas es la recomendación de trabajo, no una decisión de producción cerrada. Los esbozos no se han podido inspeccionar visualmente; no producir ilustraciones definitivas hasta completar esa revisión.
+
+
+## Actualización 16-11-2026 — evaluación de esbozos y paginación v2
+
+- [x] Revisar el documento de evaluación de los cuatro esbozos y contrastarlo con el prototipo editorial.
+- [x] Comprobar la carpeta del producto: el informe textual de esbozos está versionado, pero no aparecen los cuatro PNG ni la hoja de contacto mencionados; la inspección gráfica directa sigue pendiente.
+- [x] Contrastar requisitos KDP actuales: mínimo de 24 páginas, páginas individuales, márgenes, resolución y tamaño personalizado.
+- [x] Confirmar el escenario económico de 32 páginas: 2,48 € de impresión por ejemplar en el tramo 24–110 páginas, tamaño grande y tinta negra; regalía aproximada de 3,51 € con precio de lista de 9,99 € sin IVA y tasa del 60%.
+- [ ] Recuperar/versionar los cuatro PNG y la hoja de contacto para inspección visual real.
+- [ ] Corregir los cuatro esbozos conforme a la revisión crítica; Casa Navàs requiere reconstrucción o sustitución.
+- [ ] Confirmar tamaño personalizado KDP (propuesta: 8,27 × 11,69 pulgadas) y márgenes antes de medir trazos y zonas.
+- [ ] Aprobar la selección definitiva de 12, 14 o 16 láminas.
+- [ ] Preparar dummy de 32 páginas, prueba impresa y validación exploratoria con niños de 3–5 años.
+
+**Documento:** `books/reus-per-pintar-petits/evaluacion-esbozos-y-paginacion-v2.md`.
+
+**Estado:** se mantiene 32 páginas como estructura de maqueta, no como decisión de producción. Los 14 motivos son provisionales. No se aprueban los esbozos ni se autoriza arte final. La tarifa de impresión no depende de añadir páginas dentro del tramo 24–110, pero la aceptación del tamaño personalizado y el coste mostrado por KDP deben confirmarse en el configurador.
