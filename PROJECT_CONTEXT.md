@@ -100,3 +100,7 @@ El mapa v1.1 y la distribución orientativa 7/5/2 están aprobados (D020). Tambi
 
 ## Actualización 16-11-2026 — prototipo visual de grans
 El usuario ha valorado favorablemente la segunda generación de la página de cercavila como base de esbozo; esa segunda versión todavía no está verificada en el repositorio, con el ajuste aprobado D022: ampliar la banda a cinco músicos con instrumentos variados y genéricos. La especificación está en v1.1 y el brief de generación externa en v1.2. Esto no constituye arte final ni aprobación jurídica. Las páginas de Casa Navàs/Mercadal, Boca de la Mina y preparativos festivos siguen pendientes de generación y revisión.
+
+
+## Actualización 16-11-2026 — auditoría de derechos del Seguici (D023)
+Se aprueba investigar sistemáticamente las figuras del Seguici previstas para la colección y clasificarlas por figura y componente: reproducción bastante fiel solo con dominio público o autorización acreditados; evocación mediante rasgos culturales/genéricos y diseño independiente; o no representar la figura concreta sin licencia/aclaración adicional. Se documentarán autorías, titulares, fechas, componentes, fuentes y certeza. El trazo infantil grueso y simplificado se considera un factor de análisis, no una exención. La fase no autoriza contactos ni arte reconocible; véase D023 y se mantiene D018.
