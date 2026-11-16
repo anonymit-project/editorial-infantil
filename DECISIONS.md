@@ -29,3 +29,14 @@ El mapa de contenidos de *Reus per pintar – petits* proposa 16 motius, una sel
 
 ## Actualización económica 16-11-2026
 S'ha documentat una simulació econòmica preliminar de KDP per a *Reus per pintar – petits* a `commercial/viabilitat-economica-reus-per-pintar-petits-kdp-2026-11.md`. D013 registra només l'escenari recomanat per poder-lo revisar; no aprova encara el format, la paginació ni el PVP. Cal confirmar-los amb el prototip, el PDF final i el calculador de KDP.
+
+
+## Actualización 16-11-2026 — propuesta de paginación de petits
+
+**D014 — Proponer una maqueta de 32 páginas A4, tapa blanda, interior negro sobre papel blanco, con 14 láminas en páginas impares y reversos en blanco.** Estado: propuesta recomendada, pendiente de inspección de los cuatro esbozos gráficos y prueba impresa. La estructura reserva las páginas 1–4 para portadella, créditos, instrucción breve y una página en blanco; las láminas ocupan las páginas 5, 7, 9…31 y sus reversos quedan en blanco.
+
+La selección de 14 motivos sigue siendo provisional. Se evitará duplicar visualmente la Prioral/campanar y Casa Rull/Casa Gasull. La lámina «El meu racó de Reus» se plantea como cierre creativo, pendiente de validar su valor frente a un motivo patrimonial adicional.
+
+Documento: `books/reus-per-pintar-petits/proposta-paginacio-v1.md`.
+
+**Limitación de esta revisión:** se han revisado las especificaciones escritas, pero no estaban disponibles los cuatro archivos gráficos para inspección directa. No se aprueba todavía la calidad visual ni se autoriza producir ilustraciones definitivas.
