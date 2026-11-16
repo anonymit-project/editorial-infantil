@@ -1,141 +1,127 @@
 # Mapa de continguts — Reus per pintar – grans (6–8 anys)
 
-**Versió:** 1.0  
+**Versió:** 1.1  
 **Data:** 16-11-2026  
-**Estat:** proposta editorial per revisar; no aprovada ni il·lustrada  
-**Abast:** 16 motius potencials, amb experiència de coloreig d'observació, escenes narratives i reptes breus. Les figures concretes del Seguici queden condicionades a l'auditoria de drets.
+**Estat:** proposta editorial reestructurada segons D019; pendent d'aprovació del mapa. No autoritza esbossos recognoscibles ni art final.  
+**Abast:** banc de motius del Seguici Festiu, patrimoni i vida urbana; proposta de distribució orientativa per a un llibre centrat en gegants i bestiari.
 
-## 1. Posicionament editorial
+## 1. Posicionament editorial aprovat
 
-*Grans* no serà una versió de *petits* amb més línies. Ha d'oferir una experiència diferent: observar, descobrir relacions entre elements, completar escenes i afrontar detalls que requereixen més precisió, però sense convertir cada pàgina en una làmina atapeïda.
+*Reus per pintar – grans* serà principalment un llibre per pintar **gegants i bestiari del Seguici Festiu de Reus**. El patrimoni urbà i històric tindrà més pes i desenvolupament que a *petits*, però actuarà com a segon eix complementari. No ha de semblar un llibre genèric de monuments amb dues pàgines de festa major.
 
-**Diferència respecte a petits**
-- *Petits:* una silueta o idea principal, formes grans, fons nets i èxit ràpid en el coloreig.
-- *Grans:* escenes amb diversos plans, arquitectura amb detalls seleccionats, personatges genèrics en acció, patrons amplis i petits reptes d'observació.
-- No reutilitzar la mateixa composició ni limitar-se a afegir finestres, rajoles o ornaments als dibuixos de *petits*.
-- Cada pàgina ha de continuar sent una il·lustració per acolorir, no una pàgina de text o una fitxa escolar.
+La diferència per edat respecte a *petits* no serà només afegir línies:
+- *Petits* (3–5): una forma principal, contorns gruixuts, grans superfícies i fons mínims.
+- *Grans* (6–8): figures amb més estructura i detalls seleccionats; parelles i grups en moviment; escenes de cercavila amb diversos plans; arquitectura i patrimoni amb més informació visual; reptes opcionals d'observació.
+- Cada làmina ha de continuar sent atractiva per acolorir. Els textos i reptes no han de convertir-la en una fitxa escolar.
 
-**Criteris gràfics inicials**
-- Contorns negres tancats i clars, amb gruix consistent però menys pesant que a *petits*.
-- Complexitat mitjana: diversos grups d'elements i detalls interiors seleccionats, evitant trames minúscules.
-- Fons amb informació útil (carrer, plaça, arbres, públic), no decoració aleatòria.
-- Personatges i establiments secundaris genèrics; sense retrats, marques, rètols comercials ni uniformes identificables.
-- Reptes curts i opcionals: trobar, comptar, comparar, seguir un recorregut o detectar un detall.
+**D019 — proporció editorial de treball:** aproximadament la meitat de les làmines es dedicarà a gegants, bestiari i escenes del Seguici; l'altra meitat, a patrimoni de Reus i vida urbana. La proporció és una guia de composició, no una paginació aprovada.
 
-## 2. Matriu de continguts
+## 2. Criteris d'art i experiència
 
-La complexitat és una proposta per a 6–8 anys, no una mesura objectiva del monument. Els riscos es refereixen a la il·lustració proposada, no a l'ús del nom o del fet històric en text.
+- Contorns negres tancats, consistents i aptes per imprimir; més fins que a *petits*, però sense filigranes massa petites.
+- Una figura principal o una escena llegible per pàgina. Detall interior mitjà, no hiperrealista.
+- En figures festives, donar importància a escala, volum, vestuari, moviment, música i relació amb els portadors, però només reproduir trets específics després de resoldre'n els drets.
+- Evitar que el color sigui l'únic tret d'identificació: les làmines són en blanc i negre.
+- No convertir les parelles històriques en un catàleg d'ètnies. Especial cura amb les denominacions tradicionals Moros, Indis i Negres: contextualització històrica, cap caricatura racial, cap indumentària inventada com a falsa autenticitat.
+- No utilitzar fotografies, escanejos 3D, motlles ni il·lustracions existents com a base de calcar, traçar o generar.
+- No copiar rètols, logos, escuts, cartells, marques, mapes comercials, interiors ni decoració artística separada.
+- Personatges secundaris, músics i públic: dissenys originals genèrics, sense uniformes identificables ni retrats de persones reals.
 
-| # | Motiu / valor local | Escena original proposada i repte | Font documental de partida | Complexitat | Risc / condició |
-|---:|---|---|---|---|---|
-| 1 | **Una tarda a la plaça del Mercadal.** El centre cívic i comercial de Reus. | Escena panoràmica amb diverses persones, terrasses genèriques i façanes simplificades; trobar tres rellotges o tres elements circulars introduïts expressament. No replicar la composició de *petits*. | Reus Turisme, Plaça del Mercadal; Ajuntament, Història [1][2]. | Mitjana | Baix-mitjà: espai públic; no copiar fotografies, rètols, marques ni detalls d'obres artístiques integrades. |
-| 2 | **Una ruta modernista pel centre.** Reus conserva un conjunt extens d'edificis modernistes. | Vista de carrer en perspectiva amb dues o tres façanes inspirades en trets arquitectònics documentats, però sense calcar un únic edifici; seguir un itinerari marcat amb símbols. | Reus Turisme, Ruta del Modernisme [3]. | Mitjana-alta | Baix-mitjà: dibuix arquitectònic original d'edificis visibles des del carrer; evitar copiar fotografies o dissenys gràfics de la ruta. |
-| 3 | **Casa Navàs: observar la façana.** Obra de Lluís Domènech i Montaner. | Làmina d'observació de la façana exterior, amb tribuna, obertures i composició general simplificades; trobar formes repetides. No reproduir interiors ni mosaics minuciosos. | Reus Turisme, Ruta del Modernisme; Generalitat, patrimoni modernista [3][4]. | Mitjana-alta | Baix-mitjà per a representació original de l'exterior en espai públic; no copiar fotografies, interiors ni obres artístiques separades. |
-| 4 | **Institut Pere Mata: pavelló i jardí.** Conjunt modernista vinculat a Domènech i Montaner. | Escena exterior amb pavelló, camí i vegetació; distingir formes geomètriques a la façana. No representar pacients ni espais interiors. | Ajuntament de Reus, Patrimoni; Boca de la Mina, història i patrimoni [5][6]. | Mitjana-alta | Baix-mitjà per a exterior; no reproduir fotografies, vitralls, mosaics o decoració interior. |
-| 5 | **La Prioral i el seu entorn.** Edifici històric central de la ciutat. | Escena de plaça amb Prioral i campanar integrats en el teixit urbà, amb persones genèriques; trobar les campanes o comptar obertures grans. | Ajuntament de Reus, Històric i Patrimoni [2][7]. | Mitjana | Baix-mitjà: arquitectura exterior; no reproduir retaules, escultures o decoració interior. |
-| 6 | **El Mercat Central per dins de l'activitat.** Mercat i comerç quotidià. | Escena amb dues parades fictícies, cistells, balances i compradors; repte de comptar fruites o trobar aliments d'una mateixa família. | Ajuntament de Reus, Mercats municipals [8]. | Mitjana | Baix si tots els venedors, parades i productes són genèrics; cap marca, logotip o nom comercial. |
-| 7 | **L'Estació Enològica i el món del vi.** Patrimoni arquitectònic i memòria de la viticultura. | Exterior de l'edifici amb ceps, caixes de raïm i eines genèriques; relacionar raïm, fulla i fruit. No representar marques ni etiquetes de cellers. | Ajuntament de Reus, Estació Enològica [9]. | Mitjana | Baix-mitjà: exterior i objectes genèrics; no utilitzar etiquetes, marques ni material promocional. |
-| 8 | **Teatre Fortuny: una nit de funció.** Teatre històric inaugurat al segle XIX. | Escena de façana i públic entrant; afegir màscares teatrals genèriques i un petit repte de trobar parelles de formes. No representar espectacles concrets. | Ajuntament de Reus, Històric; documentació patrimonial del Teatre Fortuny [2][10]. | Mitjana | Baix-mitjà: exterior; màscares genèriques; no reproduir cartells, escenografies, vestuaris o produccions protegides. |
-| 9 | **Palau Bofarull: música i patrimoni.** Edifici històric amb ús musical actual. | Exterior del palau amb infants que arriben a una activitat musical; instruments genèrics en primer pla i repte de trobar notes amagades. No mostrar pintures interiors. | Diputació de Tarragona / Ajuntament de Reus, Palau Bofarull [11]. | Mitjana | Baix-mitjà: exterior; no reproduir pintures, interiors, logotips ni materials de l'escola de música. |
-| 10 | **Boca de la Mina: el passeig de l'aigua.** Passeig històric i espai de lleure. | Escena més complexa que la de *petits*: camí en perspectiva, bancs, arbres, persones i canal d'aigua; seguir amb el dit el recorregut de l'aigua. | Ajuntament de Reus, Passeig de la Boca de la Mina; portal patrimonial del passeig [12][13]. | Mitjana | Baix per a paisatge i escena genèrica; no reproduir escultures ni l'escut o inscripcions de la Boca de la Mina. |
-| 11 | **Parc de Sant Jordi: un espai per jugar.** Espai verd urbà i de lleure. | Escena de parc amb jocs genèrics, camins, arbres i infants; buscar objectes que comencin per una lletra o comptar elements. | Ajuntament de Reus, Parc de Sant Jordi [14]. | Mitjana | Baix per a jocs i personatges genèrics; excloure escultures concretes i dissenys de jocs distintius. |
-| 12 | **Una cercavila del Seguici Festiu.** Tradició viva de Festa Major. | Escena ampla de carrer amb músics, portadors suggerits, públic i figures festives genèriques originals, no identificables com cap gegant o bestiari concret. Repte: trobar instruments i seguir el recorregut. | Generalitat, Patrimoni Festiu; programa municipal de la Festa Major [15][16]. | Mitjana-alta | **Condicionat:** no és substitut definitiu de les figures concretes aprovades temàticament a D015. Per incorporar dissenys recognoscibles cal completar l'auditoria i obtenir llicències necessàries. |
-| 13 | **El bestiari: formes i moviment.** Presència del bestiari en la cultura festiva local. | Proposta provisional d'una escena de foc festiu abstracte i una figura animal fantàstica creada des de zero, sense copiar siluetes, caps, escates, colors, ornaments ni atributs de cap peça del bestiari de Reus. Repte: trobar formes geomètriques. | Generalitat, Patrimoni Festiu; inventari i auditoria interna del Seguici [15][17]. | Mitjana | **Condicionat i alt si es fa recognoscible.** No presentar un animal genèric com si fos una peça concreta del bestiari. Revisió cultural i jurídica abans de dibuixar. |
-| 14 | **La Festa Major: la ciutat es prepara.** Context de Sant Pere i celebració col·lectiva. | Escena de preparatius amb guarniments genèrics, músics assajant i famílies; ordenar visualment tres moments: preparar, sortir, celebrar. | Ajuntament de Reus, programa i informació de Sant Pere [16]. | Mitjana | Baix-mitjà: elements genèrics; evitar cartells, logotips, dissenys oficials de festa o indumentària concreta. |
-| 15 | **Un carrer de botigues i oficis.** Vida quotidiana i memòria comercial de Reus. | Escena amb aparadors ficticis sense text, una botiga d'ofici i persones; trobar eines i relacionar-les amb la feina. | Ajuntament de Reus, Història i informació urbana [2]; Reus Turisme, carrers i places [1]. | Mitjana | Baix si comerços, rètols i personatges són inventats; no representar establiments reals ni marques. |
-| 16 | **Reus vista des d'un plànol il·lustrat.** Orientació i relació entre espais de la ciutat. | Mapa esquemàtic original, no cartogràficament exacte, que connecti Mercadal, Prioral, Mercat, Estació Enològica i Boca de la Mina amb símbols propis; trobar el camí més curt entre dos punts. | Ajuntament de Reus, plànol i informació patrimonial; Reus Turisme [1][2][3]. | Mitjana | Baix-mitjà: crear mapa propi; no copiar mapes, pictogrames, rutes gràfiques ni cartografia comercial. |
+## 3. Banc de motius del Seguici Festiu
 
-## 3. Selecció prioritzada provisional
+**Important:** els noms següents identifiquen candidats culturals per a investigació editorial, no una selecció aprovada per il·lustrar. D017 manté les sis candidatures de gegants en fase d'investigació. Per al bestiari, la presència a fonts històriques o municipals no acredita per si sola vigència, entitat responsable ni drets.
 
-**Nucli recomanat (10 motius):** 1 Mercadal; 2 ruta modernista; 3 Casa Navàs; 4 Institut Pere Mata; 5 Prioral; 6 Mercat; 8 Teatre Fortuny; 10 Boca de la Mina; 12 cercavila genèrica; 16 mapa il·lustrat.
+| # | Motiu candidat | Valor cultural i experiència proposada | Tractament visual possible | Estat / risc |
+|---:|---|---|---|---|
+| 1 | **Vitxets — Vitxet i Vitxeta** | Parella històrica del Seguici; permet explicar l'evolució de les figures i la funció del Vitxet petit en la cercavila. | Si hi ha llicència: làmina de parella amb moviment i detalls de vestuari aprovats. Sense llicència: pàgina històrica sobre la parella, amb cronologia/activitat i sense retratar-ne el disseny. | Candidata D017; autoría original desconeguda, rèpliques de 2005 i vestuaris amb cadena de drets pendent. Risc alt per a representació recognoscible. |
+| 2 | **Moros — Moro i Mora** | Part del conjunt històric i útil per explicar com ha canviat la lectura de les figures al llarg del temps. | Si hi ha llicència: representació aprovada amb context editorial crític. Sense llicència: activitat de comparar versions documentades amb text, sense copiar-ne la iconografia. | Candidata D017; autoría original desconeguda, rèpliques i vestuari de diverses etapes. Risc visual i cultural molt alt. |
+| 3 | **Indis — Indi i Índia** | Permet tractar la història de les representacions de les parts del món i la transformació dels gegants. | Si hi ha llicència: representació aprovada i contextualitzada. Sense llicència: línia del temps sobre restauracions i canvis, sense recrear trets recognoscibles. | Candidata D017; autoría i restauracions múltiples, reconstrucció de 2024. Risc visual i cultural molt alt. |
+| 4 | **Japonesos — Uko i Hanako (grafia a confirmar)** | Incorporació de 1956; permet parlar de campanya popular, evolució i assessorament cultural del vestuari actual. | Si hi ha llicència: parella en escena de ball amb vestuari actual aprovat pels titulars i assessors pertinents. Sense llicència: activitat sobre la història de la incorporació, sense dibuixar la parella. | Candidata D017; escultura de Ramon Ferran, vestuari renovat el 2026 i cadena de drets pendent. Risc alt. |
+| 5 | **Negres — parella actual de 1989** | Història de la campanya popular i renovació de la parella; permet abordar com canvia una figura festiva. | Si hi ha llicència: representació validada que eviti qualsevol estereotip. Sense llicència: cronologia de 1977/1989 i activitat sobre renovació, sense retrat. | Candidata D017; escultura de Ramon Ferran, vestuari i col·laboradors pendents. Risc visual i cultural molt alt. |
+| 6 | **Carrasclet** | Gegant contemporani vinculat a Pere Joan Barceló; permet connectar Reus amb el Priorat i la Guerra de Successió. | Si hi ha llicència: representació de la figura festiva aprovada. Alternativa sense llicència: escena històrica original de Pere Joan Barceló, diferenciada clarament del gegant de 1986 i sense copiar-ne el vestuari/atributs. | Candidata D017; autoria distribuïda entre promotors, escultor, vestuari i ornamentos; titularitat pendent. Risc alt per a la figura festiva. |
+| 7 | **Mulassa** | Figura tradicional amb referència documental de 1628; la Mulassa històrica de 1725 es conserva al Museu. | Si hi ha llicència: figura actual en moviment. Sense llicència: explicació històrica amb objectes genèrics de festa, sense reproduir-ne el disseny actual. | Bestiari prioritari per valor històric; autoría de la figura actual/reconstruccions pendent. Risc alt per a disseny recognoscible. |
+| 8 | **Àliga de Reus** | Figura protocol·lària amb construcció documentada el 1995–1996; permet explicar el paper de les figures solemnes al Seguici. | Si hi ha llicència: silueta i atributs aprovats. Sense llicència: activitat sobre el simbolisme general de l'àliga en seguicis, sense copiar la peça de Reus. | Constructor documentat: Manel Llauradó; CRAC com a entitat administradora. Titularitat i mandat de llicència no acreditats. |
+| 9 | **Drac de Reus** | Motiu potent per treballar moviment, foc festiu i bestiari. | Si hi ha llicència: figura actual en escena de cercavila. Sense llicència: escenari de foc festiu abstracte sense silueta, ornaments ni trets del drac local. | Disseny actual i entitat responsable pendents; no assumir continuïtat formal amb el Drac històric del segle XIX. |
+| 10 | **Víbria de Reus** | Permet explorar el bestiari fantàstic i la diversitat de formes de les figures festives. | Si hi ha llicència: figura actual aprovada. Sense llicència: activitat sobre diferències entre animals reals i éssers fantàstics, sense imitar la Víbria local. | Autoria i entitat portadora pendents; la participació de Manel Llaurador en una reproducció de xocolata no prova autoria de la figura física. |
+| 11 | **Basilisc de Reus** | Figura creada el 2007 segons la font patrimonial; pot introduir el bestiari contemporani. | Si hi ha llicència: figura actual amb els seus titulars. Sense llicència: criatura fantàstica pròpia només si no es presenta com el Basilisc de Reus ni en copia trets. | Figura contemporània; autoria probable però no confirmada; entitat portadora per identificar. |
+| 12 | **Lleó de Reus** | Permet parlar de figures animals i del paper simbòlic del lleó en la cultura festiva. | Si hi ha llicència: figura local. Sense llicència: lleó genèric no presentat com a peça del Seguici. | Figura contemporània sense tradició local històrica acreditada; autoria i entitat per confirmar. |
+| 13 | **Bou de Reus** | Pot aportar varietat formal dins del bestiari i connectar amb actes festius documentats. | Si hi ha llicència: figura actual. Sense llicència: activitat sobre animals i festa, sense atribuir un disseny genèric al Bou local. | Presència documentada en actes municipals; autoria i entitat responsable pendents. |
+| 14 | **Cucafera de Reus** | Figura contemporània amb trajectòria local recent; adequada per explicar com es creen noves tradicions. | Si hi ha llicència: figura actual. Sense llicència: seqüència sobre com neix una figura festiva, sense retratar-la. | Creació aproximada el 2014; autoría de la figura física i entitat jurídica portadora pendents. |
+| 15 | **Nanos i capgrossos** | Complementen el Seguici amb una escala i moviment diferents dels gegants; útils per mostrar diversitat de comparses. | Si hi ha llicència: escena de comparsa amb versions aprovades. Sense llicència: siluetes genèriques no atribuïdes a les peces de Reus. | Models històrics atribuïts a Modest Gené i David Constantí en etapes diferents; titularitat i entitat gestora pendents. No són el nucli de D019. |
+| 16 | **Una cercavila de Sant Pere** | Escena col·lectiva amb músics, portadors, públic i relació entre figures i ciutat. | Composició original amb públic i músics genèrics. Les figures concretes només s'hi incorporaran amb autorització; si no, no dibuixar substituts que es facin passar per figures reals. | Risc controlable si no incorpora dissenys recognoscibles, logos, uniformes o cartells protegits. |
+| 17 | **Com es prepara una figura per sortir** | Escena de preparació: portadors, revisió de l'estructura, música i preparatius. Aporta una mirada de darrere l'escena. | Personatges i estructures genèriques; no mostrar detalls tècnics distintius ni interiors de taller sense permís. | Requereix contrast cultural; no fer afirmacions sobre procediments reals sense font. |
 
-**Reserva (6 motius):** 7 Estació Enològica; 9 Palau Bofarull; 11 Parc de Sant Jordi; 13 bestiari abstracte; 14 preparatius de Festa Major; 15 carrer d'oficis.
+## 4. Banc de patrimoni i vida urbana
 
-La selecció final de 12–14 pàgines s'haurà de fer després del prototip i d'una revisió de redundàncies. El nucli combina arquitectura, vida quotidiana, patrimoni, tradició i orientació; evita que el llibre es converteixi en una successió de façanes.
+| # | Motiu | Escena original proposada i repte opcional | Valor dins del llibre | Risc / condició |
+|---:|---|---|---|---|
+| 18 | **Casa Navàs i plaça del Mercadal** | Vista exterior original en perspectiva, amb la plaça activa; trobar formes repetides a la façana. | Patrimoni modernista emblemàtic, integrat amb la ciutat i no com a fitxa aïllada. | Dibuix propi de l'exterior; no copiar fotografies, interiors, mosaics ni elements artístics separats. |
+| 19 | **Institut Pere Mata: pavelló i jardí** | Exterior del pavelló, camí i vegetació; trobar formes geomètriques. | Patrimoni modernista amb una composició visual diferent de la Casa Navàs. | Exterior dibuixat des de zero; no reproduir interiors, vitralls o mosaics. |
+| 20 | **La Prioral i el campanar** | Vista de plaça amb campanar i activitat urbana; comptar obertures grans o campanes. | Fita històrica i visual de Reus. | Exterior original; no reproduir retaules, escultures ni decoració interior. |
+| 21 | **Mercat Central en activitat** | Dues parades fictícies, balances, cistells i compradors; classificar aliments. | Vida quotidiana i activitat comercial, amb més narrativa que la làmina de *petits*. | Parades i persones genèriques; sense marques, rètols ni comerços reals. |
+| 22 | **Boca de la Mina: passeig i aigua** | Perspectiva del passeig, arbres, bancs i canal; seguir el recorregut de l'aigua. | Paisatge i patrimoni quotidià; contrapunt orgànic a l'arquitectura. | Escena original; excloure escultura, escut i inscripcions concretes. |
+| 23 | **Teatre Fortuny: una nit de funció** | Exterior amb públic entrant i màscares teatrals genèriques; trobar parelles de formes. | Patrimoni cultural viu, no només arquitectura. | No reproduir cartells, escenografies ni produccions protegides. |
+| 24 | **Ruta modernista pel centre** | Carrer en perspectiva amb dues o tres façanes documentades, sense calcar-ne cap; seguir un itinerari amb símbols originals. | Dona escala urbana al patrimoni i connecta edificis. | No copiar mapes, pictogrames ni fotografies; evitar sobrecarregar amb façanes. |
+| 25 | **Una plaça que es prepara per Sant Pere** | Guarniments genèrics, músics assajant i famílies; ordenar visualment preparar–sortir–celebrar. | Connecta patrimoni urbà amb la festa, sense convertir-la en una pàgina de figures no autoritzades. | No utilitzar cartells, logos, escuts ni indumentària concreta. |
 
-## 4. Distribució d'experiències
+## 5. Distribució orientativa recomanada
 
-1. **Llegir la ciutat:** Mercadal, ruta modernista, Casa Navàs, Institut Pere Mata i Prioral.
-2. **La ciutat en activitat:** Mercat, Teatre Fortuny, oficis i preparatius de Festa Major.
-3. **Espais per recórrer:** Boca de la Mina, Parc de Sant Jordi i mapa il·lustrat.
-4. **Cultura festiva:** cercavila i bestiari, amb representacions genèriques temporals fins que es resolguin els drets de les figures concretes.
+No s'aprova encara el nombre final de pàgines. Per provar l'equilibri editorial, recomano treballar amb una maqueta conceptual de **14 làmines**:
+- **7 làmines de Seguici:** aproximadament 4–5 de gegants, 1–2 de bestiari i 1 escena col·lectiva o de preparació. La selecció dependrà de valor cultural, adequació infantil i viabilitat de drets.
+- **5 làmines de patrimoni:** Casa Navàs/Mercadal, Institut Pere Mata, Prioral, Boca de la Mina i un cinquè motiu entre ruta modernista, Teatre Fortuny o un altre patrimoni justificat.
+- **2 làmines de vida urbana/festa:** Mercat Central i preparatius de Sant Pere, o bé una altra escena quotidiana que aporti varietat.
 
-No s'han de col·locar més de dues pàgines consecutives de façanes. Alternar arquitectura, escenes humanes, natura, activitat i tradició.
+La distribució 7/5/2 és una **hipòtesi de treball** coherent amb D019, no una paginació ni una selecció aprovades. Si el nombre final de làmines canvia, es mantindrà com a criteri que aproximadament la meitat siguin de Seguici.
 
-## 5. Prototip de quatre pàgines proposat
+**Advertiment de viabilitat:** si no es poden obtenir permisos per a cap figura recognoscible, no s'ha de maquillar el problema amb animals fantàstics o gegants inventats presentats com a patrimoni de Reus. Caldrà decidir si el llibre pot funcionar amb contingut històric i escenes de cercavila sense retrats, o si convé ajornar-ne la publicació fins a obtenir llicències. Aquesta decisió no es pren en aquesta versió del mapa.
 
-| Pàgina de prova | Motiu | Què valida | Criteris d'acceptació |
-|---|---|---|---|
-| 1 | Ruta modernista pel centre | Escena urbana amb profunditat i diverses façanes sense sobrecàrrega. | Tres plans clars; màxim 3 façanes principals; detalls grans; cap rètol real. |
-| 2 | Mercat Central en activitat | Personatges genèrics, objectes i narrativa visual. | 2 parades, 2–3 personatges; productes separables i recognoscibles; repte breu no invasiu. |
-| 3 | Cercavila del Seguici (genèrica) | Presència festiva i moviment sense reproduir dissenys concrets. | Figura festiva original no identificable; músics i públic; no usar atributs ni siluetes de figures locals concretes. |
-| 4 | Boca de la Mina o mapa il·lustrat | Alternança de paisatge/orientació amb arquitectura i escena urbana. | Recorregut llegible; 4–6 elements principals; espais de coloreig suficients. |
+## 6. Proposta de quatre pàgines per a prototip — condicionada
 
-**Condició:** aquests són briefs d'esbós, no autorització per generar il·lustracions definitives. La pàgina del Seguici s'ha de sotmetre a revisió de risc visual abans de generar-la; si no es pot garantir que sigui independent dels dissenys concrets, substituir-la provisionalment per una escena de preparatius de Festa Major.
+No generar encara esbossos recognoscibles de figures concretes. Per testar la qualitat de *grans* sense avançar sobre drets, proposo prototipar quatre pàgines que validin llenguatge gràfic i composició:
+1. **Escena de cercavila de Sant Pere sense figures identificables:** profunditat, músics i públic genèrics, moviment i espais de coloreig amplis.
+2. **Casa Navàs i plaça del Mercadal:** arquitectura exterior i escena urbana amb diferents plans.
+3. **Boca de la Mina:** perspectiva, arbres, aigua i persones, com a contrast visual.
+4. **Pàgina de patrimoni festiu no figurativa:** preparatius, instruments genèrics i vocabulari visual del Seguici; sense copiar instruments concrets protegits, uniformes o atributs de figures.
 
-## 6. Riscos i criteris de propietat intel·lectual
+Aquest prototip valida només composició, densitat, traç i adequació 6–8; **no resuelve el objetivo comercial de ilustrar gegants concretos**. La representación reconocible se prototipará cuando exista base jurídica suficiente.
 
-- Les façanes d'obres situades permanentment en vies públiques es poden representar mitjançant dibuixos propis dins dels límits de l'article 35.2 de la Llei de propietat intel·lectual; això no autoritza copiar fotografies, il·lustracions, plànols, interiors, cartells, marques o obres artístiques separades.
-- No utilitzar fotografies, escanejos 3D, motlles ni il·lustracions existents com a base de calco, traçat o generació.
-- La tradició del Seguici, els fets històrics i els noms poden explicar-se amb fonts i context, però això no concedeix dret a reproduir el disseny concret de cada figura.
-- D015 aprova la presència del Seguici i bestiari als dos llibres de pintar; D016 permet explorar interpretacions originals simplificades, però no estableix una excepció legal. La simplificació no elimina automàticament el risc de transformació.
-- Les figures concretes continuen pendents d'auditoria individual, identificació de titulars i llicències quan correspongui. No convertir la proposta genèrica dels punts 12–13 en una afirmació que aquestes figures ja representen fidelment el Seguici de Reus.
-- Evitar estereotips ètnics o culturals, especialment en qualsevol referència a Moros, Indis i Negres. No utilitzar caricatures racialitzades, vestuarios panétnicos ni atributos inventados como supuesta autenticidad.
+## 7. Diferenciació respecte als altres dos llibres
 
-## 7. Fonts documentals de partida
+- **Petits:** reconeixement ràpid de llocs i objectes, una forma gran per làmina, menys persones i menys detalls.
+- **Grans:** el Seguici com a tema central, més observació de figures i moviment, escenes amb profunditat i patrimoni més elaborat.
+- **Descobreix Reus!:** aprenentatge actiu sobre ciutat, història i tradicions mitjançant jocs, mapes, preguntes i activitats. No ha de duplicar les làmines de coloreig ni funcionar com un catàleg de figures.
 
-[1] Reus Turisme, [Carrers i places](https://www.reusturisme.cat/carrers-i-places).  
-[2] Ajuntament de Reus, [Història](https://www.reus.cat/la-ciutat/la-hist%C3%B2ria) i [Històric](https://www.reus.cat/la-ciutat/historic).  
-[3] Reus Turisme, [La Ruta del Modernisme](https://www.reusturisme.cat/node/25).  
-[4] Generalitat de Catalunya, [Domènech i Montaner, sense sortir de Reus](https://patrimoni.gencat.cat/ca/node/23048).  
-[5] Ajuntament de Reus, [Patrimoni](https://www.reus.cat/la-ciutat/patrimoni).  
-[6] Boca de la Mina, [Patrimoni i història de l'espai](https://bocadelamina.reus.cat/historia-espai).  
-[7] Ajuntament de Reus, [Patrimoni](https://www.reus.cat/serveis/patrimoni).  
-[8] Ajuntament de Reus, [Mercats municipals](https://www.reus.cat/serveis/mercats-municipals).  
-[9] Ajuntament de Reus, [Estació Enològica](https://www.reus.cat/estacio-enologica).  
-[10] Documentació patrimonial del [Teatre Fortuny](https://seu.reus.cat/seu/documentPublic/download/2554).  
-[11] Ajuntament de Reus, [Palau Bofarull](https://www.reus.cat/ajuntament/palau-bofarull).  
-[12] Ajuntament de Reus, [Passeig de la Boca de la Mina](https://www.reus.cat/node/42147).  
-[13] Boca de la Mina, [Història del passeig](https://bocadelamina.reus.cat/historia-passeig).  
-[14] Ajuntament de Reus, [Parc de Sant Jordi](https://www.reus.cat/parc-sant-jordi).  
-[15] Generalitat de Catalunya, [Patrimoni Festiu — Festa Major de Sant Pere de Reus](https://patrimonifestiu.cultura.gencat.cat/Festes-i-elements-festius-catalogats-o-declarats/Festes-Majors/La-Festa-Major-de-Sant-Pere-de-Reus).  
-[16] Ajuntament de Reus, [programa de gegants](https://www.reus.cat/sites/reus/files/programa_gegants_.pdf). Cal contrastar-hi les dades concretes de figures i recorreguts abans d'incorporar-les al text.  
-[17] Documentació interna de projecte: `research/auditoria-derechos-seguici-festiu.md` i `research/fichas-comparativas-gegants-reus-2026-11.md`. Aquestes fonts orienten els riscos, no acrediten permisos.
+La mateixa figura o edifici pot aparèixer en més d'un llibre només si canvia la funció: colorejar una representació a *grans* versus descobrir-ne la història o resoldre una activitat a *Descobreix Reus!*.
 
-**Marc legal:** BOE, [Reial decret legislatiu 1/1996, Llei de propietat intel·lectual](https://www.boe.es/eli/es/rdlg/1996/04/12/1), especialment articles 26 i 35.2. La seva aplicació a cada il·lustració concreta requereix revisió individual.
+## 8. Fonts documentals i límits
 
-## 8. Decisions pendents i criteri de tancament
+Fonts internes de treball:
+- `research/auditoria-derechos-seguici-festiu.md`: inventari preliminar, cronologia, autoria coneguda, gestió/custòdia i qüestions pendents del bestiari i els gegants.
+- `research/fichas-comparativas-gegants-reus-2026-11.md`: fitxes de Vitxets, Moros, Indis, Japonesos, Negres i Carrasclet; diferències entre versions i riscos visuals/culturals.
+- `research/expediente-aclaracion-documental-gegants-2026-11.md`: documents i preguntes pendents per aclarir titularitat i capacitat de llicència.
+- `books/reus-per-pintar-petits/mapa-continguts-v1.md`: motius de *petits* per evitar duplicació de composicions.
+- Generalitat de Catalunya, Patrimoni Festiu — Festa Major de Sant Pere de Reus.
+- Ajuntament de Reus, programa de gegants i documentació municipal del Seguici.
+- Reus Turisme, Ruta del Modernisme i informació de patrimoni.
 
-1. Validar si el nucli proposat és equilibrat i si el llibre ha de tenir 12, 14 o 16 làmines després del prototip.
-2. Validar si la pàgina de cercavila genèrica és una solució provisional acceptable o si s'ha de reservar fins a obtenir permisos per a figures concretes.
-3. Confirmar que els reptes d'observació siguin opcionals i no converteixin el llibre en un quadern escolar.
+**Límits:** les fonts descriuen història, ús festiu i algunes autoríes; no acrediten per si mateixes la titularitat actual ni una llicència comercial. Les llistes de bestiari s'han de contrastar amb el programa oficial vigent abans de tancar selecció. La informació sobre les figures Moros, Indis i Negres s'ha de revisar amb especial cura cultural.
 
-**Criteri d'acceptació del mapa:** 12–20 motius amb justificació local, font identificable, escena original, nivell de complexitat, objectiu d'experiència i risc de drets; diferenciació real respecte a *petits*; cap disseny concret del Seguici tractat com a autoritzat.
+## 9. Riscos i criteris de propietat intel·lectual
 
-**No autoritza encara esbossos ni il·lustracions definitives.** El següent lliurable, després de validar el mapa, serà un prototip de quatre pàgines amb esbossos originals i briefs visuals revisables.
+- Els noms històrics, fets, cronologies, funcions festives i idees generals poden ser tractables editorialment, però no autoritzen reproduir l'expressió visual original d'una figura.
+- Dibuixar a mà, simplificar, canviar colors o generar amb IA no elimina automàticament drets de reproducció o transformació.
+- Cal separar drets de l'escultura, vestuari, atributs, restauracions, fotografies, escanejos 3D, motlles, música, logos i marques.
+- La colla que porta una figura, el museu que la custodia o l'ajuntament que la conserva no són automàticament titulars ni llicenciants.
+- Abans d'una il·lustració recognoscible: identificar versió exacta, autors i titular actual; acreditar capacitat de llicència; obtenir autorització escrita que inclogui reproducció, distribució, adaptació, impressió sota demanda, Amazon KDP, territoris, durada, atribució i aprovació d'arte final.
+- Si no s'acredita la cadena de drets, no representar la figura concreta. No usar una figura genèrica com a substitut engañoso d'una figura local.
 
+## 10. Decisió editorial pendent i criteris d'aprovació
 
----
+Per aprovar el mapa abans del prototip cal confirmar:
+1. Que el posicionament principal (gegants i bestiari) i el pes complementari del patrimoni queden ben equilibrats.
+2. Que la distribució orientativa 7/5/2 sobre 14 làmines és una base raonable o cal ajustar-la.
+3. Que el banc de candidats continua obert i que cap figura es considera seleccionada ni autoritzada.
 
-## 9. Actualización editorial — posicionamiento aprobado (D019, 16-11-2026)
+**Criteri d'acceptació del mapa:** almenys 12 motius amb valor local, font, experiència, complexitat i risc; Seguici com a eix principal; patrimoni amb presència substancial; diferenciació respecte a *petits* i *Descobreix*; cap disseny concret tractat com a autoritzat.
 
-El usuario aprueba que *grans* sea principalmente un libro para colorear **gegants y bestiari del Seguici Festiu de Reus**. El patrimonio urbano e histórico tendrá más presencia y desarrollo que en *petits*, pero funcionará como segundo eje: enriquecerá el relato de Reus y dará variedad visual sin desplazar el protagonismo de las figuras festivas.
-
-### Criterio de equilibrio para la revisión
-- Mantener como referencia que aproximadamente la mitad de las láminas se dediquen a gegants, bestiari y escenas del Seguici.
-- Reservar el resto para patrimonio de Reus (arquitectura, espacios históricos y memoria urbana) y algunas escenas de vida cotidiana.
-- Evitar bloques largos de fachadas: alternar figuras individuales, parejas o grupos festivos, escenas de calle, patrimonio y actividad urbana.
-- La mayor complejidad de 6–8 años debe permitir explorar vestuario, atributos, texturas y movimiento con más detalle que en *petits*, sin convertir las páginas en láminas saturadas.
-- El patrimonio no debe ser un relleno genérico: cada elemento debe aportar identidad local, contexto histórico o contraste visual con el Seguici.
-
-### Consecuencia para la versión 1.0
-La selección priorizada anterior (10 motivos con predominio de arquitectura/ciudad y solo dos propuestas genéricas del Seguici) **queda desactualizada como propuesta de selección** y no debe utilizarse para pasar directamente a esbozos. La matriz de 16 motivos y sus fuentes se conserva como banco de materiales; deberá reordenarse y ampliarse en una versión revisada para que gegants y bestiari sean el núcleo real.
-
-### Condiciones y límites
-- No se ha aprobado una shortlist concreta de figuras ni parejas. Las seis candidatas de D017 siguen en investigación, no seleccionadas.
-- No se ha aprobado el número final de láminas ni la distribución exacta entre temas.
-- No presentar figuras genéricas inventadas como si fueran gegants o piezas reales del bestiari de Reus.
-- Cualquier ilustración reconocible de una figura concreta sigue condicionada a identificar la versión, autoría, titularidad y capacidad de licencia, y a obtener permiso escrito cuando sea necesario.
-- Se mantiene D018: no contactar con Museu/IMRC, Colla Gegantera, autores ni entidades portadoras ni enviar los borradores sin nueva autorización expresa.
-
-**Siguiente entregable:** revisión del mapa de contenidos de *grans* (versión 1.1), con una matriz de motivos reorganizada por bloques, propuesta razonada de figuras candidatas sin seleccionarlas definitivamente, patrimonio complementario y una recomendación de distribución de páginas. Detenerse antes de crear esbozos para figuras reconocibles o comprometer una selección que dependa de permisos.
+**No autoritza encara esbossos de figures recognoscibles ni il·lustracions definitives.**
