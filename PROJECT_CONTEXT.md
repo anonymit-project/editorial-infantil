@@ -101,3 +101,7 @@ existan decisiones editoriales o autorizaciones pendientes.
 - No dividas artificialmente una tarea ni generes prompts de relevo si no aportan una ventaja real. Prioriza cerrar entregables y mantener una única fuente de verdad.
 - Si falta una decisión del usuario, resuélvela en el chat actual mediante recomendación y opciones numeradas; no prepares un prompt que permita al siguiente chat saltarse esa aprobación.
 - Al cerrar el relevo, indica brevemente qué queda hecho, qué está pendiente y qué debe hacer el nuevo chat primero.
+
+
+## Actualización 16-11-2026 — prototipo de grans
+El mapa v1.1 y la distribución orientativa 7/5/2 están aprobados (D020). También está aprobada la especificación v1.0 de cuatro páginas (D021), que autoriza desarrollar esbozos originales de cercavila genérica, Casa Navàs/Mercadal, Boca de la Mina y preparativos no figurativos del Seguici. No autoriza arte final ni representación reconocible de gegants/bestiari sin resolver derechos. Véanse `books/reus-per-pintar-grans/mapa-continguts-v1.md` y `books/reus-per-pintar-grans/especificacio-prototip-v1.md`.
