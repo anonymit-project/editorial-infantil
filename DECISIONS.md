@@ -40,3 +40,11 @@ El usuario aprueba expresamente la estructura de 32 páginas para la maqueta de 
 El usuario confirma que el Seguici Festiu y el bestiari deben tener presencia en ambos libros de colorear. En *petits* se representarán con menor detalle y mayor simplicidad; en *grans*, con más detalle. La tradición también se podrá desarrollar en *Descobreix Reus!*.
 
 **Límite expreso:** esta decisión aprueba la inclusión editorial de la temática, no la reproducción de ninguna figura o diseño específico. Antes de crear arte final se deberá identificar cada figura candidata, sus autores/diseñadores y titulares actuales, determinar quién puede conceder autorización para una explotación comercial impresa bajo demanda y obtener permiso escrito cuando sea necesario. D011 sigue vigente y no queda revocada.
+
+
+## Aprobación del usuario — 16-11-2026 — D016
+El usuario confirma que quiere mantener los gegants como contenido de la colección, aunque las ilustraciones no reproduzcan fielmente las figuras físicas. Se priorizarán interpretaciones gráficas originales, simplificadas y adaptadas a cada edad, que conserven suficientes referencias culturales para que el público reconozca la figura.
+
+**Límite jurídico:** el carácter simplificado, la modificación de rasgos o la ausencia de copia fotográfica no excluyen automáticamente una posible reproducción o transformación de una obra protegida. Antes de aprobar una ilustración reconocible se analizará qué elementos proceden de tradición, historia o convenciones genéricas y cuáles reproducen rasgos originales protegibles de un diseño concreto. Cuando subsista una dependencia de una obra protegida, se obtendrá autorización del titular o se modificará el diseño hasta evitarla.
+
+D016 confirma la inclusión editorial de los gegants, no aprueba una pareja o versión concreta ni sustituye la auditoría individual de derechos. D015 continúa vigente.
