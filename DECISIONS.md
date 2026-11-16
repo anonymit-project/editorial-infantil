@@ -18,6 +18,7 @@
 | D014 | Utilizar una estructura de maqueta de 32 páginas para Reus per pintar – petits, con láminas a una cara y reversos en blanco | Aprobada para maqueta; no cierra formato final, motivos ni producción |
 | D015 | Incluir el Seguici Festiu —en particular gegants y bestiari— en ambos libros de colorear, con menor complejidad en petits y mayor detalle en grans; abordar también la tradición en Descobreix Reus! | Aprobada como criterio editorial; reproducción de diseños concretos condicionada a auditoría de derechos y permisos |
 | D020 | Aprobar el mapa de contenidos v1.1 de Reus per pintar – grans y utilizar 7/5/2 como distribución orientativa para 14 láminas (7 Seguici, 5 patrimonio, 2 vida urbana/festiva) | Aprobada como base de desarrollo; no fija paginación final, shortlist de figuras ni autoriza diseños protegidos |
+| D021 | Aprobar la especificación v1.0 del prototipo de cuatro páginas de Reus per pintar – grans | Aprobada para desarrollar esbozos; no autoriza arte final ni representaciones reconocibles de figuras sin resolver derechos |
 
 ## Criterios
 - No cambiar decisiones cerradas sin justificarlo.
@@ -73,3 +74,9 @@ El usuario aprueba que *Reus per pintar – grans* sea principalmente un libro p
 El usuario aprueba el mapa de contenidos v1.1 de *Reus per pintar – grans* y su distribución orientativa 7/5/2 sobre 14 láminas: 7 de Seguici, 5 de patrimonio y 2 de vida urbana/festiva. Se autoriza avanzar con la preparación del prototipo mediante escenas que no dependan de reproducir diseños concretos protegidos.
 
 **Límites:** la proporción es una base de desarrollo, no una paginación definitiva ni una selección de figuras. No se aprueba ninguna pareja o figura concreta ni se autoriza reproducir diseños reconocibles. D011, D015, D016, D017 y D018 continúan vigentes.
+
+
+## Aprobación del usuario — 16-11-2026 — D021
+El usuario aprueba la especificación v1.0 de cuatro páginas del prototipo de *Reus per pintar – grans*: cercavila genérica sin figuras identificables, Casa Navàs/Mercadal, paseo de la Boca de la Mina y preparativos no figurativos del Seguici. Se autoriza desarrollar cuatro esbozos originales para validar composición, densidad, lenguaje gráfico y adecuación a 6–8 años.
+
+**Límites:** los esbozos no son arte final ni validan el atractivo comercial de reproducir gegants/bestiari concretos. No incluir diseños, siluetas, rostros, vestuarios, atributos, uniformes ni otros rasgos reconocibles pendientes de autorización. D011 y D015–D020 siguen vigentes.
