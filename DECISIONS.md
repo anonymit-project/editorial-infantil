@@ -9,11 +9,12 @@
 | D005 | Crear un tercer libro de descubrimiento de Reus | Cerrada |
 | D006 | Priorizar diseños originales para reducir riesgos legales | Cerrada |
 | D007 | Presentar los tres productos a ReusCultura | Prevista |
-| D008 | No depender de acuerdos institucionales para publicar | Cerrada |
+| D008 | No depender de acuerdos institucionals per publicar | Cerrada |
 | D009 | Diferenciar los tres libros por experiencia y función, no solo por dificultad | Propuesta recomendada; pendiente de validación |
 | D010 | No cerrar precio, páginas ni formato hasta simular costes KDP con especificaciones concretas | Criterio de trabajo adoptado |
 | D011 | No reproducir diseños concretos del Seguici, logotipos ni escudos sin identificar titulares y obtener permiso cuando sea necesario | Criterio de derechos adoptado |
 | D012 | Priorizar en Reus per pintar – petits una selección de 12–14 motivos de arquitectura, patrimonio, espacios urbanos y vida cotidiana, con formas grandes y baja complejidad | Propuesta editorial; pendiente de prototipo |
+| D013 | Tomar como escenario económico de trabajo 32 páginas, tapa blanda A4, interior negro sobre papel blanco y precio de lista de 9,99 € sin IVA; coste estimado 2,48 € y regalía estándar estimada 3,51 € por venta en Amazon.es | Recomendación provisional; no aprobada ni cerrada |
 
 ## Criterios
 - No cambiar decisiones cerradas sin justificarlo.
@@ -24,4 +25,7 @@
 ## Actualización 16-11-2026
 La arquitectura editorial propone tres experiencias distintas: coloreado inicial (3–5), coloreado de observación (6–8) y cuaderno de exploración (5–8). Se mantiene como propuesta editorial hasta revisar prototipos.
 
-El mapa de contenidos de *Reus per pintar – petits* propone 16 motivos, una selección priorizada de 8 + 6 de reserva y un prototipo con campanar, mercat, Casa Navàs y Boca de la Mina. D012 es una propuesta, no una decisión cerrada. Véase `books/reus-per-pintar-petits/mapa-continguts-v1.md`.
+El mapa de contenidos de *Reus per pintar – petits* proposa 16 motius, una selecció prioritzada de 8 + 6 de reserva i un prototip amb campanar, mercat, Casa Navàs i Boca de la Mina. D012 és una proposta, no una decisió tancada. Vegeu `books/reus-per-pintar-petits/mapa-continguts-v1.md`.
+
+## Actualización económica 16-11-2026
+S'ha documentat una simulació econòmica preliminar de KDP per a *Reus per pintar – petits* a `commercial/viabilitat-economica-reus-per-pintar-petits-kdp-2026-11.md`. D013 registra només l'escenari recomanat per poder-lo revisar; no aprova encara el format, la paginació ni el PVP. Cal confirmar-los amb el prototip, el PDF final i el calculador de KDP.
