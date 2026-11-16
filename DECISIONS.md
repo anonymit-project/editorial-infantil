@@ -80,3 +80,9 @@ El usuario aprueba el mapa de contenidos v1.1 de *Reus per pintar – grans* y s
 El usuario aprueba la especificación v1.0 de cuatro páginas del prototipo de *Reus per pintar – grans*: cercavila genérica sin figuras identificables, Casa Navàs/Mercadal, paseo de la Boca de la Mina y preparativos no figurativos del Seguici. Se autoriza desarrollar cuatro esbozos originales para validar composición, densidad, lenguaje gráfico y adecuación a 6–8 años.
 
 **Límites:** los esbozos no son arte final ni validan el atractivo comercial de reproducir gegants/bestiari concretos. No incluir diseños, siluetas, rostros, vestuarios, atributos, uniformes ni otros rasgos reconocibles pendientes de autorización. D011 y D015–D020 siguen vigentes.
+
+
+## Aprobación del usuario — 16-11-2026 — D022
+El usuario aprueba ampliar de dos a cinco músicos la escena de la cercavila de la página 1 del prototipo de Reus per pintar – grans, al considerar que la segunda generación visual tiene un planteamiento satisfactorio pero resulta limitada al mostrar únicamente dos trompetistas. La banda de esbozo incorporará instrumentos variados y genéricos (trompeta, trombón o metal grave, clarinete, flauta travessera y tambor de percusión), sin presentarla como reconstrucción documental de la formación real del Seguici.
+
+**Alcance:** se modifica la especificación de la página 1 y su prompt. La aprobación se refiere al número y variedad instrumental del esbozo; no aprueba arte final, no valida derechos de instrumentos/diseños distintivos y no modifica las restricciones D011 y D015–D021.
