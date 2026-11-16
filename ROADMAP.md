@@ -7,12 +7,17 @@
 - [x] Documentar fuentes oficiales sobre patrimonio modernista y cultura festiva.
 - [x] Documentar marco básico de propiedad intelectual y riesgos de activos.
 - [x] Proponer arquitectura diferenciada para los tres libros.
-- [ ] Completar matriz de 15–20 competidores con precio, formato, páginas, idioma y reseñas visibles.
+- [x] Identificar 25 productos competidores y sustitutos con precio observado, edad, páginas, formato, idioma, reseñas visibles y enlace cuando la fuente lo publica.
+- [x] Clasificar competidores directos y productos sustitutos.
+- [x] Documentar oportunidades de diferenciación por título y límites de los datos.
+- [ ] Verificar precios y disponibilidad actuales en Amazon.es y en las editoriales para una shortlist final.
 - [ ] Validar selección de contenidos y fuentes por cada libro.
 - [ ] Clasificar activos gráficos y solicitar permisos cuando proceda.
 - [ ] Definir identidad visual común.
 
-**Estado:** parcialmente completada. La investigación web inicial no ha permitido cuantificar el mercado ni validar demanda o competencia; no se deben dar por cerrados esos puntos.
+**Estado:** matriz competitiva inicial completada (25 títulos). No hay datos verificables de ventas ni demanda y no se han inferido. Algunos precios de catálogo son referencias históricas; edades, páginas o reseñas se marcan como no indicadas cuando las fuentes no las publican. No se pudo consultar contenido interno adicional de research/ y editorial/ porque no se localizaron los ficheros previstos; los documentos maestros de raíz sí se leyeron.
+
+**Documento:** research/analisis-competitivo-libros-infantiles-ciudades-patrimonio-2026-11.md
 
 ## Fase 2 – Desarrollo de los libros
 - [ ] Mapa de contenidos de Reus per pintar – petits (12–20 ideas con fuente y objetivo).
@@ -40,4 +45,4 @@
 - [ ] No presentar colaboración institucional como aprobada hasta contar con acuerdo escrito.
 
 ## Próximo hito
-Completar el análisis competitivo verificable y convertir la arquitectura en mapas de contenidos. La decisión de precio y formato queda bloqueada hasta disponer de páginas y especificaciones de impresión.
+Construir los tres mapas de contenidos y prototipos de cuatro páginas. No cerrar aún páginas finales, formato ni PVP: deben depender de los prototipos, la especificación de impresión y la simulación de costes KDP.
