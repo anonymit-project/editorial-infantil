@@ -28,6 +28,7 @@
 - [x] Aprobar el mapa de contenidos v1.1 de grans y la distribución orientativa 7/5/2 sobre 14 láminas (D020); las figuras concretas siguen sin seleccionar ni autorizar.
 - [x] Aprobar la especificación v1.0 de cuatro páginas de prototipo de grans (D021).
 - [ ] Desarrollar cuatro esbozos visuales originales conforme a la especificación aprobada; no producir arte final ni retratos de figuras concretas sin base jurídica suficiente.
+- [x] Preparar un brief externo con lenguaje gráfico común, cuatro prompts autónomos, flujo de generación, criterios de rechazo y ficha de procedencia para usar herramientas gratuitas alternativas mientras no esté disponible la generación visual en ChatGPT.
 - [ ] Revisar los esbozos y validar adecuación 6–8.
 - [ ] Mapa de contenidos de Descobreix Reus! (12–20 actividades con fuente y objetivo).
 - [ ] Prototipo de 4 actividades de Descobreix y revisión de progresión 5–8.
@@ -103,3 +104,5 @@ Desarrollar en un chat nuevo los cuatro esbozos visuales originales de *Reus per
 
 
 **Actualización 16-11-2026 — aprobación de especificación del prototipo de grans (D021):** el usuario aprueba la especificación v1.0 y autoriza desarrollar cuatro esbozos originales. El siguiente entregable es `books/reus-per-pintar-grans/esbozos-prototip-v1.md` más los archivos visuales de los cuatro esbozos, si las herramientas disponibles lo permiten. Deben respetar estrictamente la especificación; no se generan ilustraciones definitivas ni figuras reconocibles pendientes de derechos.
+
+**Actualización 16-11-2026 — preparación de generación externa:** creado `books/reus-per-pintar-grans/brief-generacion-externa-esbozos-v1.md`, con prompts individuales para las cuatro páginas, dirección artística compartida, alternativas de herramientas, controles de propiedad intelectual y lista de evaluación. Este entregable prepara la generación, pero no equivale a haber creado los esbozos: la tarea visual sigue pendiente y no se marca como completada.
