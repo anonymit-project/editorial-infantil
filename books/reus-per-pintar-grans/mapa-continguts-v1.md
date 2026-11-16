@@ -113,3 +113,29 @@ No s'han de col·locar més de dues pàgines consecutives de façanes. Alternar 
 **Criteri d'acceptació del mapa:** 12–20 motius amb justificació local, font identificable, escena original, nivell de complexitat, objectiu d'experiència i risc de drets; diferenciació real respecte a *petits*; cap disseny concret del Seguici tractat com a autoritzat.
 
 **No autoritza encara esbossos ni il·lustracions definitives.** El següent lliurable, després de validar el mapa, serà un prototip de quatre pàgines amb esbossos originals i briefs visuals revisables.
+
+
+---
+
+## 9. Actualización editorial — posicionamiento aprobado (D019, 16-11-2026)
+
+El usuario aprueba que *grans* sea principalmente un libro para colorear **gegants y bestiari del Seguici Festiu de Reus**. El patrimonio urbano e histórico tendrá más presencia y desarrollo que en *petits*, pero funcionará como segundo eje: enriquecerá el relato de Reus y dará variedad visual sin desplazar el protagonismo de las figuras festivas.
+
+### Criterio de equilibrio para la revisión
+- Mantener como referencia que aproximadamente la mitad de las láminas se dediquen a gegants, bestiari y escenas del Seguici.
+- Reservar el resto para patrimonio de Reus (arquitectura, espacios históricos y memoria urbana) y algunas escenas de vida cotidiana.
+- Evitar bloques largos de fachadas: alternar figuras individuales, parejas o grupos festivos, escenas de calle, patrimonio y actividad urbana.
+- La mayor complejidad de 6–8 años debe permitir explorar vestuario, atributos, texturas y movimiento con más detalle que en *petits*, sin convertir las páginas en láminas saturadas.
+- El patrimonio no debe ser un relleno genérico: cada elemento debe aportar identidad local, contexto histórico o contraste visual con el Seguici.
+
+### Consecuencia para la versión 1.0
+La selección priorizada anterior (10 motivos con predominio de arquitectura/ciudad y solo dos propuestas genéricas del Seguici) **queda desactualizada como propuesta de selección** y no debe utilizarse para pasar directamente a esbozos. La matriz de 16 motivos y sus fuentes se conserva como banco de materiales; deberá reordenarse y ampliarse en una versión revisada para que gegants y bestiari sean el núcleo real.
+
+### Condiciones y límites
+- No se ha aprobado una shortlist concreta de figuras ni parejas. Las seis candidatas de D017 siguen en investigación, no seleccionadas.
+- No se ha aprobado el número final de láminas ni la distribución exacta entre temas.
+- No presentar figuras genéricas inventadas como si fueran gegants o piezas reales del bestiari de Reus.
+- Cualquier ilustración reconocible de una figura concreta sigue condicionada a identificar la versión, autoría, titularidad y capacidad de licencia, y a obtener permiso escrito cuando sea necesario.
+- Se mantiene D018: no contactar con Museu/IMRC, Colla Gegantera, autores ni entidades portadoras ni enviar los borradores sin nueva autorización expresa.
+
+**Siguiente entregable:** revisión del mapa de contenidos de *grans* (versión 1.1), con una matriz de motivos reorganizada por bloques, propuesta razonada de figuras candidatas sin seleccionarlas definitivamente, patrimonio complementario y una recomendación de distribución de páginas. Detenerse antes de crear esbozos para figuras reconocibles o comprometer una selección que dependa de permisos.
