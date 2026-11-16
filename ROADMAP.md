@@ -26,8 +26,8 @@
 - [x] Mapa de contenidos v1 de Reus per pintar – grans (16 motivos documentados; requiere revisión de enfoque conforme a D019).
 - [x] Reestructurar el mapa de grans conforme a D019: protagonismo de gegants/bestiari y patrimonio como segundo eje (versión 1.1 documentada).
 - [x] Aprobar el mapa de contenidos v1.1 de grans y la distribución orientativa 7/5/2 sobre 14 láminas (D020); las figuras concretas siguen sin seleccionar ni autorizar.
-- [ ] Aprobar la especificación de cuatro páginas de prototipo de grans (sin figuras reconocibles pendientes de derechos).
-- [ ] Desarrollar esbozos visuales originales de las cuatro páginas tras aprobar sus especificaciones; no producir arte final ni retratos de figuras concretas sin base jurídica suficiente.
+- [x] Aprobar la especificación v1.0 de cuatro páginas de prototipo de grans (D021).
+- [ ] Desarrollar cuatro esbozos visuales originales conforme a la especificación aprobada; no producir arte final ni retratos de figuras concretas sin base jurídica suficiente.
 - [ ] Revisar los esbozos y validar adecuación 6–8.
 - [ ] Mapa de contenidos de Descobreix Reus! (12–20 actividades con fuente y objetivo).
 - [ ] Prototipo de 4 actividades de Descobreix y revisión de progresión 5–8.
@@ -100,3 +100,6 @@ Aplazar los contactos institucionales y mantener los borradores de consulta como
 
 
 **Actualización 16-11-2026 — aprobación del mapa de grans (D020):** el usuario aprueba el mapa v1.1 y la distribución orientativa 7/5/2 sobre 14 láminas. Se registra en DECISIONS.md y se actualiza el estado del mapa. Se prepara una especificación de cuatro páginas de prototipo que no requiere reproducir diseños concretos: cercavila sin figuras identificables, Casa Navàs/Mercadal, Boca de la Mina y preparativos no figurativos del Seguici. La aprobación no cierra paginación ni shortlist ni autoriza diseños reconocibles.
+
+
+**Actualización 16-11-2026 — aprobación de especificación del prototipo de grans (D021):** el usuario aprueba la especificación v1.0 y autoriza desarrollar cuatro esbozos originales. El siguiente entregable es `books/reus-per-pintar-grans/esbozos-prototip-v1.md` más los archivos visuales de los cuatro esbozos, si las herramientas disponibles lo permiten. Deben respetar estrictamente la especificación; no se generan ilustraciones definitivas ni figuras reconocibles pendientes de derechos.
