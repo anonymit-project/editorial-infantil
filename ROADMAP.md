@@ -49,7 +49,7 @@
 - [x] Preparar expediente de aclaración documental por interlocutor y candidata (sin enviar solicitudes).
 - [x] Verificar canales públicos del Museu de Reus/IMRC y de la Colla Gegantera.
 - [x] Redactar dos consultas documentales iniciales para revisión del usuario (sin enviar).
-- [ ] Confirmar con autores/representantes autoría exacta y cesiones de cada diseño.
+- [ ] Confirmar con autores/representantes autoría exacta y cesiones de cada diseño (bloqueado por D018; no contactar sin nueva aprobación).
 - [ ] Obtener del Ayuntamiento/Museu contratos de encargo, titularidad física, cesiones y documentación de custodia.
 - [ ] Identificar entidades portadoras/administradoras y comprobar si tienen mandato para conceder licencias.
 - [ ] Identificar derechos separados sobre vestuario, restauraciones, moldes, escaneos 3D, fotografías y atributos.
@@ -82,7 +82,7 @@
 - [ ] No presentar colaboración institucional como aprobada hasta contar con acuerdo escrito.
 
 ## Próximo hito
-Realizar en un chat nuevo la auditoría sistemática de derechos de las figuras del Seguici relevantes para los tres libros, conforme a D023. Crear `research/auditoria-derechos-figuras-seguici-v1.md` con inventario por figura y componente, fuentes primarias, autorías/titularidades conocidas, fechas, grado de certeza y clasificación: reproducción bastante fiel con dominio público/licencia acreditados; evocación original basada en rasgos culturales/genéricos; o no representar la figura concreta sin licencia/aclaración. Considerar el trazo infantil simplificado como factor, nunca como exención automática. No contactar con terceros (D018) ni generar arte reconocible durante la auditoría. Mantener también la fase ya autorizada de cuatro esbozos no figurativos de *grans* (D021), que puede continuar después de este análisis.
+Usar la auditoría documental v1 como base para decidir internamente qué figuras, si alguna, merecen una futura fase de aclaración de derechos. D018 sigue impidiendo enviar consultas o solicitudes; cualquier cambio requerirá nueva aprobación expresa. Mientras tanto, continuar los cuatro esbozos no figurativos ya autorizados de *grans* (D021–D022), sin incorporar figuras, vestuario, atributos o siluetas reconocibles.
 
 
 **Actualización 16-11-2026 — criterio de representación de gegants:** el usuario confirma que se mantienen como contenido de la colección aunque se representen mediante interpretaciones originales y simplificadas. Añadida D016 en DECISIONS.md y una sección específica en la auditoría. La simplificación no se tratará como exención automática de derechos: falta evaluar los rasgos concretos de cada versión y determinar si la ilustración propuesta depende de elementos protegidos. La selección de parejas y figuras sigue abierta.
@@ -112,3 +112,6 @@ Realizar en un chat nuevo la auditoría sistemática de derechos de las figuras 
 
 
 **Actualización 16-11-2026 — método de auditoría de derechos (D023):** se prioriza una investigación por figura y componente antes de decidir representaciones reconocibles. El formato de coloreado infantil se incluye en el análisis de similitud, pero no resuelve por sí solo el riesgo. La auditoría no autoriza contactos ni ilustraciones reconocibles. Próximo entregable: `research/auditoria-derechos-figuras-seguici-v1.md`.
+
+
+**Actualización 16-11-2026 — auditoría intensiva de derechos (D023):** completada y guardada en `research/auditoria-derechos-figuras-seguici-v1.md`. Se inventariaron 18 unidades pertinentes (gegnats, Carrasclet, Nanos y bestiari/elementos de fuego) y se analizaron sus componentes según la evidencia pública. Clasificación documental: 0 fiel viable, 0 versión local reconocible con base suficiente para evocación autorizada y 18 no representar reconociblemente sin licencia o aclaración. La principal laguna es la ausencia de contratos/cesiones y de prueba del titular y mandatario de licencia por componente; vestuario reciente, réplicas, restauraciones y digitalizaciones precisan análisis propio. No se contactó a nadie, no se creó arte reconocible y no se modificó DECISIONS.md. Próximo paso: continuar los esbozos genéricos autorizados y dejar cualquier aclaración con titulares para una futura fase si el usuario cambia D018.
