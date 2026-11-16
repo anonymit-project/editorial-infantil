@@ -20,6 +20,7 @@ inventario.
 ## Organización del proyecto
 
 - PROJECT_CONTEXT.md: contexto general y criterios.
+- INSTRUCCIONES.md: instrucciones operativas completas; consultar al inicio de cada tarea.
 - DECISIONS.md: decisiones consolidadas.
 - ROADMAP.md: planificación y estado.
 - research/: investigación y derechos.
