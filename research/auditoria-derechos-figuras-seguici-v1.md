@@ -37,7 +37,7 @@ A efectos de esta auditoría, «universo pertinente» significa las figuras fís
 
 El núcleo oficial de Sant Pere 2026 incluye, entre otros: Ball de Diables, Ball de Pere Joan Barceló, Víbria, Drac, Basilisc, Lleó, Nanos, Mulassa, Gegants, Carrasclet, balls de Sederes, Pastorets, Galeres, Cavallets, Cercolets, Prims, Valencians, Bastons, Mossèn Joan de Vic, Gitanes, Xiquets de Reus y Àliga. Un acto municipal de Corpus 2026 y el bando de seguridad de Sant Pere 2026 documentan además elementos de fuego como Drac petit, Cabra petita, Bous de foc, Vedella de foc y Cabra. Las listas dependen del acto: no existe una única alineación idéntica en cada salida.
 
-Se detallan **18 unidades**: seis parejas o figuras principales de gegants en el inventario (Vitxets, Moros, Indis, Japonesos, Negres, Carrasclet; Carrasclet no es pareja municipal), el conjunto de cinco parejas de Nanos, Nanos Petits y diez categorías de bestiari/fuego. Para evitar ambigüedad: son seis nombres tradicionales de gegants/figuras de gran formato contando Carrasclet, no seis parejas homogéneas.
+Se detallan **18 unidades**: cinco parejas de gegants (Vitxets, Moros, Indis, Japonesos y Negres), Carrasclet como figura individual, el conjunto de cinco parejas de Nanos, Nanos Petits y diez categorías de bestiari/fuego. Para evitar ambigüedad: son seis nombres tradicionales de gegants/figuras de gran formato contando Carrasclet, no seis parejas homogéneas.
 
 ### Excluido como obra figurativa independiente de esta clasificación
 
