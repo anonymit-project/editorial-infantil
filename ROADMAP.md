@@ -24,8 +24,9 @@
 - [x] Especificación del prototipo editorial de 4 páginas de petits (composición, elementos, línea, zonas, dificultad, reconocimiento y riesgos de PI).
 - [ ] Revisar el prototipo y validar adecuación 3–5; las ilustraciones definitivas aún no se han producido.
 - [x] Mapa de contenidos v1 de Reus per pintar – grans (16 motivos documentados; requiere revisión de enfoque conforme a D019).
-- [ ] Revisar y reequilibrar el mapa de grans conforme a D019: protagonismo de gegants/bestiari y mayor peso del patrimonio como segundo eje.
-- [ ] Prototipo de 4 páginas de grans y revisión de adecuación 6–8, solo después de validar briefs y revisar riesgos de derechos.
+- [x] Reestructurar el mapa de grans conforme a D019: protagonismo de gegants/bestiari y patrimonio como segundo eje (versión 1.1 documentada; pendiente de aprobación editorial).
+- [ ] Aprobar el mapa de contenidos v1.1 de grans y cerrar selección provisional de escenas no dependientes de derechos.
+- [ ] Prototipo de 4 páginas de grans y revisión de adecuación 6–8, después de aprobar el mapa; no dibujar figuras reconocibles sin resolver derechos.
 - [ ] Mapa de contenidos de Descobreix Reus! (12–20 actividades con fuente y objetivo).
 - [ ] Prototipo de 4 actividades de Descobreix y revisión de progresión 5–8.
 - [ ] Validar que no hay duplicación de experiencia entre títulos.
@@ -91,3 +92,6 @@ Aplazar los contactos institucionales y mantener los borradores de consulta como
 
 
 **Actualización 16-11-2026 — posicionamiento editorial de grans (D019):** el usuario aprueba que el libro se centre principalmente en gegants y bestiari del Seguici Festiu, dando al patrimonio urbano e histórico más peso que en *petits* como eje complementario. Se revisará el mapa v1, cuya selección anterior daba demasiado peso a arquitectura y escenas urbanas y dejaba el Seguici en dos propuestas genéricas. La distribución exacta, la paginación y las figuras concretas siguen pendientes. No se autoriza arte reconocible ni contacto con titulares; D011 y D018 permanecen vigentes.
+
+
+**Actualización 16-11-2026 — mapa de grans v1.1:** reestructurado conforme a D019. El banco de contenidos incluye candidatos de gegants, bestiari, cercavila, patrimonio y vida urbana; la propuesta de equilibrio de trabajo es 7/5/2 sobre 14 láminas, sin aprobar paginación ni shortlist. Se documentan alternativas editoriales si no se obtienen licencias y cuatro páginas de prototipo no dependientes de retratos reconocibles. El mapa queda pendiente de aprobación; no se han generado esbozos.
