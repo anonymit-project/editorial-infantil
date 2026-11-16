@@ -21,7 +21,8 @@
 
 ## Fase 2 – Desarrollo de los libros
 - [x] Mapa de contenidos de Reus per pintar – petits (16 motivos documentados; 14 de mayor prioridad y prototipo propuesto).
-- [x] Especificación del prototipo editorial de 4 páginas de petits (composición, elementos, línea, zonas, dificultad, reconocimiento y riesgos de PI).\n- [ ] Revisión del prototipo y validación de adecuación 3–5; las ilustraciones definitivas aún no se han producido.
+- [x] Especificación del prototipo editorial de 4 páginas de petits (composición, elementos, línea, zonas, dificultad, reconocimiento y riesgos de PI).
+- [ ] Revisión del prototipo y validación de adecuación 3–5; las ilustraciones definitivas aún no se han producido.
 - [ ] Mapa de contenidos de Reus per pintar – grans (12–20 ideas con fuente y objetivo).
 - [ ] Prototipo de 4 páginas de grans y revisión de adecuación 6–8.
 - [ ] Mapa de contenidos de Descobreix Reus! (12–20 actividades con fuente y objetivo).
