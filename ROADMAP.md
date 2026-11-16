@@ -23,7 +23,7 @@
 - [x] Mapa de contenidos de Reus per pintar – petits (16 motivos documentados; 14 de mayor prioridad y prototipo propuesto).
 - [x] Especificación del prototipo editorial de 4 páginas de petits (composición, elementos, línea, zonas, dificultad, reconocimiento y riesgos de PI).
 - [ ] Revisar el prototipo y validar adecuación 3–5; las ilustraciones definitivas aún no se han producido.
-- [ ] Mapa de contenidos de Reus per pintar – grans (12–20 ideas con fuente y objetivo).
+- [x] Mapa de contenidos de Reus per pintar – grans (16 motivos documentados con fuente, escena original, complejidad, objetivo y riesgos de derechos).
 - [ ] Prototipo de 4 páginas de grans y revisión de adecuación 6–8.
 - [ ] Mapa de contenidos de Descobreix Reus! (12–20 actividades con fuente y objetivo).
 - [ ] Prototipo de 4 actividades de Descobreix y revisión de progresión 5–8.
@@ -77,10 +77,13 @@
 - [ ] No presentar colaboración institucional como aprobada hasta contar con acuerdo escrito.
 
 ## Próximo hito
-Aplazar los contactos institucionales y mantener los borradores de consulta como material interno no enviado, conforme a D018. Continuar con el desarrollo editorial que no dependa de reproducir diseños concretos: mapa de contenidos de Reus per pintar – grans y definición de actividades del Seguici como tradición cultural en Descobreix Reus!, sin imágenes reconocibles de figuras pendientes de auditoría. Mantener la investigación documental pública de las seis candidatas y registrar fuentes y dudas. No enviar comunicaciones ni presentar la propuesta comercial completa sin nueva autorización expresa. No producir ilustraciones reconocibles ni cerrar la selección hasta verificar quién puede autorizar cada diseño y obtener los permisos necesarios.
+Aplazar los contactos institucionales y mantener los borradores de consulta como material interno no enviado, conforme a D018. Revisar y validar el mapa de contenidos de Reus per pintar – grans (books/reus-per-pintar-grans/mapa-continguts-v1.md) antes de desarrollar sus esbozos. Después, definir el tratamiento del Seguici como tradición cultural en Descobreix Reus!, sin imágenes reconocibles de figuras pendientes de auditoría. Mantener la investigación documental pública de las seis candidatas y registrar fuentes y dudas. No enviar comunicaciones ni presentar la propuesta comercial completa sin nueva autorización expresa. No producir ilustraciones reconocibles ni cerrar la selección hasta verificar quién puede autorizar cada diseño y obtener los permisos necesarios.
 
 
 **Actualización 16-11-2026 — criterio de representación de gegants:** el usuario confirma que se mantienen como contenido de la colección aunque se representen mediante interpretaciones originales y simplificadas. Añadida D016 en DECISIONS.md y una sección específica en la auditoría. La simplificación no se tratará como exención automática de derechos: falta evaluar los rasgos concretos de cada versión y determinar si la ilustración propuesta depende de elementos protegidos. La selección de parejas y figuras sigue abierta.
 
 
 **Actualización 16-11-2026 — estrategia de contactos (D018):** el usuario aprueba aplazar los contactos institucionales y no enviar por ahora los borradores al Museu/IMRC ni a la Colla Gegantera. Se conserva la documentación como material interno. La investigación continúa con fuentes públicas y el desarrollo editorial avanza por vías que no requieren reproducir diseños protegidos. La decisión no elimina la obligación de obtener licencias cuando corresponda; cualquier contacto futuro o presentación de la propuesta comercial completa requerirá nueva autorización expresa.
+
+
+**Actualización 16-11-2026 — mapa de contenidos de grans:** creado `books/reus-per-pintar-grans/mapa-continguts-v1.md` con 16 motivos, fuentes de partida, escenas originales, complejidad, diferenciación respecto a *petits* y cautelas de propiedad intelectual. Incluye una propuesta provisional para tratar el Seguici sin reproducir figuras concretas pendientes de autorización. El mapa queda pendiente de validación; no autoriza esbozos ni arte final.
