@@ -2,7 +2,7 @@
 
 **Versió:** 1.1  
 **Data:** 16-11-2026  
-**Estat:** proposta editorial reestructurada segons D019; pendent d'aprovació del mapa. No autoritza esbossos recognoscibles ni art final.  
+**Estat:** mapa v1.1 aprovat per l'usuari el 16-11-2026 (D020); distribució 7/5/2 acceptada com a base de desenvolupament. No autoritza esbossos recognoscibles de figures concretes ni art final.  
 **Abast:** banc de motius del Seguici Festiu, patrimoni i vida urbana; proposta de distribució orientativa per a un llibre centrat en gegants i bestiari.
 
 ## 1. Posicionament editorial aprovat
@@ -71,7 +71,7 @@ No s'aprova encara el nombre final de pàgines. Per provar l'equilibri editorial
 - **5 làmines de patrimoni:** Casa Navàs/Mercadal, Institut Pere Mata, Prioral, Boca de la Mina i un cinquè motiu entre ruta modernista, Teatre Fortuny o un altre patrimoni justificat.
 - **2 làmines de vida urbana/festa:** Mercat Central i preparatius de Sant Pere, o bé una altra escena quotidiana que aporti varietat.
 
-La distribució 7/5/2 és una **hipòtesi de treball** coherent amb D019, no una paginació ni una selecció aprovades. Si el nombre final de làmines canvia, es mantindrà com a criteri que aproximadament la meitat siguin de Seguici.
+La distribució 7/5/2 és una **base de desenvolupament aprovada** (D020), no una paginació definitiva ni una selecció de figures aprovades. Si el nombre final de làmines canvia, es mantindrà com a criteri que aproximadament la meitat siguin de Seguici.
 
 **Advertiment de viabilitat:** si no es poden obtenir permisos per a cap figura recognoscible, no s'ha de maquillar el problema amb animals fantàstics o gegants inventats presentats com a patrimoni de Reus. Caldrà decidir si el llibre pot funcionar amb contingut històric i escenes de cercavila sense retrats, o si convé ajornar-ne la publicació fins a obtenir llicències. Aquesta decisió no es pren en aquesta versió del mapa.
 
@@ -83,7 +83,7 @@ No generar encara esbossos recognoscibles de figures concretes. Per testar la qu
 3. **Boca de la Mina:** perspectiva, arbres, aigua i persones, com a contrast visual.
 4. **Pàgina de patrimoni festiu no figurativa:** preparatius, instruments genèrics i vocabulari visual del Seguici; sense copiar instruments concrets protegits, uniformes o atributs de figures.
 
-Aquest prototip valida només composició, densitat, traç i adequació 6–8; **no resol el objetivo comercial de ilustrar gegants concretos**. La representación reconocible se prototipará cuando exista base jurídica suficiente.
+Aquest prototip valida només composició, densitat, traç i adequació 6–8; **no resol l'objectiu comercial d'il·lustrar gegants concrets**. La representació recognoscible es prototiparà quan hi hagi una base jurídica suficient.
 
 ## 7. Diferenciació respecte als altres dos llibres
 
@@ -115,13 +115,10 @@ Fonts internes de treball:
 - Abans d'una il·lustració recognoscible: identificar versió exacta, autors i titular actual; acreditar capacitat de llicència; obtenir autorització escrita que inclogui reproducció, distribució, adaptació, impressió sota demanda, Amazon KDP, territoris, durada, atribució i aprovació d'arte final.
 - Si no s'acredita la cadena de drets, no representar la figura concreta. No usar una figura genèrica com a substitut enganyós d'una figura local.
 
-## 10. Decisió editorial pendent i criteris d'aprovació
+## 10. Aprovació i estat de desenvolupament
 
-Per aprovar el mapa abans del prototip cal confirmar:
-1. Que el posicionament principal (gegants i bestiari) i el pes complementari del patrimoni queden ben equilibrats.
-2. Que la distribució orientativa 7/5/2 sobre 14 làmines és una base raonable o cal ajustar-la.
-3. Que el banc de candidats continua obert i que cap figura es considera seleccionada ni autoritzada.
+El mapa v1.1 i la distribució orientativa 7/5/2 sobre 14 làmines han estat aprovats per l'usuari el 16-11-2026 (D020). El banc de candidats continua obert: cap figura concreta queda seleccionada ni autoritzada.
 
-**Criteri d'acceptació del mapa:** almenys 12 motius amb valor local, font, experiència, complexitat i risc; Seguici com a eix principal; patrimoni amb presència substancial; diferenciació respecte a *petits* i *Descobreix*; cap disseny concret tractat com a autoritzat.
+**Criteri de qualitat del mapa:** almenys 12 motius amb valor local, font, experiència, complexitat i risc; Seguici com a eix principal; patrimoni amb presència substancial; diferenciació respecte a *petits* i *Descobreix*; cap disseny concret tractat com a autoritzat.
 
-**No autoritza encara esbossos de figures recognoscibles ni il·lustracions definitives.**
+**L'aprovació del mapa no autoritza esbossos recognoscibles de figures concretes ni il·lustracions definitives.**
