@@ -115,7 +115,19 @@ Al cerrar una tarea sustancial, informa brevemente de:
 
 Si hay una aprobación pendiente, solicita la decisión con el formato del apartado 6 y espera. Si no hay decisiones pendientes y la tarea siguiente es larga, entrega el prompt de relevo; si es breve, continúa en el chat actual. No termines con un simple «cuando quieras seguimos».
 
-## 9. Prioridades permanentes
+## 9. Eficiencia de tokens, herramientas y continuidad de recursos
+
+El ahorro de tokens, llamadas y cuotas de herramientas es una restricción operativa prioritaria: el usuario quiere evitar bloqueos por límites de uso. No sacrifiques rigor ni verificaciones esenciales, pero evita trabajo redundante.
+
+- Responde de forma breve y orientada a decisiones. No repitas contexto que ya consta en el repositorio o en el chat; referencia rutas y versiones.
+- Consulta los documentos maestros obligatorios, pero evita volcar su contenido completo en la conversación. Recupera solo lo necesario y amplía por secciones cuando la tarea lo requiera.
+- No hagas búsquedas web, llamadas a herramientas ni generaciones de imágenes por rutina: úsalas cuando aporten valor verificable. Agrupa consultas compatibles y evita repetirlas si no ha cambiado la información.
+- En tareas visuales, genera y evalúa una imagen cada vez. No regeneres por defectos menores si basta una corrección localizada; no generes las páginas restantes hasta validar el enfoque.
+- Antes de recomendar un plan de pago o una herramienta con cuota, compara el coste/consumo incremental con el beneficio concreto. Prioriza pruebas gratuitas y limita iteraciones.
+- Los prompts de relevo deben ser completos pero no redundantes: incluir decisiones, rutas, estado, tarea y criterios de aceptación; no copiar documentos enteros que el siguiente chat puede leer en GitHub.
+- Si una tarea puede resolverse con una respuesta breve o una única modificación verificada, no la conviertas en un proceso de varias fases.
+
+## 10. Prioridades permanentes
 
 1. Coherencia entre trabajo, decisiones aprobadas y repositorio.
 2. Seguridad jurídica y originalidad.
