@@ -82,3 +82,17 @@ Revisar el prototipo de cuatro páginas de *Reus per pintar – petits* y valida
 **Documento:** `books/reus-per-pintar-petits/evaluacion-esbozos-y-paginacion-v2.md`.
 
 **Estado:** se mantiene 32 páginas como estructura de maqueta, no como decisión de producción. Los 14 motivos son provisionales. No se aprueban los esbozos ni se autoriza arte final. La tarifa de impresión no depende de añadir páginas dentro del tramo 24–110, pero la aceptación del tamaño personalizado y el coste mostrado por KDP deben confirmarse en el configurador.
+
+
+### Actualización 16-11-2026 — aprobación de la estructura de maqueta
+
+- [x] Obtener aprobación del usuario para la estructura de 32 páginas de la maqueta de *Reus per pintar – petits*.
+- [ ] Recuperar/versionar los cuatro PNG y la hoja de contacto para inspección visual real.
+- [ ] Revisar y corregir los cuatro esbozos; no aprobarlos automáticamente por existir una aprobación de paginación.
+- [ ] Resolver la selección definitiva de motivos (12, 14 o 16) mediante recomendación editorial y aprobación explícita.
+- [ ] Confirmar el tamaño personalizado KDP y los márgenes antes de cerrar el archivo de producción.
+- [ ] Preparar dummy de 32 páginas y comprobar orden de páginas, reversos en blanco y legibilidad a tamaño real.
+- [ ] Validar con ceras gruesas y, si es posible, prueba exploratoria con niños de 3–5 años.
+- [ ] Confirmar coste y regalía en KDP con las especificaciones y PDF definitivos.
+
+**Estado actualizado:** aprobada la estructura de 32 páginas exclusivamente para la maqueta. No están aprobados los 14 motivos, los esbozos, las ilustraciones ni las especificaciones finales de producción. Véase `books/reus-per-pintar-petits/evaluacion-esbozos-y-paginacion-v2.md`.
