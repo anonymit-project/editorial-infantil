@@ -88,3 +88,16 @@ en la conversación de proyecto activa. Al finalizar cada tarea se
 actualizarán los documentos afectados, el registro de decisiones y
 la planificación. No se avanzará a producción definitiva cuando
 existan decisiones editoriales o autorizaciones pendientes.
+
+## 10. Continuidad entre chats y control del contexto
+
+- Antes de iniciar una tarea, estima cuántas intervenciones o respuestas del usuario serán previsiblemente necesarias.
+- Si la tarea puede completarse razonablemente en 1–3 intervenciones del usuario, trabaja en el chat actual; no cambies de chat por sistema.
+- Si prevés que requerirá más de 2–3 intervenciones del usuario, o que su extensión puede comprometer la continuidad y el control del contexto, prepara un relevo para un chat nuevo.
+- El relevo debe entregarse como un único prompt completo, detallado y listo para copiar, sin exigir al usuario que reconstruya el contexto ni redacte instrucciones adicionales.
+- Antes de redactar el prompt, consulta la fuente de verdad del repositorio: README.md, PROJECT_CONTEXT.md, DECISIONS.md, ROADMAP.md y los documentos específicos pertinentes. Comprueba el estado real de los archivos.
+- El prompt de relevo debe incluir: contexto y objetivo del proyecto; decisiones aprobadas y sus límites; estado real de los entregables; rutas exactas de los documentos que deben leerse; tarea concreta; método de trabajo; cuestiones legales/editoriales/comerciales que condicionan la tarea; acciones permitidas y prohibidas; entregables; criterios de aceptación; actualización requerida del repositorio; y condición exacta para detenerse y solicitar aprobación.
+- No presentes como aprobadas las propuestas pendientes ni conviertas el cambio de chat en autorización para avanzar sobre decisiones bloqueadas.
+- No dividas artificialmente una tarea ni generes prompts de relevo si no aportan una ventaja real. Prioriza cerrar entregables y mantener una única fuente de verdad.
+- Si falta una decisión del usuario, resuélvela en el chat actual mediante recomendación y opciones numeradas; no prepares un prompt que permita al siguiente chat saltarse esa aprobación.
+- Al cerrar el relevo, indica brevemente qué queda hecho, qué está pendiente y qué debe hacer el nuevo chat primero.
