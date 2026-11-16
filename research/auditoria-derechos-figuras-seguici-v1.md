@@ -6,17 +6,17 @@
 
 ## 1. Resumen ejecutivo
 
-Se revisaron **19 unidades de inventario** pertinentes para los tres libros: seis parejas de gegants (Vitxets, Moros, Indis, Japonesos, Negres y Nanos; nota: seis parejas incluye cinco parejas históricas y Carrasclet se cuenta aparte), Carrasclet, los cinco pares de Nanos adultos como conjunto, Nanos Petits y diez entradas de bestiari/fuego (Mulassa, Àliga, Drac, Víbria, Basilisc, Lleó, Bou, Cucafera, familia Cabra/Bous de foc y Vedella de foc). Esta agrupación permite contar el universo sin fingir que cada unidad tenga una única obra o cadena de derechos: los componentes se separan en las fichas y las dudas se indican.
+Se revisaron **18 unidades de inventario** pertinentes para los tres libros: cinco parejas históricas de gegants (Vitxets, Moros, Indis, Japonesos y Negres), Carrasclet como gegant individual, los cinco pares de Nanos adultos como conjunto, Nanos Petits y diez entradas de bestiari/fuego (Mulassa, Àliga, Drac, Víbria, Basilisc, Lleó, Bou, Cucafera, familia Cabra/Bous de foc y Vedella de foc). Esta agrupación permite contar el universo sin fingir que cada unidad tenga una única obra o cadena de derechos: los componentes se separan en las fichas y las dudas se indican.
 
 **Resultado de clasificación de la representación reconocible de las versiones locales:**
 
 - **Fiel viable: 0 unidades.** No se encontró evidencia suficiente de dominio público aplicable a una versión identificada ni licencia comercial vigente que cubra reproducción y adaptación para KDP.
 - **Evocación original: 0 versiones locales autorizadas como reconocibles.** Sí se indican en las fichas motivos culturales genéricos que pueden abordarse con diseño independiente, pero no se debe atribuir esa evocación a la figura local ni reproducir sus rasgos expresivos.
-- **No representar reconociblemente sin licencia o aclaración: 19 unidades.** Es la clasificación prudente cuando la titularidad, autoría de componentes o facultad de licencia no está acreditada; no significa que se haya probado una infracción ni que toda imagen genérica esté prohibida.
+- **No representar reconociblemente sin licencia o aclaración: 18 unidades.** Es la clasificación prudente cuando la titularidad, autoría de componentes o facultad de licencia no está acreditada; no significa que se haya probado una infracción ni que toda imagen genérica esté prohibida.
 
 El programa municipal de Sant Pere 2026 confirma la presencia pública de Gegants, Nanos, Àliga, Mulassa, Carrasclet, Drac, Víbria, Basilisc, Lleó, balls y grupos de fuego. Las fuentes describen historia, usos, algunos autores y entidades; **no prueban por sí solas quién tiene derechos patrimoniales ni quién puede conceder licencia comercial**. Hay diseños contemporáneos documentados (por ejemplo, Japonesos/Negres, réplicas de 2005 y Àliga) y componentes recientes (vestuario anunciado para Japonesos en 2026), de modo que no cabe asumir antigüedad suficiente para dominio público. En figuras históricas sin autoría o fecha de muerte identificada tampoco se puede dar por vencido el plazo.
 
-**Conclusión editorial actual:** se pueden tratar nombres, historia y contexto documentados de forma textual, con rigor y cautela cultural, y desarrollar escenas festivas genéricas independientes. No se recomienda arte reconocible para ninguna de las 19 unidades hasta aclarar derechos por componente y, cuando proceda, obtener autorización suficiente.
+**Conclusión editorial actual:** se pueden tratar nombres, historia y contexto documentados de forma textual, con rigor y cautela cultural, y desarrollar escenas festivas genéricas independientes. No se recomienda arte reconocible para ninguna de las 18 unidades hasta aclarar derechos por componente y, cuando proceda, obtener autorización suficiente.
 
 ## 2. Metodología y fecha de corte
 
@@ -37,7 +37,7 @@ A efectos de esta auditoría, «universo pertinente» significa las figuras fís
 
 El núcleo oficial de Sant Pere 2026 incluye, entre otros: Ball de Diables, Ball de Pere Joan Barceló, Víbria, Drac, Basilisc, Lleó, Nanos, Mulassa, Gegants, Carrasclet, balls de Sederes, Pastorets, Galeres, Cavallets, Cercolets, Prims, Valencians, Bastons, Mossèn Joan de Vic, Gitanes, Xiquets de Reus y Àliga. Un acto municipal de Corpus 2026 y el bando de seguridad de Sant Pere 2026 documentan además elementos de fuego como Drac petit, Cabra petita, Bous de foc, Vedella de foc y Cabra. Las listas dependen del acto: no existe una única alineación idéntica en cada salida.
 
-Se detallan **19 unidades**: seis parejas o figuras principales de gegants en el inventario (Vitxets, Moros, Indis, Japonesos, Negres, Carrasclet; Carrasclet no es pareja municipal), el conjunto de cinco parejas de Nanos, Nanos Petits y diez categorías de bestiari/fuego. Para evitar ambigüedad: son seis nombres tradicionales de gegants/figuras de gran formato contando Carrasclet, no seis parejas homogéneas.
+Se detallan **18 unidades**: seis parejas o figuras principales de gegants en el inventario (Vitxets, Moros, Indis, Japonesos, Negres, Carrasclet; Carrasclet no es pareja municipal), el conjunto de cinco parejas de Nanos, Nanos Petits y diez categorías de bestiari/fuego. Para evitar ambigüedad: son seis nombres tradicionales de gegants/figuras de gran formato contando Carrasclet, no seis parejas homogéneas.
 
 ### Excluido como obra figurativa independiente de esta clasificación
 
@@ -141,7 +141,7 @@ El programa 2026 incluye numerosos balls y comparsas que podrían resultar perti
 | Bous de foc | No representar reconociblemente sin licencia o aclaración | Nombre plural y alcance incierto | Media | inventario físico y titular de cada figura |
 | Vedella de foc | No representar reconociblemente sin licencia o aclaración | Versión vigente y atribución por componente dudosas | Media | autoría, versiones y licencia |
 
-**Fiel viable: 0; Evocación original de la figura local reconocible: 0; No representar reconociblemente sin licencia o aclaración: 19.** La posibilidad de usar motivos abstractos/genéricos no convierte ninguna versión local en “evocación original” autorizada.
+**Fiel viable: 0; Evocación original de la figura local reconocible: 0; No representar reconociblemente sin licencia o aclaración: 18.** La posibilidad de usar motivos abstractos/genéricos no convierte ninguna versión local en “evocación original” autorizada.
 
 ## 7. Motivos genéricos, rasgos expresivos y simplificación
 
