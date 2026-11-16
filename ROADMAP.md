@@ -21,7 +21,7 @@
 
 ## Fase 2 – Desarrollo de los libros
 - [x] Mapa de contenidos de Reus per pintar – petits (16 motivos documentados; 14 de mayor prioridad y prototipo propuesto).
-- [ ] Prototipo de 4 páginas de petits y revisión de adecuación 3–5.
+- [x] Especificación del prototipo editorial de 4 páginas de petits (composición, elementos, línea, zonas, dificultad, reconocimiento y riesgos de PI).\n- [ ] Revisión del prototipo y validación de adecuación 3–5; las ilustraciones definitivas aún no se han producido.
 - [ ] Mapa de contenidos de Reus per pintar – grans (12–20 ideas con fuente y objetivo).
 - [ ] Prototipo de 4 páginas de grans y revisión de adecuación 6–8.
 - [ ] Mapa de contenidos de Descobreix Reus! (12–20 actividades con fuente y objetivo).
@@ -45,4 +45,4 @@
 - [ ] No presentar colaboración institucional como aprobada hasta contar con acuerdo escrito.
 
 ## Próximo hito
-Preparar el prototipo de cuatro páginas de *Reus per pintar – petits* con campanar, parada de mercat, Casa Navàs i passeig de la Boca de la Mina. Revisar legibilidad, grosor de línea y tamaño de las zonas para colorear con ceres gruixudes. No cerrar todavía páginas, formato ni PVP: dependerán de la prueba y de la simulación de costes KDP.
+Revisar `books/reus-per-pintar-petits/prototip-editorial-v1.md` i convertir les especificacions en quatre esbossos originals. Comprovar llegibilitat, gruix de línia i mida de les zones amb ceres gruixudes; després fer una prova exploratòria amb infants de 3–5 anys. No tancar encara pàgines, format ni PVP: dependran de la prova i de la simulació de costos KDP.
