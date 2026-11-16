@@ -2,7 +2,7 @@
 
 **Versió:** 1.0  
 **Data:** 16-11-2026  
-**Estat:** proposta pendent d'aprovació editorial; no són esbossos ni art final.  
+**Estat:** especificació v1.0 aprovada per l'usuari el 16-11-2026 (D021); autoritza només el desenvolupament dels quatre esbossos, no art final.  
 **Base:** mapa de continguts v1.1 aprovat (D020).  
 **Abast:** quatre pàgines de prova per validar llenguatge gràfic, composició, densitat i adequació 6–8 sense representar dissenys concrets del Seguici pendents d'autorització.
 
