@@ -1,8 +1,8 @@
 # Especificació del prototip — Reus per pintar – grans (6–8 anys)
 
-**Versió:** 1.0  
+**Versió:** 1.1  
 **Data:** 16-11-2026  
-**Estat:** especificació v1.0 aprovada per l'usuari el 16-11-2026 (D021); autoritza només el desenvolupament dels quatre esbossos, no art final.  
+**Estat:** especificació v1.1; actualitzada amb l'aprovació D022 (16-11-2026), que amplia la banda de la pàgina 1 de dos a cinc músics. Autoritza esbossos, no art final.  
 **Base:** mapa de continguts v1.1 aprovat (D020).  
 **Abast:** quatre pàgines de prova per validar llenguatge gràfic, composició, densitat i adequació 6–8 sense representar dissenys concrets del Seguici pendents d'autorització.
 
@@ -20,10 +20,10 @@ Aquestes quatre proves no validen encara l'atractiu comercial de les representac
 
 - Format vertical, perspectiva suau.
 - Primer pla: dues persones adultes genèriques i una criatura observant des de la vorera.
-- Pla mitjà: dos músics genèrics amb instruments de vent tradicionals simplificats, sense uniformes ni models distintius.
+- Pla mitjà: cinc músics genèrics en moviment, amb instruments variats i simplificats: una trompeta, un trombó o instrument de metall greu, un clarinet, una flauta travessera i un tambor de percussió. La combinació és una proposta visual genèrica, no una afirmació documental sobre la formació musical del Seguici. Sense uniformes ni models distintius.
 - Fons: façanes urbanes esquemàtiques i una línia de públic reduïda.
 - Espai visual clar al centre del carrer; no posar-hi cap silueta de gegant inventada.
-- 12–18 zones principals mitjanes o grans; evitar multitud compacta, textures de roba, claus d'instruments minúscules i llambordes repetitives.
+- 14–18 zones principals mitjanes o grans; evitar multitud compacta, textures de roba, claus d'instruments minúscules i llambordes repetitives.
 - Repte opcional: «Troba els dos músics» o «Quantes persones miren la cercavila?».
 - **Condició:** cap figura, vestuari, atribut, logotip, cartell o uniforme identificable del Seguici. Instruments genèrics dibuixats des de zero.
 
