@@ -47,3 +47,14 @@ Documento: `books/reus-per-pintar-petits/proposta-paginacio-v1.md`.
 La revisión de `esbossos-v1-revisio.md` confirma problemas de reconocimiento en el campanar y, especialmente, en Casa Navàs; la parada del Mercat y la Boca de la Mina son las propuestas más prometedoras, aunque ambas necesitan ajustes. La carpeta del producto no contiene los PNG ni la hoja de contacto mencionados en el informe, por lo que la inspección visual directa queda pendiente.
 
 D014 se mantiene como propuesta recomendada, no como decisión de producción. Se conserva la estructura de 32 páginas y 14 láminas provisionales. La comprobación actual de KDP aconseja no dar por aprobado el A4 ISO exacto: se trabajará con tamaño personalizado 8,27 × 11,69 pulgadas sujeto a confirmación en el configurador. El coste de impresión documentado de 2,48 € y la regalía aproximada de 3,51 € a 9,99 € sin IVA se mantienen para el tramo 24–110 páginas y tamaño grande con tinta negra. Véase `books/reus-per-pintar-petits/evaluacion-esbozos-y-paginacion-v2.md`.
+
+
+### Aprobación del usuario — 16-11-2026
+
+**D014 — Estructura de maqueta de 32 páginas para Reus per pintar – petits: APROBADA.**
+
+El usuario aprueba expresamente la estructura de 32 páginas para la maqueta, con impresión de las láminas a una cara y reversos en blanco. Esta aprobación se limita a la paginación estructural.
+
+**Quedan expresamente pendientes:** la selección definitiva de motivos, la aprobación de los cuatro esbozos y de cualquier ilustración, y la confirmación del formato final de producción y del PVP. Los 14 motivos siguen siendo una propuesta de trabajo, no una selección aprobada.
+
+Motivo de la recomendación aceptada: permite desarrollar y probar una maqueta completa sin incrementar el coste de impresión dentro del tramo KDP 24–110 páginas considerado. No autoriza todavía la producción final.
