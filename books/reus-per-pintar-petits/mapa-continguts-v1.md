@@ -149,3 +149,18 @@ Observar:
 5. Fer revisió jurídica específica només si es vol incorporar escultura, emblemes, interiors o elements del Seguici.
 
 **No autoritza encara la il·lustració definitiva.** El següent lliurable és un prototip de quatre pàgines, amb esbossos originals i revisió d'adequació.
+
+
+## 9. Actualització editorial — inclusió del Seguici Festiu (16-11-2026)
+
+La decisió D015, aprovada per l'usuari, modifica el criteri d'exclusió anterior: el Seguici Festiu i el bestiari tindran presència editorial als dos llibres de pintar. Aquesta aprovació temàtica **no autoritza encara la reproducció de cap disseny concret**.
+
+- **Reus per pintar – petits (3–5):** seleccionar poques figures molt representatives; una figura protagonista per làmina quan sigui possible, silueta gran, expressió amable, contorns gruixuts i pocs detalls interiors. Evitar multituds, textures petites i escenes carregades.
+- **Reus per pintar – grans (6–8):** es podran representar les mateixes figures amb més detall de vestuari, complements, escates, textures i escenes del Seguici, sempre dins dels límits d'ús autoritzats.
+- La selecció de figures i la seva distribució entre pàgines encara no estan tancades. No s'ha d'assumir que totes les figures del Seguici apareixeran als llibres.
+- Abans de crear esbossos recognoscibles o art final, cal identificar per a cada figura la versió/disseny concret, l'autoria, els titulars actuals i qui té capacitat per concedir una llicència comercial. Cal obtenir autorització escrita quan sigui necessària i verificar que inclogui adaptació infantil, impressió sota demanda i distribució comercial via KDP.
+- Si no es pot obtenir autorització, estudiar una alternativa gràfica original que no reprodueixi ni imiti de manera recognoscible el disseny concret.
+
+El punt anterior d'aquest apartat que excloïa globalment el Seguici queda **substituït** per aquesta actualització. Es mantenen íntegrament les cauteles generals sobre fotografies, il·lustracions, logotips, escuts, marques i altres obres amb drets propis.
+
+**Estat:** inclusió editorial aprovada; inventari de figures, auditoria de titularitat i permisos pendents. Aquesta actualització no aprova encara il·lustracions definitives ni modifica els quatre motius del prototip actual.
