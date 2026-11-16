@@ -31,12 +31,15 @@
 
 ## Fase 3 – Producción
 - [ ] Cerrar formato, páginas, papel y tinta tras prototipos.
-- [ ] Calcular costes y regalías con calculador KDP.
+- [x] Realizar análisis preliminar de costes y regalías KDP para Reus per pintar – petits.
+- [ ] Confirmar costes y regalías con el PDF final en el calculador/panel KDP.
 - [ ] Crear ilustraciones originales y registrar procedencia/derechos.
 - [ ] Revisar consistencia gráfica y lingüística.
 - [ ] Maquetar interiores y diseñar portadas.
 - [ ] Revisar archivos PDF y pruebas impresas.
 - [ ] Preparar archivos y metadatos para KDP.
+
+**Documento económico:** `commercial/viabilitat-economica-reus-per-pintar-petits-kdp-2026-11.md`. La recomendación de A4, 32 páginas y 9,99 € sin IVA es provisional; no constituye una decisión editorial cerrada.
 
 ## Fase 4 – Comercialización y colaboración
 - [ ] Definir precios con margen viable.
@@ -46,4 +49,4 @@
 - [ ] No presentar colaboración institucional como aprobada hasta contar con acuerdo escrito.
 
 ## Próximo hito
-Revisar `books/reus-per-pintar-petits/prototip-editorial-v1.md` i convertir les especificacions en quatre esbossos originals. Comprovar llegibilitat, gruix de línia i mida de les zones amb ceres gruixudes; després fer una prova exploratòria amb infants de 3–5 anys. No tancar encara pàgines, format ni PVP: dependran de la prova i de la simulació de costos KDP.
+Revisar el prototipo de cuatro páginas de *Reus per pintar – petits* y validar legibilidad, grosor de línea y tamaño de las zonas con ceras gruesas; después hacer una prueba exploratoria con niños de 3–5 años. Con esos resultados, cerrar si se publican 12, 14 o 16 láminas y preparar una maqueta física de 32 páginas para comprobar formato y coste real en KDP. No cerrar aún el PVP hasta contrastar el precio final con la competencia y la percepción de valor.
