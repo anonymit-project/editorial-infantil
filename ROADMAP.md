@@ -32,17 +32,25 @@
 - [ ] Definir el tratamiento del Seguici Festiu en Descobreix Reus! (contexto, nombres, juegos y actividades).
 
 ## Fase 2A – Identificación de figuras y auditoría de derechos del Seguici Festiu
-- [ ] Crear inventario de figuras candidatas (gegants, capgrossos y bestiari), distinguiendo nombre, entidad responsable, autoría/diseño conocido y versión concreta que se pretende representar.
-- [ ] Consultar fuentes oficiales y primarias: Ajuntament de Reus, Reus Cultura, entidades del Seguici, asociaciones responsables, archivos y documentación de autoría.
-- [ ] Identificar, para cada diseño, autor/a o diseñador/a, titular originario y titular actual de derechos; no asumir que el custodio, propietario físico o gestor cultural es también titular de derechos.
-- [ ] Determinar qué persona o entidad tiene capacidad legal para conceder licencia comercial y si existen derechos de terceros sobre restauraciones, vestuario, accesorios o elementos gráficos.
-- [ ] Preparar una matriz de derechos con evidencia, contactos, incertidumbres, permiso requerido y estado.
-- [ ] Consultar directamente a los posibles titulares y solicitar autorización escrita cuando corresponda.
-- [ ] Verificar que la autorización cubra adaptación gráfica infantil, reproducción impresa bajo demanda, distribución comercial mediante KDP, territorios, duración, atribución y contraprestación.
-- [ ] Definir alternativas originales no confundibles con diseños protegidos para figuras cuya autorización no se consiga.
-- [ ] No aprobar arte final ni publicar reproducciones concretas mientras la situación de derechos siga sin resolver.
+- [x] Consultar documentos maestros, mapa de contenidos, prototipo y auditoría previa.
+- [x] Elaborar inventario documental preliminar de gegants, nanos/capgrossos y bestiari, con cronología y autorías conocidas.
+- [x] Consultar fuentes primarias municipales, biblioteca municipal, Generalitat y ficha técnica de la Agrupació del Bestiari.
+- [x] Separar autoría, gestión festiva, custodia y posible titularidad de derechos.
+- [x] Preparar matriz preliminar de autoría, titular actual, capacidad de licencia, evidencia y permiso.
+- [x] Proponer shortlist editorial diferenciada para los tres libros, sin cerrar selección.
+- [x] Preparar mapa de contactos y futuras solicitudes; no enviar comunicaciones.
+- [ ] Confirmar con autores/representantes autoría exacta y cesiones de cada diseño.
+- [ ] Obtener del Ayuntamiento/Museu contratos de encargo, titularidad física, cesiones y documentación de custodia.
+- [ ] Identificar entidades portadoras/administradoras y comprobar si tienen mandato para conceder licencias.
+- [ ] Identificar derechos separados sobre vestuario, restauraciones, moldes, escaneos 3D, fotografías y atributos.
+- [ ] Obtener confirmación documental de quién puede autorizar cada figura seleccionada.
+- [ ] Solicitar autorización escrita cuando corresponda, con alcance comercial KDP, adaptación, territorio, duración, atribución y contraprestación.
+- [ ] Registrar respuestas y licencias, o documentar sustitución por diseño no confundible.
+- [ ] Cerrar selección definitiva solo después de conocer la situación jurídica de cada candidata.
 
-**Criterio de cierre:** ninguna figura se considera autorizada por el mero hecho de aparecer en fuentes municipales, ser de uso festivo público o estar custodiada por una entidad. La auditoría debe documentar la fuente de cada conclusión y conservar la autorización escrita o justificar por qué no es necesaria.
+**Estado de auditoría (16-11-2026):** inventario y matriz preliminares documentados en research/auditoria-derechos-seguici-festiu.md. Las fuentes consultadas identifican autorías parciales (Ramon Ferran, Manel Llaurador, David Constantí y Modest Gené) y entidades de gestión/custodia, pero no acreditan titularidad actual ni capacidad efectiva para conceder licencias comerciales. No se ha contactado con nadie ni se han solicitado permisos. No hay figuras autorizadas. La shortlist queda pendiente de aprobación del usuario y la auditoría no puede cerrarse.
+
+**Criterio de cierre:** ninguna figura se considera autorizada por aparecer en fuentes municipales, ser de uso festivo público o estar custodiada por una entidad. La auditoría debe documentar quién puede autorizar cada figura seleccionada y conservar la autorización escrita o justificar por qué no es necesaria.
 
 ## Fase 3 – Producción
 - [ ] Cerrar formato, páginas, papel y tinta tras prototipos.
@@ -54,7 +62,7 @@
 - [ ] Revisar archivos PDF y pruebas impresas.
 - [ ] Preparar archivos y metadatos para KDP.
 
-**Documento económico:** `commercial/viabilitat-economica-reus-per-pintar-petits-kdp-2026-11.md`. La recomendación de A4, 32 páginas y 9,99 € sin IVA es provisional; no constituye una decisión editorial cerrada.
+**Documento económico:** commercial/viabilitat-economica-reus-per-pintar-petits-kdp-2026-11.md. La recomendación de A4, 32 páginas y 9,99 € sin IVA es provisional; no constituye una decisión editorial cerrada.
 
 ## Fase 4 – Comercialización y colaboración
 - [ ] Definir precios con margen viable.
@@ -64,4 +72,4 @@
 - [ ] No presentar colaboración institucional como aprobada hasta contar con acuerdo escrito.
 
 ## Próximo hito
-Revisar el prototipo de cuatro páginas de *Reus per pintar – petits* y validar legibilidad, grosor de línea y tamaño de las zonas con ceras gruesas; después hacer una prueba exploratoria con niños de 3–5 años. En paralelo, iniciar el inventario preliminar de figuras del Seguici y la identificación de posibles titulares, sin bloquear las tareas editoriales que no dependan de esas autorizaciones. No producir ilustraciones de figuras concretas hasta resolver los derechos.
+Resolver la shortlist editorial propuesta y, con aprobación expresa del usuario, enviar solicitudes de aclaración documental a Ayuntamiento/Museu, autores y entidades responsables. No producir ilustraciones reconocibles ni cerrar la selección hasta verificar quién puede autorizar cada diseño y obtener los permisos necesarios.
