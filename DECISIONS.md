@@ -40,3 +40,10 @@ La selección de 14 motivos sigue siendo provisional. Se evitará duplicar visua
 Documento: `books/reus-per-pintar-petits/proposta-paginacio-v1.md`.
 
 **Limitación de esta revisión:** se han revisado las especificaciones escritas, pero no estaban disponibles los cuatro archivos gráficos para inspección directa. No se aprueba todavía la calidad visual ni se autoriza producir ilustraciones definitivas.
+
+
+### Verificación adicional 16-11-2026 — evaluación v2
+
+La revisión de `esbossos-v1-revisio.md` confirma problemas de reconocimiento en el campanar y, especialmente, en Casa Navàs; la parada del Mercat y la Boca de la Mina son las propuestas más prometedoras, aunque ambas necesitan ajustes. La carpeta del producto no contiene los PNG ni la hoja de contacto mencionados en el informe, por lo que la inspección visual directa queda pendiente.
+
+D014 se mantiene como propuesta recomendada, no como decisión de producción. Se conserva la estructura de 32 páginas y 14 láminas provisionales. La comprobación actual de KDP aconseja no dar por aprobado el A4 ISO exacto: se trabajará con tamaño personalizado 8,27 × 11,69 pulgadas sujeto a confirmación en el configurador. El coste de impresión documentado de 2,48 € y la regalía aproximada de 3,51 € a 9,99 € sin IVA se mantienen para el tramo 24–110 páginas y tamaño grande con tinta negra. Véase `books/reus-per-pintar-petits/evaluacion-esbozos-y-paginacion-v2.md`.
