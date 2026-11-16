@@ -96,3 +96,7 @@ La norma operativa completa y prioritaria está en `INSTRUCCIONES.md`, apartado 
 
 ## Actualización 16-11-2026 — prototipo de grans
 El mapa v1.1 y la distribución orientativa 7/5/2 están aprobados (D020). También está aprobada la especificación v1.0 de cuatro páginas (D021), que autoriza desarrollar esbozos originales de cercavila genérica, Casa Navàs/Mercadal, Boca de la Mina y preparativos no figurativos del Seguici. No autoriza arte final ni representación reconocible de gegants/bestiari sin resolver derechos. Véanse `books/reus-per-pintar-grans/mapa-continguts-v1.md` y `books/reus-per-pintar-grans/especificacio-prototip-v1.md`.
+
+
+## Actualización 16-11-2026 — prototipo visual de grans
+La segunda generación de la página de cercavila (books/reus-per-pintar-grans/tests/Gemini_cercavila.jpg) ha recibido una valoración favorable del usuario como base de esbozo, con el ajuste aprobado D022: ampliar la banda a cinco músicos con instrumentos variados y genéricos. La especificación está en v1.1 y el brief de generación externa en v1.2. Esto no constituye arte final ni aprobación jurídica. Las páginas de Casa Navàs/Mercadal, Boca de la Mina y preparativos festivos siguen pendientes de generación y revisión.
