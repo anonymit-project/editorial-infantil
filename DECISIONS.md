@@ -10,10 +10,15 @@
 | D006 | Priorizar diseños originales para reducir riesgos legales | Cerrada |
 | D007 | Presentar los tres productos a ReusCultura | Prevista |
 | D008 | No depender de acuerdos institucionales para publicar | Cerrada |
+| D009 | Diferenciar los tres libros por experiencia y función, no solo por dificultad | Propuesta recomendada; pendiente de validación |
+| D010 | No cerrar precio, páginas ni formato hasta simular costes KDP con especificaciones concretas | Criterio de trabajo adoptado |
+| D011 | No reproducir diseños concretos del Seguici, logotipos ni escudos sin identificar titulares y obtener permiso cuando sea necesario | Criterio de derechos adoptado |
 
 ## Criterios
-
 - No cambiar decisiones cerradas sin justificarlo.
 - Registrar fecha y motivo de cualquier modificación.
 - Diferenciar decisiones definitivas de hipótesis.
 - No convertir recomendaciones en decisiones sin validación.
+
+## Actualización 16-11-2026
+La arquitectura editorial propone tres experiencias distintas: coloreado inicial (3–5), coloreado de observación (6–8) y cuaderno de exploración (5–8). Se mantiene como propuesta editorial hasta revisar prototipos.
