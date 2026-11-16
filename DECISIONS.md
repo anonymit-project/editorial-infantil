@@ -52,3 +52,9 @@ D016 confirma la inclusión editorial de los gegants, no aprueba una pareja o ve
 
 ## Aprobación del usuario — 16-11-2026 — D017
 El usuario aprueba mantener las seis candidatas (Vitxets, Moros, Indis, Japonesos, Negres y Carrasclet) en investigación documental. Esta aprobación no supone shortlist editorial aprobada, selección para los libros, autorización de ilustraciones ni permiso de reproducción. La investigación debe continuar con identificación individual de autores, titulares, derechos por componente y facultades de licencia. No autoriza contactar ni enviar solicitudes.
+
+
+## Aprobación del usuario — 16-11-2026 — D018
+El usuario aprueba la estrategia de investigación discreta y aplazamiento de contactos institucionales. Por ahora no se enviarán los borradores al Museu de Reus/IMRC ni a la Colla Gegantera, ni se contactará con autores, representantes o colaboradores para revelar o presentar la propuesta comercial. Se continuará la investigación mediante fuentes públicas y documentación ya disponible, y se avanzará en los contenidos y prototipos que no dependan de reproducir diseños concretos protegidos.
+
+**Límites:** esta decisión no implica renunciar a permisos ni autoriza reproducir diseños protegidos sin licencia cuando sea necesaria. Tampoco impide reconsiderar contactos más adelante, cuando existan prototipos sólidos o una necesidad documental concreta. Los borradores existentes se conservan como material interno y no se enviarán sin una nueva autorización expresa.
