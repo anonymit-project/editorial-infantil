@@ -58,3 +58,11 @@ El usuario aprueba mantener las seis candidatas (Vitxets, Moros, Indis, Japoneso
 El usuario aprueba la estrategia de investigación discreta y aplazamiento de contactos institucionales. Por ahora no se enviarán los borradores al Museu de Reus/IMRC ni a la Colla Gegantera, ni se contactará con autores, representantes o colaboradores para revelar o presentar la propuesta comercial. Se continuará la investigación mediante fuentes públicas y documentación ya disponible, y se avanzará en los contenidos y prototipos que no dependan de reproducir diseños concretos protegidos.
 
 **Límites:** esta decisión no implica renunciar a permisos ni autoriza reproducir diseños protegidos sin licencia cuando sea necesaria. Tampoco impide reconsiderar contactos más adelante, cuando existan prototipos sólidos o una necesidad documental concreta. Los borradores existentes se conservan como material interno y no se enviarán sin una nueva autorización expresa.
+
+
+## Aprobación del usuario — 16-11-2026 — D019
+El usuario aprueba que *Reus per pintar – grans* sea principalmente un libro para colorear gegants y bestiari del Seguici Festiu de Reus. El patrimonio urbano e histórico tendrá más peso y desarrollo que en *petits*, como segundo eje editorial complementario, pero no desplazará el protagonismo de las figuras festivas ni convertirá el título en un libro genérico de monumentos.
+
+**Criterio de equilibrio para revisar el mapa:** trabajar con una distribución orientativa en la que aproximadamente la mitad de las láminas se dedique a gegants, bestiari y escenas del Seguici; el resto se repartirá entre patrimonio de Reus y escenas de ciudad/vida cotidiana. La proporción y la selección exacta se concretarán al revisar el mapa, sin dar por aprobada todavía una paginación definitiva ni una shortlist de figuras.
+
+**Límite de derechos:** D019 aprueba el posicionamiento y el peso relativo de los temas, no la reproducción de diseños concretos. Se mantienen D011, D015, D016, D017 y D018: auditoría individual, identificación de titulares y permisos escritos cuando proceda; no se autoriza contactar ni enviar solicitudes.
