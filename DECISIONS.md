@@ -17,6 +17,7 @@
 | D013 | Tomar como escenario económico de trabajo 32 páginas, tapa blanda A4, interior negro sobre papel blanco y precio de lista de 9,99 € sin IVA; coste estimado 2,48 € y regalía estándar estimada 3,51 € por venta en Amazon.es | Recomendación provisional; no aprobada ni cerrada |
 | D014 | Utilizar una estructura de maqueta de 32 páginas para Reus per pintar – petits, con láminas a una cara y reversos en blanco | Aprobada para maqueta; no cierra formato final, motivos ni producción |
 | D015 | Incluir el Seguici Festiu —en particular gegants y bestiari— en ambos libros de colorear, con menor complejidad en petits y mayor detalle en grans; abordar también la tradición en Descobreix Reus! | Aprobada como criterio editorial; reproducción de diseños concretos condicionada a auditoría de derechos y permisos |
+| D020 | Aprobar el mapa de contenidos v1.1 de Reus per pintar – grans y utilizar 7/5/2 como distribución orientativa para 14 láminas (7 Seguici, 5 patrimonio, 2 vida urbana/festiva) | Aprobada como base de desarrollo; no fija paginación final, shortlist de figuras ni autoriza diseños protegidos |
 
 ## Criterios
 - No cambiar decisiones cerradas sin justificarlo.
@@ -66,3 +67,9 @@ El usuario aprueba que *Reus per pintar – grans* sea principalmente un libro p
 **Criterio de equilibrio para revisar el mapa:** trabajar con una distribución orientativa en la que aproximadamente la mitad de las láminas se dedique a gegants, bestiari y escenas del Seguici; el resto se repartirá entre patrimonio de Reus y escenas de ciudad/vida cotidiana. La proporción y la selección exacta se concretarán al revisar el mapa, sin dar por aprobada todavía una paginación definitiva ni una shortlist de figuras.
 
 **Límite de derechos:** D019 aprueba el posicionamiento y el peso relativo de los temas, no la reproducción de diseños concretos. Se mantienen D011, D015, D016, D017 y D018: auditoría individual, identificación de titulares y permisos escritos cuando proceda; no se autoriza contactar ni enviar solicitudes.
+
+
+## Aprobación del usuario — 16-11-2026 — D020
+El usuario aprueba el mapa de contenidos v1.1 de *Reus per pintar – grans* y su distribución orientativa 7/5/2 sobre 14 láminas: 7 de Seguici, 5 de patrimonio y 2 de vida urbana/festiva. Se autoriza avanzar con la preparación del prototipo mediante escenas que no dependan de reproducir diseños concretos protegidos.
+
+**Límites:** la proporción es una base de desarrollo, no una paginación definitiva ni una selección de figuras. No se aprueba ninguna pareja o figura concreta ni se autoriza reproducir diseños reconocibles. D011, D015, D016, D017 y D018 continúan vigentes.
