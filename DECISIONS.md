@@ -15,7 +15,7 @@
 | D011 | No reproducir diseños concretos del Seguici, logotipos ni escudos sin identificar titulares y obtener permiso cuando sea necesario | Criterio de derechos adoptado |
 | D012 | Priorizar en Reus per pintar – petits una selección de 12–14 motivos de arquitectura, patrimonio, espacios urbanos y vida cotidiana, con formas grandes y baja complejidad | Propuesta editorial; pendiente de prototipo |
 | D013 | Tomar como escenario económico de trabajo 32 páginas, tapa blanda A4, interior negro sobre papel blanco y precio de lista de 9,99 € sin IVA; coste estimado 2,48 € y regalía estándar estimada 3,51 € por venta en Amazon.es | Recomendación provisional; no aprobada ni cerrada |
-| D014 | Utilizar una estructura de maqueta de 32 páginas para Reus per pintar – petits, con láminas a una cara y reversos en blanco | Aprobada para maqueta; no cierra formato final, motivos ni producción |
+| D014 | Utilizar una estructura de maqueta de 32 páginas para Reus per pintar – petits. En su aprobación inicial, las láminas se plantearon a una cara y con reversos en blanco; esta condición se modifica por D028 para permitir impresión a doble cara cuando sea necesaria para las composiciones enfrentadas. | Aprobada para maqueta; paginación y formato final aún por cerrar |
 | D015 | Incluir el Seguici Festiu —en particular gegants y bestiari— en ambos libros de colorear, con menor complejidad en petits y mayor detalle en grans; abordar también la tradición en Descobreix Reus! | Aprobada como criterio editorial; reproducción de diseños concretos condicionada a auditoría de derechos y permisos |
 | D020 | Aprobar el mapa de contenidos v1.1 de Reus per pintar – grans y utilizar 7/5/2 como distribución orientativa para 14 láminas (7 Seguici, 5 patrimonio, 2 vida urbana/festiva) | Aprobada como base de desarrollo; no fija paginación final, shortlist de figuras ni autoriza diseños protegidos |
 | D021 | Aprobar la especificación v1.0 del prototipo de cuatro páginas de Reus per pintar – grans | Aprobada para desarrollar esbozos; no autoriza arte final ni representaciones reconocibles de figuras sin resolver derechos |
@@ -129,3 +129,11 @@ Esta aprobación no supone la aprobación de ilustraciones, mapas de contenidos 
 **Estado:** Aprobada para ejecución.
 
 Se aprueba desarrollar la arquitectura editorial y los contenidos completos de *Reus per pintar – petits*, *Reus per pintar – grans* y *Descobreix Reus!* conforme al encargo de Fase 3 y a los entregables allí definidos. Esta aprobación autoriza el trabajo editorial y documental de la fase; no aprueba de antemano sus propuestas concretas, no modifica D014 ni ninguna otra decisión y no autoriza iniciar ilustraciones. Se mantiene D025 con todos sus límites. La ejecución se trasladará a un chat nuevo según el apartado 7 de INSTRUCCIONES.md, por tratarse de una fase extensa.
+
+
+## D028 — Revisión de impresión a una cara para *Petits*
+
+**Fecha:** 19/11/2026  
+**Estado:** Aprobada.
+
+El usuario elige mantener las composiciones enfrentadas aprobadas en D026. Se modifica la condición de D014 de imprimir todas las láminas a una cara con reversos en blanco: la arquitectura podrá usar impresión a doble cara cuando sea necesario para que haya contenido en ambas páginas de una composición enfrentada. Se conserva la maqueta estructural de 32 páginas. La paginación física, la distribución de páginas impresas y blancas, el efecto sobre el coloreado, el medianil y la compatibilidad técnica con KDP deberán concretarse y verificarse en la Fase 3 antes de aprobar la maqueta. Esta decisión no cierra otros formatos o especificaciones de producción, ni aprueba contenidos o ilustraciones.
