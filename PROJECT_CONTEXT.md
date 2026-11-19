@@ -149,3 +149,7 @@ La dirección artística común y la diferenciación visual de los tres títulos
 - *Reus per pintar – petits* y *Reus per pintar – grans* se diseñarán mediante composiciones de doble página, protegiendo el medianil.
 - *Reus per pintar – petits* combinará figuras del Seguici Festiu con patrimonio arquitectónico y espacios emblemáticos reconocibles de Reus.
 - Las ilustraciones definitivas y los mapas editoriales completos siguen pendientes de desarrollo y aprobación.
+
+
+## Actualización 19-11-2026 — Fase 3 autorizada (D027)
+El usuario aprueba desarrollar la arquitectura editorial y contenidos completos de los tres libros. Por continuidad, la ejecución se realizará en un chat nuevo conforme al apartado 7 de INSTRUCCIONES.md. Aprobación de fase, no de propuestas de contenido. No iniciar ilustraciones. D014 y D025 permanecen vigentes.
