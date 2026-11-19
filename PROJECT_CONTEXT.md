@@ -131,3 +131,10 @@ Se ha completado una auditoría documental y visual inicial de los tres producto
 En *grans*, `Cercavila_gemini.jpg` es la única prueba que visualmente cumple D022 (cinco músicos variados) y queda como candidata de esbozo; `Gemini_cercavila.jpg` muestra solo dos músicos y no cumple. No se puede demostrar documentalmente qué archivo corresponde a la segunda iteración valorada, porque falta ficha de generación. Las otras tres páginas de prueba no existen aún como imágenes.
 
 Se ha creado `books/descobreix-reus/plan-editorial-inicial-v1.md` como documento de arranque no aprobado. No existen aún mapas completos, textos finales, portadas, registros de procedencia ni maquetas de ninguno de los tres libros. La siguiente fase prevista es cerrar dirección artística común y diferenciada antes de continuar la producción visual.
+
+
+## Actualización 19-11-2026 — propuesta de dirección artística de colección
+
+Se ha creado `editorial/direccion-artistica-coleccion-v1.md` como propuesta pendiente de aprobación. Recomienda una identidad modular común bajo el identificador provisional «Reus en joc», con tipografías Fredoka y Nunito Sans, tinta azul y fondo marfil, iconografía original y retícula flexible. Diferencia los títulos mediante paletas y composiciones: coral/amarillo y motivos aislados para *petits*; cobalto/teja y escenas narrativas del Seguici para *grans*; turquesa/naranja y lenguaje de cuaderno de exploración para *Descobreix Reus!*.
+
+La propuesta incluye conceptos de portada, ejemplos de composición interior, criterios de aceptación y alternativas descartadas. **No está aprobada**: no se ha iniciado producción visual ni se han generado ilustraciones nuevas. La siguiente acción es que el usuario valide o modifique la dirección artística; después se abordará la arquitectura de contenidos y páginas de los tres títulos. D025 y sus restricciones permanecen vigentes.
