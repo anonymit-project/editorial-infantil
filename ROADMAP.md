@@ -1,6 +1,6 @@
 # Planificación del proyecto
 
-**Actualizado:** 16-11-2026
+**Actualizado:** 19-11-2026
 
 ## Fase 1 – Investigación y definición editorial
 - [x] Leer documentos maestros y comprobar coherencia inicial.
@@ -49,16 +49,16 @@
 - [x] Preparar expediente de aclaración documental por interlocutor y candidata (sin enviar solicitudes).
 - [x] Verificar canales públicos del Museu de Reus/IMRC y de la Colla Gegantera.
 - [x] Redactar dos consultas documentales iniciales para revisión del usuario (sin enviar).
-- [ ] Confirmar con autores/representantes autoría exacta y cesiones de cada diseño (bloqueado por D018; no contactar sin nueva aprobación).
-- [ ] Obtener del Ayuntamiento/Museu contratos de encargo, titularidad física, cesiones y documentación de custodia.
-- [ ] Identificar entidades portadoras/administradoras y comprobar si tienen mandato para conceder licencias.
+- [ ] Confirmar con autores/representantes autoría exacta y cesiones de cada diseño (consultas limitadas autorizadas por D024).
+- [ ] Obtener del Ayuntamiento/Museu contratos de encargo, titularidad física, cesiones y documentación de custodia (mediante las consultas limitadas autorizadas por D024).
+- [ ] Identificar entidades portadoras/administradoras y comprobar si tienen mandato para conceder licencias (mediante las consultas limitadas autorizadas por D024).
 - [ ] Identificar derechos separados sobre vestuario, restauraciones, moldes, escaneos 3D, fotografías y atributos.
 - [ ] Obtener confirmación documental de quién puede autorizar cada figura seleccionada.
 - [ ] Solicitar autorización escrita cuando corresponda, con alcance comercial KDP, adaptación, territorio, duración, atribución y contraprestación.
 - [ ] Registrar respuestas y licencias, o documentar sustitución por diseño no confundible.
 - [ ] Cerrar selección definitiva solo después de conocer la situación jurídica de cada candidata.
 
-**Estado de auditoría (16-11-2026):** inventario y matriz preliminares documentados en research/auditoria-derechos-seguici-festiu.md. Las fichas comparativas, matriz de riesgos y dirección artística para gegants se han desarrollado en research/fichas-comparativas-gegants-reus-2026-11.md. La shortlist de parejas/figuras continúa sin aprobar; el usuario aprobó mantener las seis candidatas en investigación documental (D017), sin autorizar ilustraciones ni contactos. El expediente de aclaración documental está preparado en research/expediente-aclaracion-documental-gegants-2026-11.md. Los canales públicos y dos borradores iniciales para Museu/IMRC y Colla Gegantera se documentan en research/esborranys-consultes-documentals-gegants-2026-11.md; están pendientes de revisión y no se han enviado. Las fuentes consultadas identifican autorías parciales (Ramon Ferran, Manel Llaurador, David Constantí y Modest Gené) y entidades de gestión/custodia, pero no acreditan titularidad actual ni capacidad efectiva para conceder licencias comerciales. No se ha contactado con nadie ni se han solicitado permisos. No hay figuras autorizadas. La shortlist queda pendiente de aprobación del usuario y la auditoría no puede cerrarse.
+**Estado de auditoría (16-11-2026):** inventario y matriz preliminares documentados en research/auditoria-derechos-seguici-festiu.md. Las fichas comparativas, matriz de riesgos y dirección artística para gegants se han desarrollado en research/fichas-comparativas-gegants-reus-2026-11.md. La shortlist de parejas/figuras continúa sin aprobar; el usuario aprobó mantener las seis candidatas en investigación documental (D017), sin autorizar ilustraciones reconocibles. D024 autoriza consultas documentales acotadas, no el uso de las figuras. El expediente de aclaración documental está preparado en research/expediente-aclaracion-documental-gegants-2026-11.md. Los canales públicos y dos borradores iniciales para Museu/IMRC y Colla Gegantera se documentan en research/esborranys-consultes-documentals-gegants-2026-11.md; están pendientes de revisión y no se han enviado. Las fuentes consultadas identifican autorías parciales (Ramon Ferran, Manel Llaurador, David Constantí y Modest Gené) y entidades de gestión/custodia, pero no acreditan titularidad actual ni capacidad efectiva para conceder licencias comerciales. No se ha contactado con nadie ni se han solicitado permisos. No hay figuras autorizadas. La shortlist queda pendiente de aprobación del usuario y la auditoría no puede cerrarse.
 
 **Criterio de cierre:** ninguna figura se considera autorizada por aparecer en fuentes municipales, ser de uso festivo público o estar custodiada por una entidad. La auditoría debe documentar quién puede autorizar cada figura seleccionada y conservar la autorización escrita o justificar por qué no es necesaria.
 
@@ -82,7 +82,7 @@
 - [ ] No presentar colaboración institucional como aprobada hasta contar con acuerdo escrito.
 
 ## Próximo hito
-Usar la auditoría documental v1 como base para decidir internamente qué figuras, si alguna, merecen una futura fase de aclaración de derechos. D018 sigue impidiendo enviar consultas o solicitudes; cualquier cambio requerirá nueva aprobación expresa. Mientras tanto, continuar los cuatro esbozos no figurativos ya autorizados de *grans* (D021–D022), sin incorporar figuras, vestuario, atributos o siluetas reconocibles.
+Revisar y adaptar los dos borradores de consulta existentes al alcance limitado aprobado en D024; preparar el primer contacto con ReusCultura para identificar el interlocutor competente y solicitar derivación, si procede, a Museu de Reus/IMRC, Colla Gegantera, autores u otros titulares. No adjuntar prototipos con diseños reconocibles ni interpretar la recepción de la consulta como permiso. En paralelo, continuar los esbozos no figurativos de *grans* ya autorizados (D021–D022).
 
 
 **Actualización 16-11-2026 — criterio de representación de gegants:** el usuario confirma que se mantienen como contenido de la colección aunque se representen mediante interpretaciones originales y simplificadas. Añadida D016 en DECISIONS.md y una sección específica en la auditoría. La simplificación no se tratará como exención automática de derechos: falta evaluar los rasgos concretos de cada versión y determinar si la ilustración propuesta depende de elementos protegidos. La selección de parejas y figuras sigue abierta.
@@ -115,3 +115,5 @@ Usar la auditoría documental v1 como base para decidir internamente qué figura
 
 
 **Actualización 16-11-2026 — auditoría intensiva de derechos (D023):** completada y guardada en `research/auditoria-derechos-figuras-seguici-v1.md`. Se inventariaron 18 unidades pertinentes (gegnats, Carrasclet, Nanos y bestiari/elementos de fuego) y se analizaron sus componentes según la evidencia pública. Clasificación documental: 0 fiel viable, 0 versión local reconocible con base suficiente para evocación autorizada y 18 no representar reconociblemente sin licencia o aclaración. La principal laguna es la ausencia de contratos/cesiones y de prueba del titular y mandatario de licencia por componente; vestuario reciente, réplicas, restauraciones y digitalizaciones precisan análisis propio. No se contactó a nadie, no se creó arte reconocible y no se modificó DECISIONS.md. Próximo paso: continuar los esbozos genéricos autorizados y dejar cualquier aclaración con titulares para una futura fase si el usuario cambia D018.
+
+**Actualización 19-11-2026 — autorización limitada de consultas (D024):** el usuario autoriza abrir conversaciones documentales con ReusCultura y, si procede, Museu de Reus/IMRC y Colla Gegantera. Se pueden revisar, adaptar y enviar consultas acotadas para identificar titulares y mandatarios por figura/componente y conocer las condiciones de una autorización escrita para desarrollar y mostrar prototipos privados no comerciales. D018 queda levantada solo para este propósito. No se ha enviado ninguna comunicación ni existe permiso para generar, reproducir, mostrar públicamente o comercializar diseños reconocibles. El siguiente hito es revisar los borradores existentes y preparar el primer contacto con ReusCultura.
