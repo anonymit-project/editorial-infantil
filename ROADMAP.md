@@ -235,6 +235,6 @@ La aprobación artística no cierra contenidos, paginación, formato KDP, ilustr
 
 ## Próximo hito
 
-**Fase 3 autorizada (D027; 19-11-2026); ejecución trasladada a un chat nuevo según el apartado 7 de INSTRUCCIONES.md.** La primera cuestión técnica será resolver la compatibilidad entre D014 (32 páginas para *Petits*, láminas a una cara y reversos en blanco) y D026 (composiciones visuales coordinadas a doble página), analizando paginación física, caras impresas, experiencia de coloreado, medianil y compatibilidad con KDP. Después se completarán los mapas, secuencias y briefs editoriales de los tres títulos.
+**Fase 3 autorizada (D027; 19-11-2026); ejecución trasladada a un chat nuevo según el apartado 7 de INSTRUCCIONES.md.** La decisión de impresión quedó resuelta por D028: se mantienen las composiciones enfrentadas de D026 y se permite impresión a doble cara donde sea necesaria, conservando la maqueta estructural de 32 páginas de D014. En la Fase 3 se debe concretar y verificar la paginación física, las caras impresas y blancas, la experiencia de coloreado, el medianil y la compatibilidad con KDP. Después se completarán los mapas, secuencias y briefs editoriales de los tres títulos.
 
 No iniciar ilustraciones hasta cerrar y validar la arquitectura. D025 sigue vigente, con sus límites de privacidad y no explotación.
