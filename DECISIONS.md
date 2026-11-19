@@ -108,3 +108,16 @@ El usuario aprueba desarrollar primero prototipos editoriales completos de los t
 **Alcance y límites:** esta aprobación es una decisión de desarrollo interno y asunción consciente de riesgo; no declara lícita ninguna reproducción, no acredita dominio público, no identifica titulares ni concede permiso. Los archivos y prototipos permanecerán privados durante su desarrollo. Se podrán mostrar de forma selectiva y privada a ReusCultura únicamente en el contexto de una consulta/posible colaboración, una vez establecido el contacto; no se autoriza su difusión pública, publicación, venta, distribución general, carga/publicación en KDP ni entrega de copias a terceros. Cualquier explotación comercial, publicación KDP o distribución requerirá resolver previamente los derechos de cada activo y obtener las autorizaciones escritas necesarias o sustituir/rediseñar los elementos afectados. D024 sigue vigente, pero el contacto se aplaza hasta completar los prototipos. D011, D015, D016 y D023 se mantienen como criterios de análisis jurídico; D025 establece una excepción limitada para crear material de prototipo bajo riesgo asumido, no para explotarlo.
 
 **Método aprobado:** desarrollar y revisar las imágenes individualmente, no generar un libro entero con un único prompt. Mantener dirección artística coherente por título, diferenciación entre edades y experiencias, trazabilidad de referencias y revisión editorial antes de cerrar cada imagen. La aprobación no valida automáticamente contenidos, exactitud cultural, arte final, paginación, formato, costes ni archivos KDP.
+
+## D026 — Aprobación de la dirección artística de la colección
+
+**Fecha:** 19/11/2026  
+**Estado:** Aprobada.
+
+Se aprueba la propuesta de dirección artística común y diferenciación visual de los tres títulos recogida en `editorial/direccion-artistica-coleccion-v1.md`, con las siguientes condiciones:
+
+1. Los dos libros para colorear se diseñarán mediante composiciones de doble página, concebidas como unidades visuales coordinadas y con protección del medianil.
+2. *Reus per pintar – petits* combinará figuras del Seguici Festiu con patrimonio arquitectónico y espacios emblemáticos reconocibles de Reus. No se limitará a gegants ni a figuras festivas.
+3. La denominación «Reus en joc» queda aprobada únicamente como identificador provisional de colección.
+
+Esta aprobación no supone la aprobación de ilustraciones, mapas de contenidos definitivos, paginaciones concretas, archivos de producción ni autorizaciones de derechos para explotación comercial.
