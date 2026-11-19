@@ -127,3 +127,20 @@ Revisar y adaptar los dos borradores de consulta existentes al alcance limitado 
 **Actualización 19-11-2026 — aprobación D025: prototipos completos antes del contacto institucional.** El usuario aprueba desarrollar los tres libros completos antes de iniciar las consultas de D024 y asume expresamente el riesgo de crear imágenes reconocibles de figuras/activos locales sin haber resuelto todavía todos los derechos. Se permite únicamente desarrollo de prototipos privados y una eventual presentación selectiva y privada a ReusCultura tras establecer contacto. No se permite difusión pública, publicación, venta, distribución general ni carga/publicación en KDP. D025 no concede derechos ni acredita legalidad; para explotar comercialmente habrá que obtener licencias suficientes o sustituir/rediseñar los activos. Método: generación imagen a imagen, con dirección artística por título, validación editorial de cada pieza y trazabilidad de referencias.
 
 **Nuevo próximo hito:** iniciar en un chat nuevo el desarrollo integral y ordenado de los tres prototipos: auditar los documentos y activos existentes; cerrar dirección artística y especificaciones por libro; desarrollar portadas, interiores, textos y actividades; generar/revisar ilustraciones una a una mediante Gemini; y preparar maquetas de revisión completas. El contacto con ReusCultura queda aplazado hasta que los prototipos estén completos. Antes de producción comercial, ejecutar una revisión jurídica por activo y obtener licencias o rediseñar/sustituir los elementos no autorizados.
+
+
+## Actualización 19-11-2026 — auditoría de prototipos y nuevo orden de trabajo
+- [x] Consultar documentos maestros e instrucciones completas; comprobar árbol real del repositorio.
+- [x] Inspeccionar visualmente los cuatro PNG numerados de *petits* y dos generaciones antiguas del campanar; resolver la discrepancia de disponibilidad de los PNG.
+- [x] Inspeccionar las dos pruebas de cercavila de *grans* y compararlas con D022.
+- [x] Crear el plan inicial de *Descobreix Reus!* y su carpeta de desarrollo.
+- [x] Documentar carencias, riesgos, reutilización y plan integral.
+- [ ] Fase 2: dirección artística común y tres lenguajes visuales diferenciados.
+- [ ] Fase 3: cerrar mapas, progresión, paginación y textos/actividades de los tres libros.
+- [ ] Fase 4: producir y validar imágenes una a una mediante Gemini, con registro de procedencia.
+- [ ] Fase 5: maquetar los tres prototipos completos y revisar PDFs privados.
+- [ ] Fase 6: preparar selección de muestras y presentación privada a ReusCultura, respetando D025.
+
+**Resultado de auditoría:** véase `editorial/auditoria-plan-integral-prototipos-2026-11-19.md`. En *petits*, ninguno de los cuatro esbozos actuales supera todavía la revisión para producción; los archivos existen, pero requieren redibujo/reconstrucción. En *grans*, `Cercavila_gemini.jpg` es candidata por incluir cinco músicos variados; `Gemini_cercavila.jpg` no cumple D022. La correspondencia exacta con la iteración que el usuario valoró no está demostrada. *Descobreix Reus!* inicia carpeta y plan editorial, aún no mapa aprobado.
+
+**Sustituye el próximo hito anterior:** no iniciar el contacto con ReusCultura ni enviar el borrador D024 todavía. El siguiente hito es Fase 2, dirección artística de colección, y después Fase 3 de contenidos. D025 mantiene la prioridad de terminar los prototipos privados antes del contacto institucional.
