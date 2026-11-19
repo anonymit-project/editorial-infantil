@@ -153,3 +153,7 @@ La dirección artística común y la diferenciación visual de los tres títulos
 
 ## Actualización 19-11-2026 — Fase 3 autorizada (D027)
 El usuario aprueba desarrollar la arquitectura editorial y contenidos completos de los tres libros. Por continuidad, la ejecución se realizará en un chat nuevo conforme al apartado 7 de INSTRUCCIONES.md. Aprobación de fase, no de propuestas de contenido. No iniciar ilustraciones. D014 y D025 permanecen vigentes.
+
+
+## Actualización 19-11-2026 — revisión de impresión de *Petits* (D028)
+El usuario aprueba mantener las composiciones enfrentadas de D026 y modificar la condición de D014: se permite impresión a doble cara cuando sea necesaria para colocar contenido en ambas páginas. Se conserva la maqueta de 32 páginas. La paginación física, distribución de páginas impresas/blancas, experiencia de coloreado y compatibilidad KDP quedan pendientes de resolución y verificación dentro de la Fase 3. No se aprueban contenidos ni ilustraciones.
