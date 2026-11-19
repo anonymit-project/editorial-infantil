@@ -1,5 +1,27 @@
 # Dirección artística de colección — propuesta v1
 
+> **ESTADO: APROBADA — 19/11/2026**
+>
+> La dirección artística de la colección queda aprobada con las condiciones adicionales recogidas en este documento. «Reus en joc» es una denominación provisional, pendiente de validación.
+
+## Condiciones aprobadas por el usuario
+
+### Composición de los libros para colorear
+
+- Tanto *Reus per pintar – petits* como *Reus per pintar – grans* se diseñarán mediante composiciones de doble página.
+- Cada pareja de páginas enfrentadas se concebirá como una unidad visual y narrativa coordinada, no como dos láminas independientes sin relación.
+- Se protegerá el medianil: ningún rostro, figura, texto o elemento arquitectónico esencial podrá quedar cortado o perder legibilidad por la encuadernación.
+- No es obligatorio que una ilustración atraviese el medianil. Se permiten elementos autónomos en cada página, siempre que exista coherencia compositiva entre ambas.
+- La solución definitiva deberá ser compatible con las especificaciones de impresión y encuadernación de Amazon KDP.
+
+### Criterio específico para Reus per pintar – petits
+
+- El contenido combinará figuras del Seguici Festiu con patrimonio arquitectónico y espacios emblemáticos reconocibles de Reus.
+- El libro no se limitará a gegants ni a figuras festivas.
+- Los edificios y espacios se simplificarán para niños de 3–5 años, conservando los rasgos visuales necesarios para reconocerlos.
+- Se mantendrán contornos gruesos, grandes superficies coloreables y pocos elementos secundarios.
+- La variedad temática deberá permitir alternar escenas festivas, arquitectura y espacios urbanos sin perder la sencillez visual propia de esta franja de edad.
+
 **Fecha:** 19-11-2026  
 **Estado:** propuesta de dirección artística para validación del usuario. No aprobada; no autoriza todavía producción visual.  
 **Ámbito:** identidad común, portadas conceptuales y lenguajes interiores de los tres títulos.  
