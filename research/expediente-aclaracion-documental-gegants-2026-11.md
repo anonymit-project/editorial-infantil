@@ -197,3 +197,59 @@ Una autorización de acceso, fotografía, visita, uso educativo no comercial o p
 6. Solo entonces, preparar una solicitud formal de licencia para las figuras que el usuario decida seleccionar.
 
 **No enviar este expediente sin aprobación expresa del usuario.** La aprobación actual solo cubre mantener las seis candidatas en investigación documental.
+
+
+---
+
+## 7. Actualización 19-11-2026 — D024 y plan de primera consulta
+
+### 7.1 Estado de contacto
+
+D024 autoriza consultas limitadas. Se revisó el borrador anterior y se prioriza un único primer contacto con el Institut Municipal Reus Cultura (IMRC), solicitando orientación y derivación al interlocutor competente. El canal institucional vigente comprobado es **imrc@reuscultura.cat**, teléfono 977 010 650, c. Sant Joan 27, Reus. La ficha municipal describe competencias de gestión de museos, documentación y conservación patrimonial, difusión cultural y organización de fiestas; esto justifica usarlo como punto de entrada, pero **no acredita que sea titular de derechos ni que pueda conceder licencias**.
+
+Fuentes oficiales consultadas el 19-11-2026:
+- Ajuntament de Reus, ficha del Institut Municipal Reus Cultura: https://www.reus.cat/institut-municipal-reus-cultura
+- Ajuntament de Reus, servicio IM Reus Cultura: https://www.reus.cat/serveis/im-reus-cultura
+- Directorio estatal DIR3, unidad orgánica LA0002509: https://administracion.gob.es/espanaadmon/quienesquien/ficha-unidad-organica?selectorServicio=organigramasEstructurasDirectorios&selectorget=LA0002509
+
+**Estado real:** mensaje revisado y preparado en el documento de borradores. No enviado por falta de una integración de correo conectada en esta conversación. No se ha recibido respuesta. No se ha contactado aún con Museu, Colla Gegantera, autores ni otros posibles titulares.
+
+### 7.2 Preguntas que cubre la consulta inicial
+
+- Identificación de quién conserva expedientes de encargo, autoría, versiones, restauraciones, vestuario y atributos.
+- Contratos, cesiones, licencias y documentación que permitan acreditar titularidad actual.
+- Identificación de quién puede autorizar reproducción y adaptación de cada figura/componente y acreditación del mandato.
+- Condiciones para crear prototipos privados no comerciales, hacer copias de muestra y presentarlas privadamente a interlocutores implicados.
+- Atribución, límites, revisión y posibles contraprestaciones.
+- Confirmación de que la licencia comercial futura para Amazon KDP requeriría trámite separado.
+- Derivación a Museu/IMRC, Colla Gegantera, autores, herederos u otros titulares cuando corresponda.
+
+No se adjuntarán imágenes ni prototipos reconocibles. La consulta no presupone que IMRC, Ayuntamiento, Museu o Colla tengan todos los derechos.
+
+### 7.3 Lugares arquitectónicos — línea separada de análisis
+
+No se deben mezclar los edificios con las figuras del Seguici. Como marco inicial, el artículo 35.2 de la Ley de Propiedad Intelectual permite reproducir mediante pinturas, dibujos, fotografías y procedimientos audiovisuales las obras situadas permanentemente en parques, calles, plazas u otras vías públicas. Esto ofrece una base relevante para dibujar edificios visibles desde la vía pública, pero no debe convertirse en una conclusión indiscriminada sobre cualquier activo incorporado al edificio o al entorno.
+
+Fuente primaria: BOE, texto consolidado del Real Decreto Legislativo 1/1996, arts. 17, 18, 26 y 35.2: https://www.boe.es/eli/es/rdlg/1996/04/12/1.
+
+**Criterio operativo provisional (no dictamen jurídico):**
+- Arquitectura exterior permanente y visible desde la calle: analizar caso por caso y documentar el encaje en el art. 35.2; priorizar dibujo original basado en observación propia, no fotografías ajenas.
+- Interiores no accesibles desde vía pública: no asumir que la excepción anterior se aplica; revisar titularidad de arquitectura/interiorismo y condiciones de acceso/fotografía.
+- Esculturas, murales, mosaicos, vitrales, relieves figurativos, obras integradas y decoración artística autónoma: identificar autoría, fecha, ubicación y posible protección independiente; no dar por cubiertos automáticamente por los derechos del edificio.
+- Intervenciones contemporáneas, instalaciones temporales, carteles, mobiliario artístico, fotografías y reproducciones digitales: revisar por separado; no copiar fotografías ni usar archivos de terceros como plantilla sin permiso.
+- Marcas, escudos, rótulos comerciales y logos: análisis separado de copyright, marca y condiciones de uso.
+
+La duración general del art. 26 es vida del autor más 70 años, pero el cálculo exige autoría y fecha de fallecimiento fiables y puede haber reglas transitorias, coautoría y obras derivadas. El artículo 35.2 tampoco resuelve derechos de terceros sobre fotografías, interiores, elementos separables ni condiciones de acceso físico.
+
+**Siguiente investigación de lugares:** elaborar una matriz por emplazamiento seleccionado (fachada/volumen arquitectónico, interiores, ornamentación integrada, obras artísticas autónomas, mobiliario/instalaciones y fuentes visuales), con autoría/fecha, ubicación pública o privada, fuente y riesgo. No iniciar aún dibujos de elementos artísticos contemporáneos dudosos.
+
+### 7.4 Registro de respuestas y permisos
+
+| Fecha | Interlocutor | Comunicación | Respuesta | Efecto jurídico |
+|---|---|---|---|---|
+| 19-11-2026 | IM Reus Cultura | Mensaje preparado; no enviado | Ninguna | Ninguno |
+| — | Museu de Reus | Pendiente de derivación | — | Ninguno |
+| — | Colla Gegantera | Pendiente de derivación | — | Ninguno |
+| — | Autores/herederos/otros titulares | Pendiente de identificación | — | Ninguno |
+
+**Conclusión de estado:** siguen sin acreditarse autoría completa, titularidad actual, derechos por componente y facultad de licencia para las 18 unidades auditadas. Tampoco hay autorización para crear, reproducir o mostrar figuras reconocibles. D024 habilita el contacto documental, no el uso de las obras.
