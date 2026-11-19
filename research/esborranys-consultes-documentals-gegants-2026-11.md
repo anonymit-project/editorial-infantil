@@ -88,3 +88,64 @@ Cordialment,
 - Si la resposta és genèrica («ho gestiona la Colla», «és de l'Ajuntament»), demanar quin document o mandat acredita la capacitat de concedir drets d'explotació.
 
 **Estat de control:** els dos missatges són propostes pendents de revisió de l'usuari. No s'han enviat. La decisió D017 no autoritza contactes ni enviaments.
+
+
+---
+
+## 6. Revisión conforme a D024 — primer contacto con ReusCultura
+
+**Actualización:** 19-11-2026.  
+**Estado:** versión preparada para envío; **NO enviada**. Los borradores A y B anteriores quedan como material de referencia y no deben enviarse sin adaptar: D024 prioriza un primer contacto institucional único con ReusCultura y derivación al interlocutor competente.
+
+### Canal institucional comprobado
+
+- **Destinatario recomendado:** imrc@reuscultura.cat
+- **Entidad:** Institut Municipal Reus Cultura (IMRC).
+- **Teléfono:** 977 010 650.
+- **Dirección:** c. Sant Joan, 27, 43201 Reus.
+- **Base de verificación:** ficha oficial del Ajuntament de Reus y ficha del servicio IM Reus Cultura, consultadas el 19-11-2026: https://www.reus.cat/institut-municipal-reus-cultura y https://www.reus.cat/serveis/im-reus-cultura.
+- **Razón de prioridad:** el IMRC integra la gestión de museos municipales, documentación/conservación/difusión patrimonial y organización de las fiestas mayores; es un punto de entrada razonable para orientar y derivar, no una prueba de titularidad ni de facultad para licenciar.
+
+El correo antiguo museu@reuscultura.cat se mantiene como canal del Museu que figura en documentación municipal, pero no se duplica el primer envío: se pide al IMRC que derive internamente si corresponde.
+
+### Mensaje recomendado — listo para enviar
+
+**Para:** imrc@reuscultura.cat  
+**Asunto:** Consulta documental y orientación sobre derechos — proyecto editorial infantil sobre Reus
+
+Bon dia,
+
+Estem desenvolupant una col·lecció de tres llibres infantils en català sobre Reus, pensada per a una possible publicació futura mitjançant impressió sota demanda. En aquesta fase estem preparant prototips de treball per valorar-ne la qualitat editorial i estudiar, més endavant, una possible col·laboració amb ReusCultura. Els prototips encara no s'han publicat ni comercialitzat.
+
+Abans de dibuixar figures recognoscibles del Seguici Festiu, voldríem aclarir-ne la procedència i la situació dels drets. Ens podríeu orientar o indicar-nos la persona o unitat competent per tractar aquestes qüestions?
+
+En concret, ens seria útil saber:
+
+1. Qui conserva la documentació sobre l'encàrrec, autoria, versions, restauracions i vestuari dels gegants i del bestiari, i quins expedients, contractes, cessions o llicències permetrien identificar-ne els titulars actuals.
+2. Qui pot autoritzar efectivament la reproducció i l'adaptació gràfica de cada figura i dels seus components. Entenem que l'autoria de l'escultura, el vestuari, els atributs, les restauracions o els recursos digitals poden correspondre a persones diferents, i que la custòdia o la gestió festiva no impliquen necessàriament facultat per concedir llicències.
+3. Si l'IMRC o l'Ajuntament disposen d'algun mandat o títol per autoritzar aquests usos o, si no és així, a quins autors, hereus, entitats o altres titulars ens hauríem d'adreçar.
+4. Quin permís escrit caldria, si escau, per crear il·lustracions adaptades a llibres infantils i fer-ne només prototips de treball i còpies de mostra, sense publicar-los ni comercialitzar-los.
+5. Si aquestes mostres es podrien presentar de manera estrictament privada als interlocutors implicats per valorar el projecte, i quines condicions, atribucions, límits o contraprestacions s'hi aplicarien.
+6. Si una eventual llicència per publicar i comercialitzar els llibres mitjançant Amazon KDP s'hauria de tramitar separadament i directament amb cada titular.
+
+No demanem ara una autorització comercial general ni adjuntem imatges o esbossos de figures. L'objectiu immediat és identificar els interlocutors, la documentació i el procediment correcte, i saber si seria possible obtenir una autorització escrita acotada als prototips privats descrits.
+
+També estem documentant per separat els edificis i espais emblemàtics de Reus. Si aquesta qüestió correspon a una altra unitat o servei, agrairem que ens n'indiqueu el contacte adequat.
+
+Moltes gràcies per la vostra orientació.
+
+Cordialment,
+
+[Nom i cognoms]  
+[Correu electrònic]  
+[Telèfon, opcional]
+
+### Control antes del envío
+
+- Completar nombre y datos de contacto reales.
+- No adjuntar ilustraciones, fotografías de referencia ni prototipos reconocibles.
+- Enviar solo a IMRC; esperar derivación antes de abrir contactos paralelos.
+- Registrar fecha, canal, destinatario y copia exacta del mensaje cuando el usuario confirme el envío o se envíe mediante una integración conectada.
+- Si no hay respuesta, hacer un único seguimiento razonable antes de abrir una vía alternativa.
+
+**Registro de comunicaciones:** a 19-11-2026, ninguna comunicación enviada; ninguna respuesta recibida.
