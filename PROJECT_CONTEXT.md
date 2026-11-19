@@ -138,3 +138,14 @@ Se ha creado `books/descobreix-reus/plan-editorial-inicial-v1.md` como documento
 Se ha creado `editorial/direccion-artistica-coleccion-v1.md` como propuesta pendiente de aprobación. Recomienda una identidad modular común bajo el identificador provisional «Reus en joc», con tipografías Fredoka y Nunito Sans, tinta azul y fondo marfil, iconografía original y retícula flexible. Diferencia los títulos mediante paletas y composiciones: coral/amarillo y motivos aislados para *petits*; cobalto/teja y escenas narrativas del Seguici para *grans*; turquesa/naranja y lenguaje de cuaderno de exploración para *Descobreix Reus!*.
 
 La propuesta incluye conceptos de portada, ejemplos de composición interior, criterios de aceptación y alternativas descartadas. **No está aprobada**: no se ha iniciado producción visual ni se han generado ilustraciones nuevas. La siguiente acción es que el usuario valide o modifique la dirección artística; después se abordará la arquitectura de contenidos y páginas de los tres títulos. D025 y sus restricciones permanecen vigentes.
+
+### Dirección artística de la colección
+
+**Estado: APROBADA — 19/11/2026.**
+
+La dirección artística común y la diferenciación visual de los tres títulos están aprobadas, según `editorial/direccion-artistica-coleccion-v1.md`.
+
+- Identificador provisional de colección: «Reus en joc».
+- *Reus per pintar – petits* y *Reus per pintar – grans* se diseñarán mediante composiciones de doble página, protegiendo el medianil.
+- *Reus per pintar – petits* combinará figuras del Seguici Festiu con patrimonio arquitectónico y espacios emblemáticos reconocibles de Reus.
+- Las ilustraciones definitivas y los mapas editoriales completos siguen pendientes de desarrollo y aprobación.
