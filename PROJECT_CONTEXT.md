@@ -111,3 +111,9 @@ Se creó `research/auditoria-derechos-figuras-seguici-v1.md` tras contrastar el 
 
 ## Actualización 19-11-2026 — autorización limitada para consultas de derechos (D024)
 El usuario aprueba abrir conversaciones documentales con ReusCultura y, si procede, Museu de Reus/IMRC y Colla Gegantera. El objetivo es identificar titulares y mandatarios por figura/componente y solicitar información sobre una autorización escrita, limitada a desarrollar y mostrar prototipos privados no comerciales. Se levanta D018 solo para estos contactos acotados. No se ha enviado ninguna comunicación ni se ha concedido permiso para crear, reproducir, mostrar públicamente o comercializar diseños reconocibles. D011, D015, D016 y D023 siguen vigentes.
+
+
+## Actualización 19-11-2026 — consultas documentales D024
+Se ha revisado la documentación de consultas y se ha preparado un primer mensaje único para el Institut Municipal Reus Cultura (IMRC), usando el contacto institucional publicado imrc@reuscultura.cat. Se solicita orientación/derivación, identificación de documentación y titulares/mandatarios, y condiciones para prototipos privados no comerciales y copias de muestra; una eventual licencia comercial KDP se tramitaría separadamente. El mensaje está preparado, pero no enviado: no hay correo conectado en esta conversación. No se han recibido respuestas ni se ha contactado con otras entidades. La auditoría de 18 unidades sigue sin acreditar titulares ni facultades de licencia; no hay figuras autorizadas.
+
+Los derechos de edificios y lugares se analizarán por separado. El art. 35.2 LPI ofrece una base para reproducir mediante dibujos obras situadas permanentemente en vías públicas, pero no se extiende automáticamente a interiores, obras artísticas separables, murales, esculturas, fotografías o intervenciones contemporáneas. No se ha aprobado ni generado arte reconocible de estos activos.
