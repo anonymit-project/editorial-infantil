@@ -235,6 +235,6 @@ La aprobación artística no cierra contenidos, paginación, formato KDP, ilustr
 
 ## Próximo hito
 
-Iniciar la **Fase 3 – Arquitectura editorial y contenidos de los tres libros** en un chat nuevo. La primera cuestión técnica que debe resolverse es cómo materializar las dobles páginas de *Petits* y *Grans* sin contradecir D014, que establece 32 páginas para la maqueta de *Petits* con láminas impresas a una cara y reversos en blanco.
+**Fase 3 autorizada (D027; 19-11-2026); ejecución trasladada a un chat nuevo según el apartado 7 de INSTRUCCIONES.md.** La primera cuestión técnica será resolver la compatibilidad entre D014 (32 páginas para *Petits*, láminas a una cara y reversos en blanco) y D026 (composiciones visuales coordinadas a doble página), analizando paginación física, caras impresas, experiencia de coloreado, medianil y compatibilidad con KDP. Después se completarán los mapas, secuencias y briefs editoriales de los tres títulos.
 
-No iniciar todavía la producción de ilustraciones. D025 sigue vigente y limita estrictamente el uso de los prototipos reconocibles al ámbito privado descrito en esa decisión.
+No iniciar ilustraciones hasta cerrar y validar la arquitectura. D025 sigue vigente, con sus límites de privacidad y no explotación.
