@@ -121,3 +121,11 @@ Se aprueba la propuesta de dirección artística común y diferenciación visual
 3. La denominación «Reus en joc» queda aprobada únicamente como identificador provisional de colección.
 
 Esta aprobación no supone la aprobación de ilustraciones, mapas de contenidos definitivos, paginaciones concretas, archivos de producción ni autorizaciones de derechos para explotación comercial.
+
+
+## D027 — Desarrollo de la Fase 3
+
+**Fecha:** 19/11/2026  
+**Estado:** Aprobada para ejecución.
+
+Se aprueba desarrollar la arquitectura editorial y los contenidos completos de *Reus per pintar – petits*, *Reus per pintar – grans* y *Descobreix Reus!* conforme al encargo de Fase 3 y a los entregables allí definidos. Esta aprobación autoriza el trabajo editorial y documental de la fase; no aprueba de antemano sus propuestas concretas, no modifica D014 ni ninguna otra decisión y no autoriza iniciar ilustraciones. Se mantiene D025 con todos sus límites. La ejecución se trasladará a un chat nuevo según el apartado 7 de INSTRUCCIONES.md, por tratarse de una fase extensa.
