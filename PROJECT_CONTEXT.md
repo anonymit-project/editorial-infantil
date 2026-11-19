@@ -13,7 +13,7 @@ terminados para presentar una posible colaboración a ReusCultura.
 - Libro de colorear con ilustraciones sencillas.
 - Trazos gruesos y pocos detalles.
 - Actividades adaptadas a edades tempranas.
-- Incorporará una selección de gegants y bestiari del Seguici Festiu, con formas grandes, contornos gruesos y baja complejidad, condicionada a la identificación de titulares y autorizaciones necesarias.
+- Combinará figuras del Seguici Festiu con patrimonio arquitectónico y espacios emblemáticos reconocibles de Reus. Las formas serán grandes, los contornos gruesos y la complejidad baja. D025 permite crear prototipos privados reconocibles bajo el riesgo asumido por el usuario, sin que ello constituya licencia ni permita explotación comercial.
 
 ### Reus per pintar – grans
 - Edad: 6–8 años.
@@ -65,7 +65,7 @@ esta temática no implica autorización para reproducir diseños concretos.
 - Revisar los derechos de cada elemento reconocible.
 - Para gegants, capgrossos y bestiari, identificar individualmente las figuras seleccionadas, sus autores/diseñadores cuando sea posible, titulares actuales de derechos y la persona o entidad con capacidad efectiva para conceder licencia comercial.
 - Verificar por escrito el alcance de cualquier autorización: reproducción, adaptación/simplificación, distribución impresa bajo demanda, territorios, duración, atribución y posibles contraprestaciones.
-- No iniciar arte final ni publicar reproducciones de diseños concretos hasta completar la revisión y obtener las autorizaciones necesarias.
+- La regla general es no explotar comercialmente ni publicar reproducciones de diseños concretos sin completar la revisión y obtener las autorizaciones necesarias. Excepción limitada D025: se permite crear prototipos privados completos con representaciones reconocibles bajo los límites expresos de esa decisión; no equivale a licencia ni permite publicación, distribución general o carga en KDP.
 
 La generación mediante IA no garantiza por sí sola la ausencia
 de conflictos de propiedad intelectual.
@@ -133,13 +133,13 @@ En *grans*, `Cercavila_gemini.jpg` es la única prueba que visualmente cumple D0
 Se ha creado `books/descobreix-reus/plan-editorial-inicial-v1.md` como documento de arranque no aprobado. No existen aún mapas completos, textos finales, portadas, registros de procedencia ni maquetas de ninguno de los tres libros. La siguiente fase prevista es cerrar dirección artística común y diferenciada antes de continuar la producción visual.
 
 
-## Actualización 19-11-2026 — propuesta de dirección artística de colección
+## Registro histórico — propuesta inicial de dirección artística (19-11-2026; estado sustituido por D026)
 
 Se ha creado `editorial/direccion-artistica-coleccion-v1.md` como propuesta pendiente de aprobación. Recomienda una identidad modular común bajo el identificador provisional «Reus en joc», con tipografías Fredoka y Nunito Sans, tinta azul y fondo marfil, iconografía original y retícula flexible. Diferencia los títulos mediante paletas y composiciones: coral/amarillo y motivos aislados para *petits*; cobalto/teja y escenas narrativas del Seguici para *grans*; turquesa/naranja y lenguaje de cuaderno de exploración para *Descobreix Reus!*.
 
-La propuesta incluye conceptos de portada, ejemplos de composición interior, criterios de aceptación y alternativas descartadas. **No está aprobada**: no se ha iniciado producción visual ni se han generado ilustraciones nuevas. La siguiente acción es que el usuario valide o modifique la dirección artística; después se abordará la arquitectura de contenidos y páginas de los tres títulos. D025 y sus restricciones permanecen vigentes.
+La propuesta inicial incluía conceptos de portada, ejemplos de composición interior, criterios de aceptación y alternativas descartadas. Su estado de pendiente de aprobación quedó sustituido por la aprobación D026 del 19-11-2026. No se han aprobado ilustraciones concretas ni se han generado nuevas ilustraciones por el mero hecho de aprobar la guía. D025 y sus restricciones permanecen vigentes.
 
-### Dirección artística de la colección
+## Actualización 19-11-2026 — dirección artística aprobada (D026)
 
 **Estado: APROBADA — 19/11/2026.**
 
