@@ -1,4 +1,4 @@
-# Dirección artística de colección — propuesta v1
+# Dirección artística de colección — v1
 
 > **ESTADO: APROBADA — 19/11/2026**
 >
@@ -23,7 +23,7 @@
 - La variedad temática deberá permitir alternar escenas festivas, arquitectura y espacios urbanos sin perder la sencillez visual propia de esta franja de edad.
 
 **Fecha:** 19-11-2026  
-**Estado:** propuesta de dirección artística para validación del usuario. No aprobada; no autoriza todavía producción visual.  
+**Estado:** aprobada por el usuario el 19-11-2026 (D026). La aprobación valida el sistema de identidad y los criterios artísticos descritos, pero no aprueba ilustraciones concretas, mapas definitivos, paginación, archivos de producción ni explotación comercial.  
 **Ámbito:** identidad común, portadas conceptuales y lenguajes interiores de los tres títulos.  
 **Criterio:** sistema modular compartido, con diferenciación funcional real por edad y experiencia.
 
@@ -129,7 +129,7 @@ Iconos funcionales previstos: pintar, mirar, buscar, caminar/ruta, mapa, histori
 - Pocos elementos ambientales, sin fondos decorativos.
 - Grandes zonas coloreables, separaciones claras y ninguna textura repetitiva.
 - Títulos cortos, grandes y de lectura inmediata.
-- Las figuras del Seguici que se incorporen por D015/D025 deberán ocupar la página como protagonistas aislados, con expresión amable y simplificación acorde a 3–5 años, sin caricaturizar rasgos culturales.
+- Las figuras del Seguici y los elementos arquitectónicos o espacios locales que se incorporen deberán tener una lectura clara y sencilla, adaptada a 3–5 años. Alternar protagonistas festivos y patrimoniales; evitar que el libro se limite a gegants. Simplificar sin perder los rasgos esenciales que permiten reconocer cada motivo y sin caricaturizar rasgos culturales.
 
 **Portada conceptual:** fondo marfil, gran título «Reus per pintar» en Fredoka Bold, palabra «petits» dentro de una pastilla coral. Una única ilustración de gran escala —un motivo local claro, no una colección de miniaturas— ocupa la mitad inferior. Mucho aire alrededor. El descriptor «3–5 anys» aparece de forma secundaria.
 
@@ -226,15 +226,19 @@ Iconos funcionales previstos: pintar, mirar, buscar, caminar/ruta, mapa, histori
 - **Estética turística basada en monumentos y postales:** descartada; sería menos infantil, menos flexible y favorecería repetir las mismas vistas.
 - **Recomendación:** sistema común de tipografía, tinta, retícula e identificador; color y lenguaje de composición propios por producto.
 
-## 7. Decisiones pendientes de aprobación
+## 7. Alcance de la aprobación y aspectos todavía abiertos
 
-1. Aceptar o modificar el concepto de colección «Reus en joc» como identificador provisional.
-2. Aprobar el sistema común: Fredoka + Nunito Sans, tinta azul, fondo marfil, retícula modular e iconos originales.
-3. Aprobar las tres paletas diferenciadas: coral/amarillo para petits, cobalto/teja para grans y turquesa/naranja para Descobreix.
-4. Aprobar las direcciones visuales y los conceptos de portada descritos para cada título.
+La dirección artística común, las tipografías recomendadas, el sistema cromático, la iconografía, la retícula, los conceptos de portada y la diferenciación visual de los tres títulos quedan aprobados por D026. «Reus en joc» se acepta únicamente como identificador provisional de colección.
 
-La aprobación de esta guía permitiría preparar fichas visuales y especificaciones de portada/interior. No aprueba automáticamente ilustraciones concretas, selección definitiva de contenidos, paginación final, formato KDP ni explotación comercial. D025 continúa sujeto a todos sus límites.
+Siguen pendientes de desarrollo y validación específica:
+1. La selección definitiva de contenidos y motivos de cada libro.
+2. La arquitectura, secuencia y paginación final de los tres interiores.
+3. La resolución técnica de las composiciones a doble página frente a D014 y las especificaciones reales de impresión/encuadernación.
+4. Las ilustraciones concretas, que deberán producirse y revisarse una a una.
+5. El formato KDP, los archivos finales y cualquier decisión de explotación comercial.
 
-## 8. Siguiente paso recomendado
+D025 continúa sujeto a todos sus límites: la aprobación artística no concede derechos ni amplía los usos permitidos de los prototipos privados.
 
-Tras la aprobación de la dirección artística, abrir la Fase 3 de contenidos y arquitectura de páginas: revisar el mapa y la secuencia de petits, completar la secuencia 7/5/2 de grans y construir el mapa de actividades de Descobreix Reus! con progresión, textos y fuentes. Solo después se prepararán prompts individuales para Gemini y se producirán imágenes, una por una.
+## 8. Siguiente paso
+
+La siguiente fase es la arquitectura editorial de los tres títulos. Debe revisar los mapas existentes, establecer secuencias y paginaciones coherentes, resolver la relación entre doble página y reversos en blanco de D014, equilibrar Seguici y patrimonio en *petits*, completar el mapa de actividades de *Descobreix Reus!* y preparar especificaciones antes de producir ilustraciones.
