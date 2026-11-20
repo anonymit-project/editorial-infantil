@@ -173,9 +173,9 @@ Desarrollo documental realizado el 20-11-2026 bajo D027. No se han aprobado cont
 
 ## Fase 4 – Producción y validación de ilustraciones
 
-**Estado: AUTORIZADA POR D029; ejecución trasladada a un chat nuevo conforme al apartado 7 de INSTRUCCIONES.md.**
+**Estado: EN CURSO — P01 en preparación visual (D029, 20-11-2026).**
 
-- [ ] Preparar fichas visuales y briefs individuales a partir de la arquitectura aprobada.
+- [x] Preparar ficha visual y brief de P01 para el primer prototipo; ampliar al resto de imágenes una a una.
 - [ ] Producir las ilustraciones una a una mediante Gemini u otra herramienta adecuada.
 - [ ] Mantener dirección artística coherente y diferenciada por título.
 - [ ] Registrar por imagen referencias, prompt, herramienta, iteraciones, fecha y decisión editorial.
@@ -183,6 +183,8 @@ Desarrollo documental realizado el 20-11-2026 bajo D027. No se han aprobado cont
 - [ ] Revisar especialmente el medianil y la relación entre las dos páginas enfrentadas.
 - [ ] Aprobar o corregir cada imagen antes de producir la siguiente.
 - [ ] Mantener alternativas de rediseño o sustitución para activos con riesgo jurídico.
+
+**Avance de P01 (20-11-2026):** los estudios simplificados de Vitxet y Vitxeta están en `books/reus-per-pintar-petits/assets/`. La Vitxeta se inspeccionó visualmente y queda como candidata; el tramado del medallón y las líneas finas del abanico requieren revisión localizada. La composición revisada muestra un gegant por página, sin niño ni tambor. El modelo exacto de Gemini y la comparación de identidad con la fotografía original están pendientes. P01 no está generado ni aprobado.
 
 **Límite D025:** las imágenes reconocibles aún no autorizadas solo pueden formar parte de prototipos privados bajo el riesgo asumido por el usuario. No se permite difusión pública, publicación, venta, distribución general, carga/publicación en KDP ni entrega de copias a terceros. La trazabilidad y revisión jurídica por activo siguen siendo obligatorias.
 
