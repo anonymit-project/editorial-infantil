@@ -188,3 +188,14 @@ El usuario valida como base de trabajo las propuestas de Fase 3 para los tres t�
 Se autoriza Fase 4: generar y revisar imágenes individualmente, con trazabilidad de prompts, herramientas, referencias e iteraciones. Ninguna imagen queda aprobada automáticamente. Los briefs son base de producción, no prompts definitivos ni aprobación de arte final. Se mantienen D025 y sus límites de privacidad/no explotación, D026 (dirección artística), D020 (reparto 7/5/2 de Grans) y D028 (32 páginas de Petits). La paginación de Petits es una arquitectura de trabajo pendiente de dummy físico para validar transparencia, transferencia, apertura y medianil.
 
 La aprobación no equivale a licencia, aprobación de ilustraciones, portada, formato KDP definitivo ni autorización comercial. La producción visual debe continuar en un chat nuevo según el apartado 7 de INSTRUCCIONES.md.
+
+
+## Actualización 20-11-2026 — preparación de Fase 4
+
+D029 ya autoriza la Fase 4: producción y validación visual, por lo que no se crea una decisión duplicada. La ejecución se traslada a un chat nuevo conforme al apartado 7 de INSTRUCCIONES.md: es un trabajo secuencial de numerosas imágenes y revisiones, y no debe iniciarse en el chat que recibe la aprobación.
+
+**Orden de arranque:** *Reus per pintar – petits*, composición P01 «La festa comença»; después *Reus per pintar – grans*, G01 «Vitxets: una parella en moviment»; finalmente *Descobreix Reus!*, actividad D01. Trabajar una imagen cada vez, detenerse a evaluar y corregir antes de pasar a la siguiente. No reutilizar ilustraciones entre títulos.
+
+**Estado comprobado de activos:** Petits contiene los cuatro PNG numerados y tres generaciones antiguas de campanar en `books/reus-per-pintar-petits/assets/esbossos-v1/`; su auditoría previa no aprueba ninguno como arte final. Grans contiene `Cercavila_gemini.jpg` (candidata de esbozo, no aprobada y sin ficha de generación demostrativa) y `Gemini_cercavila.jpg` (no cumple D022) en `books/reus-per-pintar-grans/tests/`. Descobreix contiene los documentos editoriales, pero no una carpeta de activos visuales ni ilustraciones de producción. No hay maquetas completas ni PDFs KDP verificados.
+
+D025 sigue vigente: prototipos estrictamente privados; sin publicación, comercialización, distribución general, carga en KDP ni entrega a terceros. No se presume licencia. La producción debe registrar por imagen el prompt exacto, herramienta/modelo, referencias, fecha, iteraciones, archivo y estado de aprobación.
