@@ -241,6 +241,26 @@ Desarrollo documental realizado el 20-11-2026 bajo D027. No se han aprobado cont
 
 ## Próximo hito
 
-**Fase 4 — prototipado visual de los tres libros.** Autorizada por D029. Trabajar imagen a imagen, empezando por la primera pieza de cada libro según los briefs individuales y la dirección artística D026. El usuario quiere valorar el producto visualmente y realizar cambios puntuales si algo no encaja; no exigir aprobación abstracta de cada página antes de producir el primer esbozo.
+**Abrir un chat nuevo con el prompt de relevo completo de Fase 4.** Iniciar secuencialmente por Petits P01 «La festa comença»; tras evaluarla y decidir si se corrige o acepta como esbozo de trabajo, continuar con Grans G01 «Vitxets: una parella en moviment» y después Descobreix D01. No iniciar las tres imágenes a la vez. Mantener trazabilidad por imagen y revisión antes de continuar. D025 sigue vigente y sus restricciones son obligatorias. Para Petits, planificar dummy físico y prueba de coloreado antes de cerrar producción.
 
-Mantener trazabilidad por imagen y revisión editorial antes de continuar con la siguiente. D025 sigue vigente: los prototipos reconocibles son estrictamente privados, no se publican, venden, distribuyen, cargan en KDP ni entregan a terceros. No se cierra formato KDP ni se aprueba arte final. Para Petits, planificar dummy físico y prueba de coloreado antes de cerrar producción.
+
+## Actualización 20-11-2026 — Fase 4 autorizada y relevo
+
+**Estado: AUTORIZADA POR D029; ejecución trasladada a un chat nuevo conforme al apartado 7 de INSTRUCCIONES.md.** No iniciar la producción de imágenes en el chat que recibe la aprobación; preparar primero el relevo completo y verificado.
+
+**Orden de producción secuencial:**
+1. *Reus per pintar – petits*: P01 «La festa comença».
+2. *Reus per pintar – grans*: G01 «Vitxets: una parella en moviment».
+3. *Descobreix Reus!*: D01.
+
+Trabajar una sola imagen cada vez: brief individual → prompt adaptado → primer esbozo → evaluación crítica → correcciones → decisión de continuar. No generar las tres primeras imágenes simultáneamente ni avanzar automáticamente si aparece un problema importante. No reutilizar ilustraciones entre libros.
+
+**Inventario visual comprobado:**
+- Petits: `books/reus-per-pintar-petits/assets/esbossos-v1/` contiene hoja de contacto, cuatro PNG numerados (campanar, Mercat Central, Casa Navàs y Boca de la Mina) y tres generaciones anteriores. La auditoría disponible no aprueba los cuatro esbozos numerados como piezas finales.
+- Grans: `books/reus-per-pintar-grans/tests/Cercavila_gemini.jpg` es candidata de esbozo con cinco músicos variados, no aprobada y sin trazabilidad demostrada de la generación valorada; `Gemini_cercavila.jpg` no cumple D022. No se localizaron otras imágenes de producción.
+- Descobreix: existen mapa, prototipo textual y matriz de fuentes/riesgos; no hay aún carpeta de activos visuales ni imágenes de producción.
+- No hay portadas, maquetas completas ni PDFs finales KDP verificados.
+
+**Restricciones:** D025 permite prototipos reconocibles solo para uso privado bajo riesgo asumido. No publicar, comercializar, distribuir generalmente, cargar en KDP ni entregar a terceros. Mostrar selectivamente a ReusCultura solo en privado y después de establecer contacto. D025 no concede licencias. Registrar por imagen prompt exacto, herramienta/modelo, referencias, fecha, iteraciones, archivo y decisión editorial. Mantener control de derechos por activo.
+
+**Próximo hito:** abrir un chat nuevo con el prompt de relevo autónomo de Fase 4; iniciar por P01 y no pasar a G01 hasta evaluar y decidir sobre P01.
