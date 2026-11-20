@@ -1,6 +1,6 @@
 # Planificación del proyecto
 
-**Actualizado:** 19-11-2026
+**Actualizado:** 20-11-2026
 
 ## Objetivo general
 
@@ -241,6 +241,6 @@ Desarrollo documental realizado el 20-11-2026 bajo D027. No se han aprobado cont
 
 ## Próximo hito
 
-**Fase 3 autorizada (D027; 19-11-2026); ejecución trasladada a un chat nuevo según el apartado 7 de INSTRUCCIONES.md.** La decisión de impresión quedó resuelta por D028: se mantienen las composiciones enfrentadas de D026 y se permite impresión a doble cara donde sea necesaria, conservando la maqueta estructural de 32 páginas de D014. En la Fase 3 se debe concretar y verificar la paginación física, las caras impresas y blancas, la experiencia de coloreado, el medianil y la compatibilidad con KDP. Después se completarán los mapas, secuencias y briefs editoriales de los tres títulos.
+**Validación editorial de las propuestas de Fase 3.** La documentación está desarrollada y verificada en GitHub, pero sus contenidos siguen siendo propuestas, no decisiones aprobadas. La siguiente acción es revisar y validar los mapas y briefs de los tres títulos, especialmente la selección de figuras del Seguici y la arquitectura de Petits.
 
-No iniciar ilustraciones hasta cerrar y validar la arquitectura. D025 sigue vigente, con sus límites de privacidad y no explotación.
+La prueba física de Petits deberá comprobar transparencia/transferencia de ceras, apertura y medianil con un dummy de 32 páginas. Confirmar en el configurador KDP el tamaño personalizado y la plantilla final. No iniciar ilustraciones hasta validar la arquitectura editorial. D025 sigue vigente, con sus límites de privacidad y no explotación.
