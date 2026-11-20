@@ -15,12 +15,12 @@
 
 ## 14 briefs de composición
 
-### P01 — La festa comença (Seguici + música)
-**Izquierda:** figura del Seguici seleccionada para prototipo privado (candidata: Vitxet), cuerpo entero, frontal o tres cuartos, brazos separados, silueta limpia.  
-**Derecha:** un instrumento musical genérico grande (preferencia: tambor simple) junto a un niño que escucha.  
-**Secundarios:** máximo dos; sin multitud.  
-**Excluir:** uniforme, logotipo, bandera, atributos no documentados, partitura legible y cualquier detalle junto al medianil.  
-**Dificultad:** 2. **Fuente/riesgo:** programa municipal/Patrimoni Festiu para contexto; diseño de figura con riesgo alto y sin licencia.
+### P01 — La festa comença (pareja de Vitxets)
+**Izquierda:** Vitxet simplificado, de cuerpo entero, basado en su estudio candidato.  
+**Derecha:** Vitxeta simplificada, de cuerpo entero, basada en su estudio candidato. Un gegant por página, ambos de escala visual equilibrada y separados del medianil.  
+**Secundarios:** ninguno; fondo blanco y aire alrededor de las figuras.  
+**Excluir:** niño, instrumento, músicos, público, escenario, elementos decorativos, uniformes, logotipos, banderas, atributos no documentados y cualquier detalle junto al medianil.  
+**Dificultad:** 2. **Riesgo:** alto; prototipo privado bajo D025, sin licencia comercial acreditada. Los estudios son candidatos, no arte aprobado.
 
 ### P02 — Gegants en parella
 **Izquierda:** Vitxet; **derecha:** Vitxeta. Cada figura completa, con pose amable y estable; no se cortan manos, cabeza o atributos.  
