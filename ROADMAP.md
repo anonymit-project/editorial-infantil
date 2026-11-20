@@ -114,7 +114,7 @@ Desarrollo documental realizado el 20-11-2026 bajo D027. No se han aprobado cont
 - [x] Revisar documentalmente los cuatro esbozos existentes; ninguno se aprueba automáticamente.
 - [x] Resolver la arquitectura de 32 páginas conforme a D014/D026/D028.
 - [x] Definir paginación física, páginas individuales para KDP, medianil y riesgo de impresión a doble cara.
-- [ ] Validar la selección editorial y los briefs.
+- [x] Validar la selección editorial y los briefs como base de trabajo (D029); se permiten ajustes puntuales durante el prototipado visual.
 - [ ] Hacer dummy físico y prueba de coloreado con ceras/lápices.
 
 **Documentos:**
@@ -130,8 +130,8 @@ Desarrollo documental realizado el 20-11-2026 bajo D027. No se han aprobado cont
 - [x] Organizar siete parejas enfrentadas y variar encuadres, profundidad y movimiento.
 - [x] Crear briefs individuales para las 14 láminas.
 - [x] Comprobar la existencia de `Cercavila_gemini.jpg` y `Gemini_cercavila.jpg`; conservar la primera como candidata, no aprobada, y la segunda como prueba no conforme a D022.
-- [ ] Recuperar la ficha de generación que identifique la versión valorada por el usuario; la trazabilidad no está demostrada.
-- [ ] Validar editorial y culturalmente la selección de figuras protegidas.
+- [ ] Recuperar la ficha de generación que identifique la versión valorada por el usuario; la trazabilidad no está demostrada. Si no se recupera, generar una nueva versión trazable.
+- [x] Validar la selección editorial como base de trabajo (D029).\n- [ ] Revisar culturalmente cada figura y mantener el control de derechos D025.
 
 **Documentos:**
 - `books/reus-per-pintar-grans/mapa-continguts-v2.md`
