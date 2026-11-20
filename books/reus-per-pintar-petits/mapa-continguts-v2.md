@@ -28,7 +28,7 @@ La secuencia alterna fiesta, patrimonio, vida cotidiana y espacios abiertos. Las
 
 | Composición | Página izquierda | Página derecha | Función y dificultad |
 |---|---|---|---|
-| 1. La festa comença | Una figura protagonista del Seguici seleccionada para prototipo (propuesta: Vitxet) | Un instrumento musical genérico grande y un niño escuchando | Introducción festiva, nivel 2 |
+| 1. La festa comença | Vitxet simplificado, cuerpo entero | Vitxeta simplificada, cuerpo entero | Pareja de gegants: un personaje por página, sin elementos de relleno, nivel 2 |
 | 2. Gegants en parella | Vitxet | Vitxeta | Pareja reconocible solo bajo D025; nivel 2 |
 | 3. El bestiari | Mulassa (versión local para prototipo privado) | Un detalle secundario grande y autónomo de la misma escena, sin dividir la figura por el pliegue | Movimiento y volumen, nivel 2 |
 | 4. El cor de la ciutat | Campanar de la Prioral, silueta factual | Plaça del Mercadal con dos figuras genéricas | Reconocimiento urbano, nivel 1 |
@@ -46,6 +46,8 @@ La secuencia alterna fiesta, patrimonio, vida cotidiana y espacios abiertos. Las
 **Ajustes respecto al banco de 16 motivos:** se mantienen Mercadal, Casa Navàs, Institut Pere Mata, Casa Rull, Prioral/campanario, Mercat Central, Estació Enològica, Teatre Fortuny, Boca de la Mina, parque, calle/terrazas y vida cotidiana. Casa Gasull y Palau Bofarull quedan como reservas: añadirlos solo si sustituyen un motivo redundante tras la prueba de composición. No se acumulan Casa Rull y Casa Gasull en esta versión. La Prioral completa no se duplica con el campanario.
 
 **Presencia festiva:** las composiciones 1–3 concentran seis páginas de contenido festivo, con una pareja de gegants y una figura de bestiari como hipótesis de prototipo. Se evita que el libro se convierta en un catálogo de gegants. La selección de figuras no constituye aprobación de su arte ni autorización comercial.
+
+**Ajuste de prototipaje de P01 (20-11-2026):** siguiendo la orientación del usuario, se sustituye el niño y el instrumento genérico por la pareja de Vitxets, uno por página. Los estudios de ambos personajes son candidatos visuales, no arte aprobado; la fotografía original aún debe cotejarse para confirmar fidelidad. La composición 2 («Gegants en parella») queda provisionalmente redundante y deberá revisarse antes de producirla; no se cambia aquí su contenido ni se registra una nueva decisión aprobada.
 
 ## 4. Revisión de los cuatro esbozos existentes
 
