@@ -137,3 +137,23 @@ Se aprueba desarrollar la arquitectura editorial y los contenidos completos de *
 **Estado:** Aprobada.
 
 El usuario elige mantener las composiciones enfrentadas aprobadas en D026. Se modifica la condición de D014 de imprimir todas las láminas a una cara con reversos en blanco: la arquitectura podrá usar impresión a doble cara cuando sea necesario para que haya contenido en ambas páginas de una composición enfrentada. Se conserva la maqueta estructural de 32 páginas. La paginación física, la distribución de páginas impresas y blancas, el efecto sobre el coloreado, el medianil y la compatibilidad técnica con KDP deberán concretarse y verificarse en la Fase 3 antes de aprobar la maqueta. Esta decisión no cierra otros formatos o especificaciones de producción, ni aprueba contenidos o ilustraciones.
+
+
+## D029 — Validación editorial de Fase 3 y autorización para prototipado visual
+
+**Fecha:** 20/11/2026  
+**Estado:** Aprobada.
+
+El usuario aprueba como base de trabajo las propuestas editoriales desarrolladas en Fase 3 para los tres títulos, recogidas en los mapas de contenidos v2 de *Reus per pintar – petits* y *Reus per pintar – grans*, y en el mapa v1 de *Descobreix Reus!*, junto con sus especificaciones y documentos complementarios. La aprobación permite avanzar sin exigir que el usuario imagine y valide de antemano cada página sobre documentos: el producto se evaluará visualmente y podrán solicitarse modificaciones editoriales puntuales cuando el resultado permita detectar problemas concretos.
+
+Se autoriza iniciar la **Fase 4: producción de esbozos/prototipos visuales**, siguiendo el método de D025: generar y revisar una imagen cada vez, registrar herramienta, prompt, referencias, iteraciones y decisión editorial, y no dar por aprobada automáticamente ninguna imagen. Los briefs individuales son la base de trabajo, no prompts definitivos ni aprobación anticipada del arte.
+
+**Alcance y límites:**
+- Mantener la diferenciación de experiencias y edades aprobada en la arquitectura editorial.
+- Mantener la dirección artística D026 y la estructura/reparto editorial aprobados en D020, D026 y D028.
+- Se permiten correcciones puntuales de mapas, secuencia, textos o briefs cuando la visualización revele problemas; documentar los cambios y solicitar aprobación solo si afectan a una decisión estratégica ya aprobada.
+- D025 sigue siendo el límite jurídico aplicable a representaciones reconocibles: uso estrictamente privado; no publicación, comercialización, distribución general, carga en KDP ni entrega a terceros. La muestra privada a ReusCultura solo tras establecer contacto.
+- Esta decisión no aprueba ninguna ilustración concreta, portada, archivo final, formato KDP, licencia ni explotación comercial.
+- La paginación de Petits se acepta como arquitectura editorial de trabajo; la transparencia/transferencia de materiales y la apertura/medianil deben comprobarse mediante dummy físico antes de cerrar producción.
+
+La aprobación de Fase 3 no equivale a aprobación de arte final. La producción visual continuará en un chat nuevo conforme al apartado 7 de INSTRUCCIONES.md por requerir más de 2–3 intervenciones.
