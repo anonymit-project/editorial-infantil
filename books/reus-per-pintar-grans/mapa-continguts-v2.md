@@ -36,17 +36,17 @@ Se mantienen 14 láminas: 7 Seguici, 5 patrimonio y 2 vida urbana/festiva. Las l
 
 ## 3. Parejas enfrentadas y ritmo
 
-| Spread | Páginas | Relación visual |
+| Spread | Láminas enfrentadas | Relación visual |
 |---|---|---|
-| 1 | 1–2 | Vitxets y Carrasclet: figuras humanas, movimiento y atributos |
-| 2 | 3–4 | Mulassa y Àliga: bestiario y figura protocolaria, siluetas contrastadas |
-| 3 | 5–6 | Japonesos y Nanos: parejas y comparsas; contexto cultural diferenciado |
-| 4 | 7–8 | Cercavila y Casa Navàs/Mercadal: fiesta y ciudad, escala colectiva frente a arquitectura |
-| 5 | 9–10 | Institut Pere Mata y Prioral: dos patrimonios con perspectivas distintas |
-| 6 | 11–12 | Boca de la Mina y Teatre Fortuny: agua/paisaje y cultura escénica |
-| 7 | 13–14 | Mercat y preparativos de Festa Major: vida cotidiana y comunidad |
+| 1 | G01–G02 | Vitxets y Carrasclet: figuras humanas, movimiento y atributos |
+| 2 | G03–G04 | Mulassa y Àliga: bestiario y figura protocolaria, siluetas contrastadas |
+| 3 | G05–G06 | Japonesos y Nanos: parejas y comparsas; contexto cultural diferenciado |
+| 4 | G07–G08 | Cercavila y Casa Navàs/Mercadal: fiesta y ciudad, escala colectiva frente a arquitectura |
+| 5 | G09–G10 | Institut Pere Mata y Prioral: dos patrimonios con perspectivas distintas |
+| 6 | G11–G12 | Boca de la Mina y Teatre Fortuny: agua/paisaje y cultura escénica |
+| 7 | G13–G14 | Mercat y preparativos de Festa Major: vida cotidiana y comunidad |
 
-El orden visual puede ajustarse en la maqueta para respetar páginas recto/verso, pero no se altera el reparto 7/5/2 sin una nueva decisión.
+Estas son parejas conceptuales de láminas, no números físicos de página. La paginación final deberá colocar cada pareja en una apertura real (página par a la izquierda y página impar a la derecha), sin alterar el reparto 7/5/2. El orden visual puede ajustarse en la maqueta.
 
 ## 4. Dirección gráfica para 6–8
 
