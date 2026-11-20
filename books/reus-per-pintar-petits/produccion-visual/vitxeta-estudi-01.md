@@ -2,11 +2,11 @@
 
 **Proyecto:** Reus per pintar – petits (3–5 años)  
 **Objetivo:** obtener un estudio individual de la Vitxeta para valorar si puede acompañar al Vitxet en una doble página.  
-**Estado:** prompt preparado; pendiente de ejecutar y revisar. No es arte aprobado ni final.  
+**Estado:** candidato visual recibido; revisión de estilo preliminar completada. No es arte aprobado ni final.  
 **Fecha:** 20-11-2026  
-**Herramienta/modelo:** Gemini; modelo exacto pendiente.  
-**Salida y ubicación:** pendiente.  
-**Evaluación editorial:** pendiente.
+**Herramienta/modelo:** Gemini; modelo exacto no registrado por el usuario.  
+**Salida y ubicación:** `books/reus-per-pintar-petits/assets/vitxeta-estudi-simplificat.jpg` (SHA GitHub `9569730616106f173013cfe3e3f8ce3464f0c91c`).  
+**Evaluación editorial:** visualmente inspeccionada. La figura está completa, aislada sobre blanco y usa contornos gruesos y grandes áreas coloreables, en línea general con el estudio simplificado del Vitxet. El tramado del medallón y algunas divisiones del abanico son más finos de lo ideal para 3–5 años y deben evaluarse para una corrección localizada. No se pudo contrastar la identidad con la fotografía original porque no está presente en la carpeta `assets/` consultada; cara, tocado, vestuario y ornamentos siguen pendientes de cotejo. Estado: candidata, no aprobada.
 
 ## Imágenes que se deben adjuntar
 
@@ -29,10 +29,12 @@ Estilo: dibujo lineal monocromo, tinta negra sobre blanco puro, apto para colore
 
 No incluyas texto, nombres, etiquetas, marco, escenario, otros personajes, niños, músicos, tambor, banderas, logotipos ni escudos. Entrega solo la ilustración individual, sin explicación. Es un estudio privado para revisión editorial; no es arte final ni material autorizado para publicación o venta.
 
-## Revisión pendiente
+## Revisión realizada
 
-Al recibir la salida, comparar con la fotografía original: identidad facial, tocado, indumentaria, silueta y ornamentos visibles. Revisar también que la reducción de detalle no convierta la figura en una geganta genérica y que el nivel de coloreado sea adecuado a 3–5 años. Registrar modelo de Gemini, fecha, archivo generado, iteración, evaluación y correcciones. No integrar la Vitxeta en P01 hasta revisar este estudio.
+Se comprobó en GitHub la existencia del archivo indicado y se inspeccionó visualmente. La silueta es completa, el fondo está limpio y el contorno es grueso. Las zonas del vestido son amplias; el tramado del medallón y las líneas del abanico podrían ser difíciles de colorear para parte del público de 3–5 años. Corrección localizada sugerida para una siguiente iteración: sustituir el tramado por una forma cerrada simple y reducir las divisiones del abanico, solo después de confirmar que esos rasgos no son esenciales para la identidad.
+
+**Pendiente:** comparación de fidelidad con la fotografía original de los Vitxets. La fotografía no está en la carpeta de assets consultada. No se registra aprobación del usuario ni se considera la imagen arte final.
 
 ## Siguiente paso
 
-Adjuntar en Gemini la fotografía original de los dos Vitxets y el estudio simplificado del Vitxet; pegar el prompt anterior. Después traer el resultado para evaluación.
+Usar esta imagen como candidata para componer la pareja con el Vitxet simplificado. En la revisión de la doble página, mantener ambos estudios como referencias separadas y corregir solo defectos concretos.
