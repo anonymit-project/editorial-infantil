@@ -179,3 +179,12 @@ Documentos creados/actualizados:
 **Estado real:** los cuatro PNG numerados de Petits y las dos pruebas de cercavila de Grans están versionados en GitHub. La revisión escrita disponible concluye que los cuatro esbozos de Petits no están aprobados. `Cercavila_gemini.jpg` es candidata visual por cinco músicos, pero no se ha demostrado que corresponda exactamente a la generación valorada; `Gemini_cercavila.jpg` no cumple D022.
 
 **Pendiente:** validar las propuestas editoriales; revisar con especialista cultural el vocabulario de las actividades del Seguici; verificar en maqueta las posiciones cartográficas; hacer prueba física KDP de Petits; comprobar catalán en corrección final. D025 y sus límites permanecen vigentes. No iniciar producción visual ni publicación.
+
+
+## Actualización 20-11-2026 — aprobación editorial y autorización de prototipado visual (D029)
+
+El usuario valida como base de trabajo las propuestas de Fase 3 para los tres títulos y autoriza avanzar al prototipado visual sin exigir una validación abstracta previa de cada página. La intención es valorar los productos cuando exista una primera materialización visual y realizar modificaciones puntuales si algo no funciona.
+
+Se autoriza Fase 4: generar y revisar imágenes individualmente, con trazabilidad de prompts, herramientas, referencias e iteraciones. Ninguna imagen queda aprobada automáticamente. Los briefs son base de producción, no prompts definitivos ni aprobación de arte final. Se mantienen D025 y sus límites de privacidad/no explotación, D026 (dirección artística), D020 (reparto 7/5/2 de Grans) y D028 (32 páginas de Petits). La paginación de Petits es una arquitectura de trabajo pendiente de dummy físico para validar transparencia, transferencia, apertura y medianil.
+
+La aprobación no equivale a licencia, aprobación de ilustraciones, portada, formato KDP definitivo ni autorización comercial. La producción visual debe continuar en un chat nuevo según el apartado 7 de INSTRUCCIONES.md.
