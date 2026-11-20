@@ -32,9 +32,9 @@ Riesgos que deben resolverse antes de ilustrar:
 - **Trazo:** el prototipo propone 2,5–3 mm como trazo principal y 1,8–2 mm como secundario. Es una especificación muy gruesa; KDP establece un mínimo técnico de 0,3 mm para líneas, no exige 2,5–3 mm. No es automáticamente incorrecta para preescolar, pero debe aclararse si se refiere al grosor del trazo o al ancho visual del contorno y probarse con ceras gruesas para evitar que se cierren huecos.
 - **Validación infantil:** la revisión adulta no sustituye una prueba exploratoria con niños de 3–5 años y consentimiento de sus responsables.
 
-## 4. Estructura de paginación recomendada
+## 4. Estructura de paginación histórica (supersedida por D028)
 
-Se mantiene **32 páginas interiores como maqueta de trabajo**, no como especificación cerrada de producción. La secuencia asegura que cada lámina vaya en página impar (recto) y su reverso quede en blanco.
+Se mantiene **32 páginas interiores como maqueta de trabajo**, no como especificación cerrada de producción. Esta propuesta de una lámina por recto con reverso blanco quedó supersedida por D028 y no debe usarse como paginación vigente.
 
 | Página | Contenido | Estado |
 |---:|---|---|
@@ -102,7 +102,7 @@ El umbral del 60% para Amazon.es comienza en 9,99 € de precio de lista; a 9,98
 
 **Conclusión económica:** 32 páginas son viables dentro del escenario documentado y no añaden coste de impresión frente a otras extensiones de 24–110 páginas. No obstante, 9,99 € sigue siendo una hipótesis comercial, no un PVP aprobado. La decisión final depende de comparar el producto terminado con la competencia y del precio que muestre KDP al comprador.
 
-## 6. Recomendación editorial
+## 6. Recomendación editorial histórica (actualizada 20-11-2026)
 
 1. Mantener 32 páginas como dummy de trabajo.
 2. Mantener 14 láminas como hipótesis provisional, sin aprobar aún la selección.
