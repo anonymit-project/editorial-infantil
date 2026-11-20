@@ -111,3 +111,40 @@ Espacios mínimos de trabajo:
 ## 8. Estado
 
 Mapa editorial completo propuesto para validación. Los datos de las fuentes citadas son comprobables, pero las ilustraciones, el mapa esquemático y la solución espacial de D13/D14 requieren revisión cartográfica en la siguiente fase. No iniciar ilustración hasta cerrar briefs y control factual.
+
+
+## 9. Fichas individuales complementarias: visual, espacio, aceptación y derechos
+
+Los campos de objetivo, consigna, solución, fuente y dificultad figuran en las tablas de secuencia. Esta matriz completa los cuatro campos obligatorios restantes para cada actividad: elementos visuales, espacio de respuesta, criterios de aceptación y riesgos de derechos.
+
+| ID | Elementos visuales necesarios | Espacio para responder | Criterios de aceptación específicos | Riesgos de derechos |
+|---|---|---|---|---|
+| D01 | Escena original del Mercadal, Casa Navàs exterior actual, campanario y dos peatones | Imagen ≥55% de página; tres casillas/círculos amplios | Casa Navàs y torre identificables; sin torre desaparecida; peatones distinguibles | Exterior arquitectónico original; excluir mosaicos, vitrales, interiores, fotos y logos |
+| D02 | Fachada modernista original con tres patrones grandes repetidos y distractores claros | Área de imagen amplia y tres espacios para marcar | Solo hay tres grupos válidos o se especifica cuántos; patrón no depende de ornamentación diminuta | No copiar fachada completa, fotografías, placas o mapas; rasgos arquitectónicos generales |
+| D03 | Productos dibujados por separado, agrupados sin ambigüedad | Dos casillas grandes: fruita / verdura; área de imagen suficiente | Clasificación inequívoca y revisada por adulto; no incluir alimentos dudosos | Productos genéricos; sin marcas, envases, comercios ni fotografías |
+| D04 | Paseo esquemático original con camino cerrado, árboles y llegada claramente marcada | Recorrido con línea gruesa y punto de llegada | Camino continuo, sin bifurcaciones engañosas; llegada señalada sin rótulo obligatorio | Paisaje genérico; no copiar fotos ni incluir la escultura de la venedora |
+| D05 | Tres viñetas arquitectónicas distintas y tres tarjetas de pista | Tres líneas de unión separadas; alternativa de casillas A/B/C | Una sola asociación correcta por edificio; pistas factuales exactas | Exteriores dibujados desde cero; sin interiores, carteles o obras artísticas |
+| D06 | Dos tarjetas temporales: construcción y pérdida de la torre | Dos casillas grandes 1/2 y línea de tiempo simple | 1901–1907 y 1938 están diferenciados; no se sugiere que la torre actual exista | Datos factuales libres; no usar foto del bombardeo ni material de Casa Navàs |
+| D07 | Tres viñetas: mina/rec, canal y salida Boca de la Mina; esquema de agua | Tres tarjetas con casillas 1–3 y flechas | La secuencia representa solo el vínculo funcional documentado; no inventa ramales ni trayecto urbano | Diagrama propio; no copiar planos hidráulicos o fotografías |
+| D08 | Cuatro pictogramas genéricos para gegants, nanos, bestiari y balls | Tarjetas separadas y líneas de unión; una línea para respuesta oral/dibujo | Ningún pictograma evoca una figura local; vocabulario revisado por conocedor de cultura festiva | Riesgo bajo si genérico; riesgo alto si se parece a diseño, vestuario o atributo del Seguici |
+| D09 | Lista visual de categorías y pictogramas genéricos; casillas de selección | Casillas grandes junto a cuatro categorías | Las cuatro familias están documentadas; no se presenta como inventario completo de un acto concreto | Texto cultural basado en Generalitat; imágenes no identificables |
+| D10 | Tarjetas de figuras genéricas, animales fantásticos y grupos de baile | Tres áreas amplias de clasificación | Cada imagen pertenece a una sola categoría; no usar rasgos propios de Mulassa, Drac, Àliga u otros | Evitar siluetas y atributos de las 18 unidades sin licencia acreditada |
+| D11 | Retrato/ícono abstracto de arquitecto (no retrato real), mapa simple de Cataluña con Reus marcado, fachada genérica no copiada | Una casilla de respuesta y una pequeña línea de fecha | Respuesta Reus y fecha 25-06-1852; advertir que casa natal es privada/no visitable | No representar interior ni retrato de terceros; no reproducir placas o fotografía de casa |
+| D12 | Diagrama esquemático de pabellones separados por jardín; cifra 11 en pista | Casilla para número y zona de marcar jardín | Si se pregunta por 11, el diagrama debe mostrar exactamente 11 bloques o explicar que son esquemáticos; no contar una ilustración parcial | Arquitectura exterior simplificada; sin interiores, vitrales, mosaicos o mobiliario |
+| D13 | Mapa propio de centro urbano basado en plano turístico oficial, tres marcadores de ruta Modernisme (Casa Navàs #1, Casa Gasull #14, Casa Rull #15) | Línea de recorrido gruesa y tres puntos de parada | Posiciones relativas y trazado contrastados con plano oficial; no incluir distancias no necesarias; orientación coherente | No copiar el mapa oficial, su diseño, pictogramas o numeración gráfica; solo reutilizar datos espaciales |
+| D14 | Mapa esquemático propio con Mercadal, Prioral y Mercat Central; leyenda simple | Tres números para ubicar y un espacio de orientación | Posiciones relativas verificadas en plano turístico municipal; no afirmar escala ni distancias si no se reproducen fielmente | No calcar mapa turístico; usar datos espaciales, no su expresión gráfica |
+| D15 | Tres tarjetas con iconos originales de Prioral, Fortuny y Mercat Central; fechas grandes | Tres casillas numeradas; fechas no se escriben a mano | Orden único: 1569, 1882, 1949; hechos vinculados correctamente | Hechos y fechas no protegidos; ilustraciones originales |
+| D16 | Área de dibujo amplia, iconos de inspiración originales y una frase guía | Recuadro de dibujo de al menos un tercio de página y una línea opcional | Se acepta respuesta abierta; guía adulta no corrige preferencias; el niño puede elegir cualquier lugar | El dibujo del niño no requiere reproducir activos; si el adulto aporta referencia, evitar fotos o logos |
+
+### 10. Cartografía de D13 y D14
+
+Se ha localizado y consultado el plano turístico oficial de Reus Turisme (PDF: https://www.reusturisme.cat/sites/default/files/descarregues/PT2022%20v5.pdf). Incluye:
+- Ruta del Modernisme, con marcadores numerados; Casa Navàs aparece como punto 1, Casa Gasull como 14 y Casa Rull como 15.
+- Puntos de interés con Plaça Mercadal y Prioral de Sant Pere.
+- Mercat Central aparece en la leyenda de mercados.
+
+Esto permite construir mapas esquemáticos propios para D13 y D14. Antes de la ilustración, el diseñador debe contrastar las posiciones relativas y el recorrido con el plano oficial y las fichas municipales actuales. El PDF es una fuente de datos geográficos, no una plantilla que se pueda calcar. No se incorporarán escala, distancias ni tiempos de recorrido si no se validan expresamente.
+
+### 11. Solución de respuestas abiertas
+
+D16 no tiene respuesta única. La guía adulta debe aceptar cualquier lugar de Reus que el niño identifique o describa. Se evalúa que pueda comunicar qué le ha llamado la atención, no que recuerde una fecha o nombre concreto.
