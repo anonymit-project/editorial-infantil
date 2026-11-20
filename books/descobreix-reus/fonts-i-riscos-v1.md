@@ -89,6 +89,6 @@ En la futura maqueta se añadirá una ficha por activo visual con:
 - revisión de derechos;
 - decisión editorial: pendiente / corregir / candidato / aprobado para prototipo.
 
-## 7. Conclusión
+## 7. Cartografía oficial consultada\n\nReus Turisme, plano turístico oficial de Reus (PDF, versión consultada): https://www.reusturisme.cat/sites/default/files/descarregues/PT2022%20v5.pdf. El plano contiene la Ruta del Modernisme con los marcadores 1 (Casa Navàs), 14 (Casa Gasull) y 15 (Casa Rull), además de Plaça Mercadal, Prioral y Mercat Central. Se utiliza solo como fuente espacial; no se copiará su diseño, iconografía, leyenda ni cartografía gráfica. Antes de imprimir, comprobar que las posiciones y el trazado siguen vigentes con fuentes municipales actuales.\n\n## 8. Conclusión
 
 El mapa puede desarrollarse con datos públicos institucionales y pictogramas originales genéricos. Los principales riesgos no están en los hechos históricos o nombres culturales, sino en reproducir diseños concretos, obras artísticas separables, interiores, fotografías, mapas y marcas. La publicación comercial requerirá revisar todos los activos y sus derechos de forma individual.
