@@ -157,3 +157,25 @@ El usuario aprueba desarrollar la arquitectura editorial y contenidos completos 
 
 ## Actualización 19-11-2026 — revisión de impresión de *Petits* (D028)
 El usuario aprueba mantener las composiciones enfrentadas de D026 y modificar la condición de D014: se permite impresión a doble cara cuando sea necesaria para colocar contenido en ambas páginas. Se conserva la maqueta de 32 páginas. La paginación física, distribución de páginas impresas/blancas, experiencia de coloreado y compatibilidad KDP quedan pendientes de resolución y verificación dentro de la Fase 3. No se aprueban contenidos ni ilustraciones.
+
+
+## Actualización 20-11-2026 — desarrollo documental de Fase 3 (D027)
+
+Se han creado propuestas editoriales completas para los tres títulos, pendientes de validación del usuario. No se han aprobado contenidos nuevos ni se han generado ilustraciones o prompts definitivos.
+
+Documentos creados/actualizados:
+- `books/reus-per-pintar-petits/mapa-continguts-v2.md`: secuencia de 14 composiciones enfrentadas, equilibrio de Seguici/patrimonio/vida cotidiana, revisión documental de los cuatro esbozos y criterios de aceptación.
+- `books/reus-per-pintar-petits/proposta-paginacio-v2.md`: paginación física de 32 páginas, páginas individuales para KDP y riesgo de impresión a doble cara.
+- `books/reus-per-pintar-petits/especificacions-composicions-v2.md`: briefs de las 14 composiciones de Petits.
+- `editorial/resolucion-doble-pagina-petits-v1.md`: análisis técnico de D014/D026/D028 y requisitos KDP vigentes consultados el 20-11-2026.
+- `books/reus-per-pintar-grans/mapa-continguts-v2.md`: secuencia de 14 láminas con reparto 7/5/2 y estado de las dos pruebas de cercavila.
+- `books/reus-per-pintar-grans/especificacions-composicions-v2.md`: briefs individuales de las 14 láminas.
+- `books/descobreix-reus/mapa-continguts-v1.md`: 16 actividades secuenciadas, consignas y soluciones; matriz individual de elementos visuales, espacio de respuesta, aceptación y riesgos; plano turístico oficial incorporado como fuente espacial.
+- `books/descobreix-reus/prototip-quatre-activitats-v1.md`: cuatro actividades piloto completas.
+- `books/descobreix-reus/fonts-i-riscos-v1.md`: fuentes factuales, derechos y riesgos por activo.
+
+**Resolución propuesta de Petits:** 32 páginas; portadilla p.1, créditos/instrucción p.2, p.3 en blanco, 14 spreads ilustrados p.4–31 y p.32 en blanco. Las páginas se exportan individualmente y las parejas se diseñan con banda central protegida. La impresión a doble cara implica ilustraciones en ambos lados salvo p.3/p.32; la transparencia/transferencia de ceras queda pendiente de prueba física.
+
+**Estado real:** los cuatro PNG numerados de Petits y las dos pruebas de cercavila de Grans están versionados en GitHub. La revisión escrita disponible concluye que los cuatro esbozos de Petits no están aprobados. `Cercavila_gemini.jpg` es candidata visual por cinco músicos, pero no se ha demostrado que corresponda exactamente a la generación valorada; `Gemini_cercavila.jpg` no cumple D022.
+
+**Pendiente:** validar las propuestas editoriales; revisar con especialista cultural el vocabulario de las actividades del Seguici; verificar en maqueta las posiciones cartográficas; hacer prueba física KDP de Petits; comprobar catalán en corrección final. D025 y sus límites permanecen vigentes. No iniciar producción visual ni publicación.
