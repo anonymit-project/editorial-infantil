@@ -173,7 +173,7 @@ Desarrollo documental realizado el 20-11-2026 bajo D027. No se han aprobado cont
 
 ## Fase 4 – Producción y validación de ilustraciones
 
-**Estado: AUTORIZADA POR D029 — pendiente de ejecución en chat nuevo.**
+**Estado: AUTORIZADA POR D029; ejecución trasladada a un chat nuevo conforme al apartado 7 de INSTRUCCIONES.md.**
 
 - [ ] Preparar fichas visuales y briefs individuales a partir de la arquitectura aprobada.
 - [ ] Producir las ilustraciones una a una mediante Gemini u otra herramienta adecuada.
