@@ -2,7 +2,7 @@
 
 **Data:** 16-11-2026  
 **Versió:** 1.0  
-**Estat:** proposta recomanada, pendent de validar els quatre esbossos gràfics i una prova impresa.
+**Estat:** PROPOSTA HISTÓRICA SUPERSEDIDA per D028 i per `proposta-paginacio-v2.md` (20-11-2026). Es conserva com a antecedent de l'opció d'una cara i reversos blancs; no utilitzar per maquetar.
 
 ## 1. Recomanació
 
