@@ -178,7 +178,7 @@ Documentos creados/actualizados:
 
 **Estado real:** los cuatro PNG numerados de Petits y las dos pruebas de cercavila de Grans están versionados en GitHub. La revisión escrita disponible concluye que los cuatro esbozos de Petits no están aprobados. `Cercavila_gemini.jpg` es candidata visual por cinco músicos, pero no se ha demostrado que corresponda exactamente a la generación valorada; `Gemini_cercavila.jpg` no cumple D022.
 
-**Pendiente:** validar las propuestas editoriales; revisar con especialista cultural el vocabulario de las actividades del Seguici; verificar en maqueta las posiciones cartográficas; hacer prueba física KDP de Petits; comprobar catalán en corrección final. D025 y sus límites permanecen vigentes. No iniciar producción visual ni publicación.
+**Estado actualizado por D029 (20-11-2026):** las propuestas editoriales quedan validadas como base de trabajo y se autoriza el prototipado visual de Fase 4. Siguen pendientes la revisión cultural del vocabulario, la comprobación cartográfica en maqueta, la prueba física KDP de Petits y la corrección final del catalán. D025 y sus límites permanecen vigentes.
 
 
 ## Actualización 20-11-2026 — aprobación editorial y autorización de prototipado visual (D029)
