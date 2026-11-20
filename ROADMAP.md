@@ -103,7 +103,7 @@ La aprobación artística no cierra contenidos, paginación, formato KDP, ilustr
 
 ## Fase 3 – Arquitectura editorial y contenidos de los tres libros
 
-**Estado: PROPUESTA DOCUMENTAL COMPLETA — PENDIENTE DE VALIDACIÓN EDITORIAL DEL USUARIO.**  
+**Estado: VALIDADA COMO BASE EDITORIAL DE TRABAJO (D029, 20-11-2026).**  
 Desarrollo documental realizado el 20-11-2026 bajo D027. No se han aprobado contenidos nuevos, ilustraciones ni explotación comercial.
 
 ### 3.1 Reus per pintar – petits
@@ -164,16 +164,16 @@ Desarrollo documental realizado el 20-11-2026 bajo D027. No se han aprobado cont
 - [x] Las actividades de Descobreix tienen consigna, solución, fuente, nivel, visual, espacio, aceptación y riesgo.
 - [x] Cada futura ilustración dispone de brief individual y criterios de aceptación.
 - [x] No se han generado ilustraciones ni prompts definitivos.
-- [ ] Validación editorial del usuario.
+- [x] Validación editorial del usuario (D029); se permiten modificaciones puntuales tras visualizar el producto.
 - [ ] Prueba física de Petits y comprobación final de KDP antes de cerrar especificaciones de impresión.
 
-**Nota:** la Fase 3 queda desarrollada documentalmente, pero no se declara aprobada ni habilita la Fase 4 hasta validar las propuestas. La validación editorial tampoco equivale a licencia de derechos, aprobación de arte final o autorización comercial.
+**Nota:** Fase 3 validada como arquitectura editorial de trabajo mediante D029 y habilita Fase 4. Los contenidos pueden ajustarse puntualmente al revisar los prototipos visuales. La validación no equivale a licencia de derechos, aprobación de arte final ni autorización comercial.
 
 ---
 
 ## Fase 4 – Producción y validación de ilustraciones
 
-**Estado: PENDIENTE.**
+**Estado: AUTORIZADA POR D029 — pendiente de ejecución en chat nuevo.**
 
 - [ ] Preparar fichas visuales y briefs individuales a partir de la arquitectura aprobada.
 - [ ] Producir las ilustraciones una a una mediante Gemini u otra herramienta adecuada.
@@ -241,6 +241,6 @@ Desarrollo documental realizado el 20-11-2026 bajo D027. No se han aprobado cont
 
 ## Próximo hito
 
-**Validación editorial de las propuestas de Fase 3.** La documentación está desarrollada y verificada en GitHub, pero sus contenidos siguen siendo propuestas, no decisiones aprobadas. La siguiente acción es revisar y validar los mapas y briefs de los tres títulos, especialmente la selección de figuras del Seguici y la arquitectura de Petits.
+**Fase 4 — prototipado visual de los tres libros.** Autorizada por D029. Trabajar imagen a imagen, empezando por la primera pieza de cada libro según los briefs individuales y la dirección artística D026. El usuario quiere valorar el producto visualmente y realizar cambios puntuales si algo no encaja; no exigir aprobación abstracta de cada página antes de producir el primer esbozo.
 
-La prueba física de Petits deberá comprobar transparencia/transferencia de ceras, apertura y medianil con un dummy de 32 páginas. Confirmar en el configurador KDP el tamaño personalizado y la plantilla final. No iniciar ilustraciones hasta validar la arquitectura editorial. D025 sigue vigente, con sus límites de privacidad y no explotación.
+Mantener trazabilidad por imagen y revisión editorial antes de continuar con la siguiente. D025 sigue vigente: los prototipos reconocibles son estrictamente privados, no se publican, venden, distribuyen, cargan en KDP ni entregan a terceros. No se cierra formato KDP ni se aprueba arte final. Para Petits, planificar dummy físico y prueba de coloreado antes de cerrar producción.
