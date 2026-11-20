@@ -81,9 +81,9 @@ Cada una de las 28 páginas se ejecutará con una ficha individual que contenga:
 
 La maqueta de 32 páginas se resolverá en 14 dobles páginas ilustradas coordinadas (páginas 4–31), más:
 - p. 1: portadilla/título;
-- p. 2–3: bienvenida e instrucciones visuales en catalán;
+- p. 2: créditos, nota de uso e instrucción breve en catalán; p. 3 en blanco;
 - p. 4–31: 14 composiciones enfrentadas;
-- p. 32: cierre breve o página de dibujo libre, a decidir en maqueta.
+- p. 32: en blanco, como protección del reverso de la última lámina.
 
 Las composiciones se exportarán como páginas individuales consecutivas; nunca como archivo 2-up. Se protegerá una banda central amplia: ningún rostro, silueta esencial, texto, abertura arquitectónica principal ni contorno de objeto podrá cruzar o acercarse al medianil. Cada página debe seguir funcionando por sí sola si el pliegue reduce visibilidad.
 
