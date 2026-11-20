@@ -103,65 +103,71 @@ La aprobación artística no cierra contenidos, paginación, formato KDP, ilustr
 
 ## Fase 3 – Arquitectura editorial y contenidos de los tres libros
 
-**Estado: SIGUIENTE FASE — PENDIENTE DE DESARROLLO.**
+**Estado: PROPUESTA DOCUMENTAL COMPLETA — PENDIENTE DE VALIDACIÓN EDITORIAL DEL USUARIO.**  
+Desarrollo documental realizado el 20-11-2026 bajo D027. No se han aprobado contenidos nuevos, ilustraciones ni explotación comercial.
 
 ### 3.1 Reus per pintar – petits
 
-- [x] Consultar el mapa de contenidos existente (16 motivos documentados; selección priorizada propuesta, no definitiva).
-- [x] Consultar la especificación del prototipo editorial de cuatro páginas.
-- [x] Auditar los cuatro esbozos existentes; ninguno está aprobado para producción.
-- [ ] Revisar el mapa de contenidos a la luz de D026: combinar Seguici Festiu con patrimonio arquitectónico y espacios emblemáticos reconocibles.
-- [ ] Seleccionar y secuenciar los motivos, evitando que el libro quede limitado a gegants o escenas festivas.
-- [ ] Revisar la adecuación de cada motivo a 3–5 años: reconocimiento, lectura inmediata, grandes zonas coloreables y baja carga cognitiva.
-- [ ] Diseñar las parejas de páginas enfrentadas como unidades compositivas coordinadas.
-- [ ] Resolver la relación entre la composición a doble página y D014: estructura de 32 páginas, láminas impresas a una cara y reversos en blanco.
-- [ ] Definir qué páginas forman cada pareja, qué elementos pueden ser autónomos y cómo se protege el medianil, sin presuponer que la ilustración debe cruzar el pliegue.
-- [ ] Actualizar mapa, paginación y especificaciones tras la resolución anterior.
+- [x] Revisar el mapa v1 y los 16 motivos existentes.
+- [x] Proponer una selección y secuencia equilibrada, con Seguici, patrimonio y vida cotidiana.
+- [x] Definir 14 composiciones enfrentadas y briefs individuales.
+- [x] Revisar documentalmente los cuatro esbozos existentes; ninguno se aprueba automáticamente.
+- [x] Resolver la arquitectura de 32 páginas conforme a D014/D026/D028.
+- [x] Definir paginación física, páginas individuales para KDP, medianil y riesgo de impresión a doble cara.
+- [ ] Validar la selección editorial y los briefs.
+- [ ] Hacer dummy físico y prueba de coloreado con ceras/lápices.
 
-**Documentos de partida:**
-- `books/reus-per-pintar-petits/mapa-continguts-v1.md`
-- `books/reus-per-pintar-petits/prototip-editorial-v1.md`
+**Documentos:**
+- `books/reus-per-pintar-petits/mapa-continguts-v2.md`
+- `books/reus-per-pintar-petits/proposta-paginacio-v2.md`
+- `books/reus-per-pintar-petits/especificacions-composicions-v2.md`
+- `editorial/resolucion-doble-pagina-petits-v1.md`
 
 ### 3.2 Reus per pintar – grans
 
-- [x] Consultar el mapa de contenidos v1.1 y la especificación del prototipo.
-- [x] Mantener aprobados el mapa v1.1 y el equilibrio orientativo 7/5/2 sobre 14 láminas (D020).
-- [x] Mantener aprobada la especificación de cuatro páginas de prototipo y el ajuste de cinco músicos variados en la cercavila (D021–D022).
-- [x] Revisar las pruebas visuales disponibles: `Cercavila_gemini.jpg` es candidata por incluir cinco músicos; `Gemini_cercavila.jpg` no cumple D022.
-- [ ] Verificar la procedencia y versión exacta de la cercavila valorada favorablemente.
-- [ ] Completar la selección y secuencia de motivos respetando el eje prioritario del Seguici y el patrimonio como segundo eje.
-- [ ] Traducir el equilibrio 7/5/2 a una arquitectura de dobles páginas coherente.
-- [ ] Resolver la composición enfrentada y la protección del medianil, sin asumir que la ilustración debe atravesar el pliegue.
-- [ ] Revisar que las escenas tengan variedad de encuadres, profundidad y movimiento y no repitan fondos o composiciones.
-- [ ] Actualizar mapa y especificación de prototipo cuando se cierre la arquitectura.
+- [x] Mantener el mapa v1.1 y la distribución 7/5/2 sobre 14 láminas (D020).
+- [x] Proponer selección y secuencia de 14 láminas del Seguici, patrimonio y vida urbana/festiva.
+- [x] Organizar siete parejas enfrentadas y variar encuadres, profundidad y movimiento.
+- [x] Crear briefs individuales para las 14 láminas.
+- [x] Comprobar la existencia de `Cercavila_gemini.jpg` y `Gemini_cercavila.jpg`; conservar la primera como candidata, no aprobada, y la segunda como prueba no conforme a D022.
+- [ ] Recuperar la ficha de generación que identifique la versión valorada por el usuario; la trazabilidad no está demostrada.
+- [ ] Validar editorial y culturalmente la selección de figuras protegidas.
 
-**Documentos de partida:**
-- `books/reus-per-pintar-grans/mapa-continguts-v1.md`
-- `books/reus-per-pintar-grans/especificacio-prototip-v1.md`
+**Documentos:**
+- `books/reus-per-pintar-grans/mapa-continguts-v2.md`
+- `books/reus-per-pintar-grans/especificacions-composicions-v2.md`
 - `books/reus-per-pintar-grans/brief-generacion-externa-esbozos-v1.md`
 
 ### 3.3 Descobreix Reus!
 
-- [x] Crear el documento de arranque editorial inicial.
-- [ ] Desarrollar un mapa editorial completo y secuenciado, con aproximadamente 12–20 actividades y fuentes verificables.
-- [ ] Definir la progresión para edades 5–8 y alternar familias de actividad: observación, búsqueda, mapas, recorridos, asociación, clasificación, secuencias, curiosidades y comprensión.
-- [ ] Definir el tratamiento del Seguici Festiu como tradición cultural: contexto, nombres, vocabulario y actividades, distinguiendo información cultural de reproducción de diseños concretos.
-- [ ] Seleccionar lugares, contenidos y datos con fuentes contrastadas.
-- [ ] Diseñar un prototipo de cuatro actividades variadas y revisar claridad, dificultad, autonomía y atractivo.
-- [ ] Definir arquitectura y paginación provisional del libro.
-- [ ] Evitar duplicaciones de experiencia con los dos libros para colorear.
+- [x] Desarrollar mapa secuenciado de 16 actividades y cuatro bloques de dificultad.
+- [x] Redactar instrucciones en catalán y soluciones esperadas.
+- [x] Añadir para cada actividad elementos visuales, espacio de respuesta, criterios de aceptación y riesgos.
+- [x] Incorporar fuentes primarias/institucionales para datos históricos y culturales.
+- [x] Consultar el plano turístico oficial como fuente espacial para D13/D14; no copiar su diseño.
+- [x] Crear prototipo textual de cuatro actividades variadas.
+- [x] Documentar fuentes, derechos y riesgos por activo.
+- [ ] Validar vocabulario cultural con especialista y corregir el catalán en maqueta.
+- [ ] Comprobar las posiciones cartográficas en la maqueta final.
 
-**Documento de partida:** `books/descobreix-reus/plan-editorial-inicial-v1.md`
+**Documentos:**
+- `books/descobreix-reus/mapa-continguts-v1.md`
+- `books/descobreix-reus/prototip-quatre-activitats-v1.md`
+- `books/descobreix-reus/fonts-i-riscos-v1.md`
 
 ### Criterios de cierre de la Fase 3
 
-- [ ] Los tres libros tienen mapas editoriales y secuencias coherentes.
-- [ ] Los contenidos están diferenciados y no repiten la misma experiencia.
-- [ ] Las dobles páginas de *Petits* y *Grans* están definidas de forma compatible con impresión y encuadernación.
-- [ ] La estructura de *Petits* resuelve expresamente la relación entre D014 y D026.
-- [ ] Los textos y actividades tienen objetivo, fuente y nivel de dificultad definidos.
-- [ ] Cada futura ilustración dispone de un brief individual y criterios de aceptación.
-- [ ] No se inicia la producción visual de páginas no especificadas.
+- [x] Los tres libros tienen mapas editoriales y secuencias completas propuestas.
+- [x] Las experiencias están diferenciadas: Petits reconoce y colorea; Grans observa e imagina mientras colorea; Descobreix explora y juega.
+- [x] Las dobles páginas de Petits y Grans están definidas con protección del medianil.
+- [x] La estructura de 32 páginas de Petits resuelve la relación entre D014, D026 y D028 a nivel de arquitectura.
+- [x] Las actividades de Descobreix tienen consigna, solución, fuente, nivel, visual, espacio, aceptación y riesgo.
+- [x] Cada futura ilustración dispone de brief individual y criterios de aceptación.
+- [x] No se han generado ilustraciones ni prompts definitivos.
+- [ ] Validación editorial del usuario.
+- [ ] Prueba física de Petits y comprobación final de KDP antes de cerrar especificaciones de impresión.
+
+**Nota:** la Fase 3 queda desarrollada documentalmente, pero no se declara aprobada ni habilita la Fase 4 hasta validar las propuestas. La validación editorial tampoco equivale a licencia de derechos, aprobación de arte final o autorización comercial.
 
 ---
 
